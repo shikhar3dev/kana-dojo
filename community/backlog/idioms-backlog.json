@@ -195,7 +195,7 @@
     "meaning": "Feel indebted or unable to oppose someone. (Set 2)",
     "id": 22,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "腰が重い",
@@ -204,7 +204,7 @@
     "meaning": "Slow to start doing something. (Set 2)",
     "id": 23,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "顔が広い",
@@ -213,7 +213,7 @@
     "meaning": "Have many connections. (Set 2)",
     "id": 24,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "口が堅い",
@@ -266,7 +266,7 @@
     "english": "Fast ears",
     "meaning": "Quick to hear news/gossip. (Set 2)",
     "id": 30,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
