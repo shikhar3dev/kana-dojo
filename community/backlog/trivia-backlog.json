@@ -10,7 +10,7 @@
       "Kanazawa"
     ],
     "correctIndex": 1,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -24,7 +24,7 @@
       "Kairo"
     ],
     "correctIndex": 0,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -39,7 +39,7 @@
     ],
     "correctIndex": 1,
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 4,
@@ -66,7 +66,7 @@
       "Kyushu"
     ],
     "correctIndex": 1,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -136,7 +136,7 @@
       "Arctic Ocean"
     ],
     "correctIndex": 2,
-    "completed": true,
+    "completed": false,
     "issued": false
   },
   {
@@ -151,7 +151,7 @@
     ],
     "correctIndex": 1,
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 12,
@@ -248,7 +248,7 @@
       "Okayama"
     ],
     "correctIndex": 0,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -277,7 +277,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 21,
@@ -291,7 +291,7 @@
     ],
     "correctIndex": 1,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 22,
@@ -305,7 +305,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 23,
@@ -319,7 +319,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 24,
@@ -333,7 +333,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 25,
@@ -346,7 +346,7 @@
       "Reversi"
     ],
     "correctIndex": 0,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -361,7 +361,7 @@
     ],
     "correctIndex": 1,
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 27,
@@ -641,7 +641,7 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 47,
@@ -683,7 +683,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 50,
@@ -696,7 +696,7 @@
       "Himeji Castle"
     ],
     "correctIndex": 0,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -729,7 +729,7 @@
   },
   {
     "id": 53,
-    "question": "Which mountain is Japan’s highest peak?",
+    "question": "Which mountain is Japan\u2019s highest peak?",
     "difficulty": "easy",
     "answers": [
       "Mount Fuji",
@@ -743,7 +743,7 @@
   },
   {
     "id": 54,
-    "question": "What is the name of Japan’s national public broadcaster?",
+    "question": "What is the name of Japan\u2019s national public broadcaster?",
     "difficulty": "medium",
     "answers": [
       "NHK",
@@ -767,7 +767,7 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 56,
@@ -822,7 +822,7 @@
       "Hiroshima"
     ],
     "correctIndex": 0,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -883,7 +883,7 @@
   },
   {
     "id": 64,
-    "question": "What is Japan’s currency called?",
+    "question": "What is Japan\u2019s currency called?",
     "difficulty": "easy",
     "answers": [
       "Yen",
@@ -962,7 +962,7 @@
       "Chankonabe"
     ],
     "correctIndex": 0,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1037,7 +1037,7 @@
   },
   {
     "id": 75,
-    "question": "What is the name of Japan’s largest lake?",
+    "question": "What is the name of Japan\u2019s largest lake?",
     "difficulty": "medium",
     "answers": [
       "Lake Biwa",
@@ -1074,7 +1074,7 @@
       "Furoshiki"
     ],
     "correctIndex": 0,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1117,7 +1117,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 81,
@@ -1131,7 +1131,7 @@
     ],
     "correctIndex": 1,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 82,
@@ -1145,7 +1145,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 83,
@@ -1159,7 +1159,7 @@
     ],
     "correctIndex": 1,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 84,
@@ -1173,7 +1173,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 85,
@@ -1186,7 +1186,7 @@
       "Kyushu"
     ],
     "correctIndex": 1,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1257,7 +1257,7 @@
     ],
     "correctIndex": 2,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 91,
@@ -1271,7 +1271,7 @@
     ],
     "correctIndex": 1,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 92,
@@ -1285,7 +1285,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 93,
@@ -1298,7 +1298,7 @@
       "Tabi"
     ],
     "correctIndex": 0,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1312,7 +1312,7 @@
       "Kyushu"
     ],
     "correctIndex": 3,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1326,7 +1326,7 @@
       "Mount Tate"
     ],
     "correctIndex": 1,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1340,7 +1340,7 @@
       "Winter"
     ],
     "correctIndex": 2,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1495,7 +1495,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 108,
@@ -1509,7 +1509,7 @@
     ],
     "correctIndex": 1,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 109,
@@ -1523,7 +1523,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 110,
@@ -1536,7 +1536,7 @@
       "Kyogen"
     ],
     "correctIndex": 0,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1592,7 +1592,7 @@
       "Okonomiyaki"
     ],
     "correctIndex": 0,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1677,7 +1677,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 121,
@@ -1691,7 +1691,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 122,
@@ -1705,7 +1705,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 123,
@@ -1719,7 +1719,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 124,
@@ -1732,7 +1732,7 @@
       "Yakitori"
     ],
     "correctIndex": 0,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1747,7 +1747,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 126,
@@ -1761,7 +1761,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 127,
@@ -1775,7 +1775,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 128,
@@ -1789,7 +1789,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 129,
@@ -1803,7 +1803,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 130,
@@ -1816,7 +1816,7 @@
       "Himeji Castle"
     ],
     "correctIndex": 0,
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1831,7 +1831,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 132,
@@ -1845,11 +1845,11 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 133,
-    "question": "Which mountain is Japan’s highest peak? (Community variation 53)",
+    "question": "Which mountain is Japan\u2019s highest peak? (Community variation 53)",
     "difficulty": "easy",
     "answers": [
       "Mount Fuji",
@@ -1859,11 +1859,11 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 134,
-    "question": "What is the name of Japan’s national public broadcaster? (Community variation 54)",
+    "question": "What is the name of Japan\u2019s national public broadcaster? (Community variation 54)",
     "difficulty": "medium",
     "answers": [
       "NHK",
@@ -1873,7 +1873,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 135,
@@ -1887,7 +1887,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 136,
@@ -1901,7 +1901,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 137,
@@ -1915,7 +1915,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 138,
@@ -1929,7 +1929,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 139,
@@ -1943,7 +1943,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 140,
@@ -1957,6 +1957,6 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": true
+    "completed": false
   }
 ]

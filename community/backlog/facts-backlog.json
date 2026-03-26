@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "fact": "Japan has a word 'kuchisabishii' (口寂しい) that literally means 'lonely mouth' - the feeling of eating when you're not hungry, just because your mouth wants something to do.",
+    "fact": "Japan has a word 'kuchisabishii' (\u53e3\u5bc2\u3057\u3044) that literally means 'lonely mouth' - the feeling of eating when you're not hungry, just because your mouth wants something to do.",
     "issued": false,
     "completed": false
   },
   {
     "id": 2,
-    "fact": "There's a Japanese practice called 'inemuri' (居眠り) - sleeping while present - where napping in public or at work is seen as a sign of dedication rather than laziness.",
+    "fact": "There's a Japanese practice called 'inemuri' (\u5c45\u7720\u308a) - sleeping while present - where napping in public or at work is seen as a sign of dedication rather than laziness.",
     "issued": false,
     "completed": false
   },
@@ -19,7 +19,7 @@
   },
   {
     "id": 4,
-    "fact": "The Japanese word 'age-otori' (上げ劣り) describes the specific experience of looking worse after a haircut - a feeling so common it needed its own word.",
+    "fact": "The Japanese word 'age-otori' (\u4e0a\u3052\u52a3\u308a) describes the specific experience of looking worse after a haircut - a feeling so common it needed its own word.",
     "issued": false,
     "completed": false
   },
@@ -32,12 +32,12 @@
   {
     "id": 6,
     "fact": "There are over 5.5 million vending machines in Japan - one for every 23 people - selling everything from hot ramen to fresh eggs to underwear.",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
     "id": 7,
-    "fact": "Japan has a word 'tarento' (タレント) for TV personalities who are famous simply for being on TV - not actors or musicians, just professional celebrities.",
+    "fact": "Japan has a word 'tarento' (\u30bf\u30ec\u30f3\u30c8) for TV personalities who are famous simply for being on TV - not actors or musicians, just professional celebrities.",
     "issued": false,
     "completed": false
   },
@@ -49,13 +49,13 @@
   },
   {
     "id": 9,
-    "fact": "The Japanese concept of 'ma' (間) refers to the meaningful pause or negative space in music, art, and conversation - the beauty of what's not there.",
+    "fact": "The Japanese concept of 'ma' (\u9593) refers to the meaningful pause or negative space in music, art, and conversation - the beauty of what's not there.",
     "issued": false,
     "completed": false
   },
   {
     "id": 10,
-    "fact": "Raw horse meat, called 'basashi' (馬刺し), is a popular delicacy in Kumamoto prefecture, often served frozen or thinly sliced with soy sauce and ginger.",
+    "fact": "Raw horse meat, called 'basashi' (\u99ac\u523a\u3057), is a popular delicacy in Kumamoto prefecture, often served frozen or thinly sliced with soy sauce and ginger.",
     "issued": false,
     "completed": false
   },
@@ -67,7 +67,7 @@
   },
   {
     "id": 12,
-    "fact": "The word 'bakku-shan' (バックシャン) describes someone who looks attractive from behind but not from the front - a uniquely specific observation.",
+    "fact": "The word 'bakku-shan' (\u30d0\u30c3\u30af\u30b7\u30e3\u30f3) describes someone who looks attractive from behind but not from the front - a uniquely specific observation.",
     "issued": false,
     "completed": false
   },
@@ -75,17 +75,17 @@
     "id": 13,
     "fact": "Japanese police use giant futon-like blankets called 'sasumata' to safely pin suspects against walls, a technique dating back to the Edo period.",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 14,
-    "fact": "There's a Japanese concept called 'kaizen' (改善) meaning continuous improvement, which became a cornerstone of global manufacturing practices.",
-    "issued": true,
+    "fact": "There's a Japanese concept called 'kaizen' (\u6539\u5584) meaning continuous improvement, which became a cornerstone of global manufacturing practices.",
+    "issued": false,
     "completed": false
   },
   {
     "id": 15,
-    "fact": "The Japanese word 'shoganai' (しょうがない) expresses accepting what cannot be changed - a cultural philosophy of graceful resignation.",
+    "fact": "The Japanese word 'shoganai' (\u3057\u3087\u3046\u304c\u306a\u3044) expresses accepting what cannot be changed - a cultural philosophy of graceful resignation.",
     "issued": false,
     "completed": false
   },
@@ -115,19 +115,19 @@
   },
   {
     "id": 20,
-    "fact": "The word 'karoshi' (過労死) meaning 'death from overwork' is so prevalent that it's recognized as a legal cause of death with compensated claims.",
-    "issued": true,
+    "fact": "The word 'karoshi' (\u904e\u52b4\u6b7b) meaning 'death from overwork' is so prevalent that it's recognized as a legal cause of death with compensated claims.",
+    "issued": false,
     "completed": false
   },
   {
     "id": 21,
-    "fact": "Japan's oldest company, Kongō Gumi, was a construction company that operated continuously for 1,428 years (578-2006 CE) before being absorbed.",
-    "issued": true,
+    "fact": "Japan's oldest company, Kong\u014d Gumi, was a construction company that operated continuously for 1,428 years (578-2006 CE) before being absorbed.",
+    "issued": false,
     "completed": false
   },
   {
     "id": 22,
-    "fact": "There's a Japanese word 'komorebi' (木漏れ日) specifically for sunlight filtering through leaves - no direct English translation exists.",
+    "fact": "There's a Japanese word 'komorebi' (\u6728\u6f0f\u308c\u65e5) specifically for sunlight filtering through leaves - no direct English translation exists.",
     "issued": false,
     "completed": false
   },
@@ -139,7 +139,7 @@
   },
   {
     "id": 24,
-    "fact": "The Japanese word 'natsukashii' (懐かしい) describes nostalgic longing that's bittersweet rather than sad - missing something while appreciating the memory.",
+    "fact": "The Japanese word 'natsukashii' (\u61d0\u304b\u3057\u3044) describes nostalgic longing that's bittersweet rather than sad - missing something while appreciating the memory.",
     "issued": false,
     "completed": false
   },
@@ -151,7 +151,7 @@
   },
   {
     "id": 26,
-    "fact": "The concept of 'wabi-sabi' (侘寂) finds beauty in imperfection and impermanence - a cracked bowl is more valuable because of its history.",
+    "fact": "The concept of 'wabi-sabi' (\u4f98\u5bc2) finds beauty in imperfection and impermanence - a cracked bowl is more valuable because of its history.",
     "issued": false,
     "completed": false
   },
@@ -175,7 +175,7 @@
   },
   {
     "id": 30,
-    "fact": "The Japanese word 'boketto' (ぼけっと) describes the act of gazing vacantly into the distance without thinking about anything specific.",
+    "fact": "The Japanese word 'boketto' (\u307c\u3051\u3063\u3068) describes the act of gazing vacantly into the distance without thinking about anything specific.",
     "issued": false,
     "completed": false
   },
@@ -187,8 +187,8 @@
   },
   {
     "id": 32,
-    "fact": "The practice of 'nemawashi' (根回し) means building consensus before a meeting so decisions appear unanimous - the actual negotiation happens beforehand.",
-    "issued": true,
+    "fact": "The practice of 'nemawashi' (\u6839\u56de\u3057) means building consensus before a meeting so decisions appear unanimous - the actual negotiation happens beforehand.",
+    "issued": false,
     "completed": false
   },
   {
@@ -205,7 +205,7 @@
   },
   {
     "id": 35,
-    "fact": "The word 'hikikomori' (引きこもり) describes people who withdraw completely from society, sometimes staying in their rooms for years.",
+    "fact": "The word 'hikikomori' (\u5f15\u304d\u3053\u3082\u308a) describes people who withdraw completely from society, sometimes staying in their rooms for years.",
     "issued": false,
     "completed": false
   },
@@ -223,7 +223,7 @@
   },
   {
     "id": 38,
-    "fact": "The word 'gaman' (我慢) means enduring the seemingly unbearable with patience and dignity - a core Japanese cultural value.",
+    "fact": "The word 'gaman' (\u6211\u6162) means enduring the seemingly unbearable with patience and dignity - a core Japanese cultural value.",
     "issued": false,
     "completed": false
   },
@@ -241,7 +241,7 @@
   },
   {
     "id": 41,
-    "fact": "The Japanese word 'yūgen' (幽玄) describes a profound awareness of the universe that triggers emotional responses too deep for words.",
+    "fact": "The Japanese word 'y\u016bgen' (\u5e7d\u7384) describes a profound awareness of the universe that triggers emotional responses too deep for words.",
     "issued": false,
     "completed": false
   },
@@ -253,7 +253,7 @@
   },
   {
     "id": 43,
-    "fact": "There's a Japanese word 'betsu-bara' (別腹) meaning 'separate stomach' - the idea that there's always room for dessert even when full.",
+    "fact": "There's a Japanese word 'betsu-bara' (\u5225\u8179) meaning 'separate stomach' - the idea that there's always room for dessert even when full.",
     "issued": false,
     "completed": false
   },
@@ -265,7 +265,7 @@
   },
   {
     "id": 45,
-    "fact": "The Japanese word 'mono no aware' (物の哀れ) describes the bittersweetness of passing time and the gentle sadness of things.",
+    "fact": "The Japanese word 'mono no aware' (\u7269\u306e\u54c0\u308c) describes the bittersweetness of passing time and the gentle sadness of things.",
     "issued": false,
     "completed": false
   },
@@ -277,7 +277,7 @@
   },
   {
     "id": 47,
-    "fact": "There's a Japanese concept called 'ikigai' (生き甲斐) - your reason for being - found at the intersection of what you love, need, and can be paid for.",
+    "fact": "There's a Japanese concept called 'ikigai' (\u751f\u304d\u7532\u6590) - your reason for being - found at the intersection of what you love, need, and can be paid for.",
     "issued": false,
     "completed": false
   },
@@ -289,7 +289,7 @@
   },
   {
     "id": 49,
-    "fact": "The word 'amae' (甘え) describes depending on another's goodwill - a uniquely Japanese concept of presuming on someone's affection.",
+    "fact": "The word 'amae' (\u7518\u3048) describes depending on another's goodwill - a uniquely Japanese concept of presuming on someone's affection.",
     "issued": false,
     "completed": false
   },
@@ -313,7 +313,7 @@
   },
   {
     "id": 53,
-    "fact": "The Japanese word 'shibui' (渋い) describes a subtle, unobtrusive beauty that grows on you over time - the opposite of flashy.",
+    "fact": "The Japanese word 'shibui' (\u6e0b\u3044) describes a subtle, unobtrusive beauty that grows on you over time - the opposite of flashy.",
     "issued": false,
     "completed": false
   },
@@ -325,7 +325,7 @@
   },
   {
     "id": 55,
-    "fact": "The concept of 'omotenashi' (おもてなし) is Japanese hospitality that anticipates needs before guests even realize them.",
+    "fact": "The concept of 'omotenashi' (\u304a\u3082\u3066\u306a\u3057) is Japanese hospitality that anticipates needs before guests even realize them.",
     "issued": false,
     "completed": false
   },
@@ -337,7 +337,7 @@
   },
   {
     "id": 57,
-    "fact": "There's a Japanese word 'tsujigiri' (辻斬り) that historically meant testing a new sword on a random passerby - thankfully outlawed centuries ago.",
+    "fact": "There's a Japanese word 'tsujigiri' (\u8fbb\u65ac\u308a) that historically meant testing a new sword on a random passerby - thankfully outlawed centuries ago.",
     "issued": false,
     "completed": false
   },
@@ -349,7 +349,7 @@
   },
   {
     "id": 59,
-    "fact": "The word 'sawari' (触り) in Japanese means both 'touch' and 'the most interesting part' - suggesting you save the best for touching.",
+    "fact": "The word 'sawari' (\u89e6\u308a) in Japanese means both 'touch' and 'the most interesting part' - suggesting you save the best for touching.",
     "issued": false,
     "completed": false
   },
@@ -361,8 +361,8 @@
   },
   {
     "id": 61,
-    "fact": "The Japanese concept 'kintsugi' (金継ぎ) repairs broken pottery with gold, making the piece more valuable by highlighting its history.",
-    "issued": true,
+    "fact": "The Japanese concept 'kintsugi' (\u91d1\u7d99\u304e) repairs broken pottery with gold, making the piece more valuable by highlighting its history.",
+    "issued": false,
     "completed": false
   },
   {
@@ -373,7 +373,7 @@
   },
   {
     "id": 63,
-    "fact": "There's a Japanese word 'aware' (哀れ) that originally just meant 'ah!' - an exclamation that evolved to represent deep emotion.",
+    "fact": "There's a Japanese word 'aware' (\u54c0\u308c) that originally just meant 'ah!' - an exclamation that evolved to represent deep emotion.",
     "issued": false,
     "completed": false
   },
@@ -385,7 +385,7 @@
   },
   {
     "id": 65,
-    "fact": "The word 'mottainai' (もったいない) expresses deep regret over waste - a concept that sparked modern recycling movements worldwide.",
+    "fact": "The word 'mottainai' (\u3082\u3063\u305f\u3044\u306a\u3044) expresses deep regret over waste - a concept that sparked modern recycling movements worldwide.",
     "issued": false,
     "completed": false
   },
@@ -397,7 +397,7 @@
   },
   {
     "id": 67,
-    "fact": "There's a Japanese practice called 'kuuki wo yomu' (空気を読む) - reading the air - understanding unspoken social cues.",
+    "fact": "There's a Japanese practice called 'kuuki wo yomu' (\u7a7a\u6c17\u3092\u8aad\u3080) - reading the air - understanding unspoken social cues.",
     "issued": false,
     "completed": false
   },
@@ -409,8 +409,8 @@
   },
   {
     "id": 69,
-    "fact": "The Japanese word 'koi no yokan' (恋の予感) describes knowing you'll inevitably fall in love with someone you just met.",
-    "issued": true,
+    "fact": "The Japanese word 'koi no yokan' (\u604b\u306e\u4e88\u611f) describes knowing you'll inevitably fall in love with someone you just met.",
+    "issued": false,
     "completed": false
   },
   {
@@ -421,7 +421,7 @@
   },
   {
     "id": 71,
-    "fact": "The concept of 'gambaru' (頑張る) means to persist and give your best - so fundamental that kids learn it before they start school.",
+    "fact": "The concept of 'gambaru' (\u9811\u5f35\u308b) means to persist and give your best - so fundamental that kids learn it before they start school.",
     "issued": false,
     "completed": false
   },
@@ -433,7 +433,7 @@
   },
   {
     "id": 73,
-    "fact": "There's a Japanese word 'kogarashi' (木枯らし) for the specific cold wind that strips leaves from trees in late autumn.",
+    "fact": "There's a Japanese word 'kogarashi' (\u6728\u67af\u3089\u3057) for the specific cold wind that strips leaves from trees in late autumn.",
     "issued": false,
     "completed": false
   },
@@ -445,8 +445,8 @@
   },
   {
     "id": 75,
-    "fact": "The word 'enryo' (遠慮) describes polite restraint - like declining seconds even when hungry, to not be a burden.",
-    "issued": true,
+    "fact": "The word 'enryo' (\u9060\u616e) describes polite restraint - like declining seconds even when hungry, to not be a burden.",
+    "issued": false,
     "completed": false
   },
   {
@@ -457,7 +457,7 @@
   },
   {
     "id": 77,
-    "fact": "There's a Japanese concept 'shuhari' (守破離) - follow the rules, break the rules, transcend the rules - the path to mastery.",
+    "fact": "There's a Japanese concept 'shuhari' (\u5b88\u7834\u96e2) - follow the rules, break the rules, transcend the rules - the path to mastery.",
     "issued": false,
     "completed": false
   },
@@ -481,7 +481,7 @@
   },
   {
     "id": 81,
-    "fact": "The concept of 'wa' (和) in Japanese represents harmony - so important that the official name for Japan is 'Wa' (the country of harmony).",
+    "fact": "The concept of 'wa' (\u548c) in Japanese represents harmony - so important that the official name for Japan is 'Wa' (the country of harmony).",
     "issued": false,
     "completed": false
   },
@@ -493,7 +493,7 @@
   },
   {
     "id": 83,
-    "fact": "There's a Japanese word 'nekojita' (猫舌) meaning 'cat tongue' - someone who can't eat or drink hot things.",
+    "fact": "There's a Japanese word 'nekojita' (\u732b\u820c) meaning 'cat tongue' - someone who can't eat or drink hot things.",
     "issued": false,
     "completed": false
   },
@@ -505,20 +505,20 @@
   },
   {
     "id": 85,
-    "fact": "The word 'otsukaresama' (お疲れ様) literally means 'you're tired' but is used to acknowledge someone's hard work.",
+    "fact": "The word 'otsukaresama' (\u304a\u75b2\u308c\u69d8) literally means 'you're tired' but is used to acknowledge someone's hard work.",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 86,
     "fact": "Japan has had the same family on the Chrysanthemum Throne for over 2,600 years - the world's oldest continuous hereditary monarchy.",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
     "id": 87,
-    "fact": "There's a Japanese word 'dokkiri' (ドッキリ) for the heart-pounding shock of surprise - now the name of prank TV shows.",
-    "issued": true,
+    "fact": "There's a Japanese word 'dokkiri' (\u30c9\u30c3\u30ad\u30ea) for the heart-pounding shock of surprise - now the name of prank TV shows.",
+    "issued": false,
     "completed": false
   },
   {
@@ -529,7 +529,7 @@
   },
   {
     "id": 89,
-    "fact": "The concept of 'kawaisa' (可愛さ) or cuteness is so culturally important that it influences everything from government mascots to warning signs.",
+    "fact": "The concept of 'kawaisa' (\u53ef\u611b\u3055) or cuteness is so culturally important that it influences everything from government mascots to warning signs.",
     "issued": false,
     "completed": false
   },
@@ -541,7 +541,7 @@
   },
   {
     "id": 91,
-    "fact": "There's a Japanese word 'shinpai' (心配) that describes worry with a sense of caring - unlike English, it's not purely negative.",
+    "fact": "There's a Japanese word 'shinpai' (\u5fc3\u914d) that describes worry with a sense of caring - unlike English, it's not purely negative.",
     "issued": false,
     "completed": false
   },
@@ -553,7 +553,7 @@
   },
   {
     "id": 93,
-    "fact": "The Japanese word 'tekito' (適当) means both 'appropriate' and 'whatever/random' depending on context and tone.",
+    "fact": "The Japanese word 'tekito' (\u9069\u5f53) means both 'appropriate' and 'whatever/random' depending on context and tone.",
     "issued": false,
     "completed": false
   },
@@ -565,19 +565,19 @@
   },
   {
     "id": 95,
-    "fact": "There's a Japanese practice called 'goraiko' (御来光) - watching the sunrise from a mountain peak, especially on New Year's Day.",
+    "fact": "There's a Japanese practice called 'goraiko' (\u5fa1\u6765\u5149) - watching the sunrise from a mountain peak, especially on New Year's Day.",
     "issued": false,
     "completed": false
   },
   {
     "id": 96,
-    "fact": "Japan has some of the world's oldest trees - a Japanese cedar called Jōmon Sugi on Yakushima is estimated to be 2,000-7,000 years old.",
+    "fact": "Japan has some of the world's oldest trees - a Japanese cedar called J\u014dmon Sugi on Yakushima is estimated to be 2,000-7,000 years old.",
     "issued": false,
     "completed": false
   },
   {
     "id": 97,
-    "fact": "The word 'majime' (真面目) describes someone earnest and sincere - a highly valued personality trait in Japanese culture.",
+    "fact": "The word 'majime' (\u771f\u9762\u76ee) describes someone earnest and sincere - a highly valued personality trait in Japanese culture.",
     "issued": false,
     "completed": false
   },
@@ -589,7 +589,7 @@
   },
   {
     "id": 99,
-    "fact": "There's a Japanese word 'takumi' (匠) for master craftsmen who dedicate their lives to perfecting a single skill.",
+    "fact": "There's a Japanese word 'takumi' (\u5320) for master craftsmen who dedicate their lives to perfecting a single skill.",
     "issued": false,
     "completed": false
   },
@@ -601,7 +601,7 @@
   },
   {
     "id": 101,
-    "fact": "The Japanese concept 'meibutsu' (名物) refers to famous local products - every region has foods and crafts found nowhere else.",
+    "fact": "The Japanese concept 'meibutsu' (\u540d\u7269) refers to famous local products - every region has foods and crafts found nowhere else.",
     "issued": false,
     "completed": false
   },
@@ -613,7 +613,7 @@
   },
   {
     "id": 103,
-    "fact": "There's a Japanese word 'kenkyo' (謙虚) for humility so deep it rejects praise - considered one of the highest virtues.",
+    "fact": "There's a Japanese word 'kenkyo' (\u8b19\u865a) for humility so deep it rejects praise - considered one of the highest virtues.",
     "issued": false,
     "completed": false
   },
@@ -625,7 +625,7 @@
   },
   {
     "id": 105,
-    "fact": "The word 'mendokusai' (面倒くさい) describes something too troublesome to deal with - a very commonly used expression.",
+    "fact": "The word 'mendokusai' (\u9762\u5012\u304f\u3055\u3044) describes something too troublesome to deal with - a very commonly used expression.",
     "issued": false,
     "completed": false
   },
@@ -637,7 +637,7 @@
   },
   {
     "id": 107,
-    "fact": "There's a Japanese concept 'omoiyari' (思いやり) meaning sensitivity to others' feelings - anticipating needs before they're expressed.",
+    "fact": "There's a Japanese concept 'omoiyari' (\u601d\u3044\u3084\u308a) meaning sensitivity to others' feelings - anticipating needs before they're expressed.",
     "issued": false,
     "completed": false
   },
@@ -649,7 +649,7 @@
   },
   {
     "id": 109,
-    "fact": "The Japanese word 'kuyashii' (悔しい) describes frustration mixed with determination to do better next time - no English equivalent.",
+    "fact": "The Japanese word 'kuyashii' (\u6094\u3057\u3044) describes frustration mixed with determination to do better next time - no English equivalent.",
     "issued": false,
     "completed": false
   },
@@ -661,7 +661,7 @@
   },
   {
     "id": 111,
-    "fact": "There's a Japanese practice 'ohitori-sama' (お一人様) celebrating doing things alone - solo dining, traveling, and living.",
+    "fact": "There's a Japanese practice 'ohitori-sama' (\u304a\u4e00\u4eba\u69d8) celebrating doing things alone - solo dining, traveling, and living.",
     "issued": false,
     "completed": false
   },
@@ -673,7 +673,7 @@
   },
   {
     "id": 113,
-    "fact": "The word 'jibun' (自分) means 'self' but is also used to mean 'I' in many dialects - showing how identity is tied to selfhood.",
+    "fact": "The word 'jibun' (\u81ea\u5206) means 'self' but is also used to mean 'I' in many dialects - showing how identity is tied to selfhood.",
     "issued": false,
     "completed": false
   },
@@ -685,7 +685,7 @@
   },
   {
     "id": 115,
-    "fact": "There's a Japanese concept 'mujo' (無常) - impermanence - reminding that nothing lasts, making each moment precious.",
+    "fact": "There's a Japanese concept 'mujo' (\u7121\u5e38) - impermanence - reminding that nothing lasts, making each moment precious.",
     "issued": false,
     "completed": false
   },
@@ -697,7 +697,7 @@
   },
   {
     "id": 117,
-    "fact": "The Japanese word 'yabai' (やばい) originally meant 'dangerous' but now means anything extreme - amazing or terrible.",
+    "fact": "The Japanese word 'yabai' (\u3084\u3070\u3044) originally meant 'dangerous' but now means anything extreme - amazing or terrible.",
     "issued": false,
     "completed": false
   },
@@ -709,7 +709,7 @@
   },
   {
     "id": 119,
-    "fact": "There's a Japanese practice 'meshi' (召し) where a boss inviting you for a meal is essentially a command, not a request.",
+    "fact": "There's a Japanese practice 'meshi' (\u53ec\u3057) where a boss inviting you for a meal is essentially a command, not a request.",
     "issued": false,
     "completed": false
   },
@@ -721,7 +721,7 @@
   },
   {
     "id": 121,
-    "fact": "The concept of 'sumimasen' (すみません) combines 'sorry' and 'thank you' - acknowledging that someone went out of their way.",
+    "fact": "The concept of 'sumimasen' (\u3059\u307f\u307e\u305b\u3093) combines 'sorry' and 'thank you' - acknowledging that someone went out of their way.",
     "issued": false,
     "completed": false
   },
@@ -733,7 +733,7 @@
   },
   {
     "id": 123,
-    "fact": "There's a Japanese word 'miryoku' (魅力) for charm or attractiveness that draws people in - the quality that makes things captivating.",
+    "fact": "There's a Japanese word 'miryoku' (\u9b45\u529b) for charm or attractiveness that draws people in - the quality that makes things captivating.",
     "issued": false,
     "completed": false
   },
@@ -745,7 +745,7 @@
   },
   {
     "id": 125,
-    "fact": "The word 'yoroshiku' (よろしく) has no direct translation - it's used for introductions, requests, and meaning 'please treat me well'.",
+    "fact": "The word 'yoroshiku' (\u3088\u308d\u3057\u304f) has no direct translation - it's used for introductions, requests, and meaning 'please treat me well'.",
     "issued": false,
     "completed": false
   },
@@ -757,7 +757,7 @@
   },
   {
     "id": 127,
-    "fact": "There's a Japanese concept 'on' (恩) - a debt of gratitude so deep it can never truly be repaid, only acknowledged.",
+    "fact": "There's a Japanese concept 'on' (\u6069) - a debt of gratitude so deep it can never truly be repaid, only acknowledged.",
     "issued": false,
     "completed": false
   },
@@ -769,31 +769,31 @@
   },
   {
     "id": 129,
-    "fact": "The Japanese word 'ganbarimasu' (頑張ります) is said before attempting something difficult - a commitment to do your absolute best.",
+    "fact": "The Japanese word 'ganbarimasu' (\u9811\u5f35\u308a\u307e\u3059) is said before attempting something difficult - a commitment to do your absolute best.",
     "issued": false,
     "completed": false
   },
   {
     "id": 130,
     "fact": "Japan has a toilet museum in Kitakyushu where you can slide down a giant toilet and learn about sewage history.",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
     "id": 131,
-    "fact": "There's a Japanese practice 'dogeza' (土下座) - bowing with forehead to floor - the deepest apology or request possible.",
+    "fact": "There's a Japanese practice 'dogeza' (\u571f\u4e0b\u5ea7) - bowing with forehead to floor - the deepest apology or request possible.",
     "issued": false,
     "completed": false
   },
   {
     "id": 132,
     "fact": "Japan has 'gacha' machines that dispense random collectible toys for 100-500 yen - adults are as obsessed as children.",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
     "id": 133,
-    "fact": "The word 'hazukashii' (恥ずかしい) describes embarrassment that's almost physical - you feel it in your body.",
+    "fact": "The word 'hazukashii' (\u6065\u305a\u304b\u3057\u3044) describes embarrassment that's almost physical - you feel it in your body.",
     "issued": false,
     "completed": false
   },
@@ -801,12 +801,12 @@
     "id": 134,
     "fact": "Japan has 'standing sleeping' car handles on trains designed for exhausted commuters to rest their heads during travel.",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 135,
-    "fact": "There's a Japanese concept 'itadakimasu' (いただきます) - said before eating - acknowledging all who contributed to the meal.",
-    "issued": true,
+    "fact": "There's a Japanese concept 'itadakimasu' (\u3044\u305f\u3060\u304d\u307e\u3059) - said before eating - acknowledging all who contributed to the meal.",
+    "issued": false,
     "completed": false
   },
   {
@@ -817,7 +817,7 @@
   },
   {
     "id": 137,
-    "fact": "The Japanese word 'okashi' (おかしい) means both 'funny' and 'strange' - humor and oddity are deeply connected.",
+    "fact": "The Japanese word 'okashi' (\u304a\u304b\u3057\u3044) means both 'funny' and 'strange' - humor and oddity are deeply connected.",
     "issued": false,
     "completed": false
   },
@@ -829,19 +829,19 @@
   },
   {
     "id": 139,
-    "fact": "There's a Japanese practice 'sekihan' (赤飯) - eating red rice with beans on celebratory occasions, from birthdays to promotions.",
+    "fact": "There's a Japanese practice 'sekihan' (\u8d64\u98ef) - eating red rice with beans on celebratory occasions, from birthdays to promotions.",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 140,
     "fact": "Japan has smart toilets that analyze your waste and display health metrics on a screen - some even save data to apps.",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
     "id": 141,
-    "fact": "The word 'okage-sama de' (おかげさまで) means 'thanks to you' but implies gratitude to unseen forces and luck too.",
+    "fact": "The word 'okage-sama de' (\u304a\u304b\u3052\u3055\u307e\u3067) means 'thanks to you' but implies gratitude to unseen forces and luck too.",
     "issued": false,
     "completed": false
   },
@@ -853,7 +853,7 @@
   },
   {
     "id": 143,
-    "fact": "There's a Japanese word 'giri' (義理) for social obligation - you give gifts and attend events because you must, not because you want to.",
+    "fact": "There's a Japanese word 'giri' (\u7fa9\u7406) for social obligation - you give gifts and attend events because you must, not because you want to.",
     "issued": false,
     "completed": false
   },
@@ -865,7 +865,7 @@
   },
   {
     "id": 145,
-    "fact": "The concept 'taisetsu' (大切) means precious or important - often said about relationships and feelings, not objects.",
+    "fact": "The concept 'taisetsu' (\u5927\u5207) means precious or important - often said about relationships and feelings, not objects.",
     "issued": false,
     "completed": false
   },
@@ -877,8 +877,8 @@
   },
   {
     "id": 147,
-    "fact": "There's a Japanese word 'tasogare' (黄昏) specifically for the golden hour at dusk when it's hard to recognize faces.",
-    "issued": true,
+    "fact": "There's a Japanese word 'tasogare' (\u9ec4\u660f) specifically for the golden hour at dusk when it's hard to recognize faces.",
+    "issued": false,
     "completed": false
   },
   {
@@ -889,19 +889,19 @@
   },
   {
     "id": 149,
-    "fact": "The word 'shiawase' (幸せ) for happiness originally meant 'what happens' - suggesting happiness is accepting what comes.",
+    "fact": "The word 'shiawase' (\u5e78\u305b) for happiness originally meant 'what happens' - suggesting happiness is accepting what comes.",
     "issued": false,
     "completed": false
   },
   {
     "id": 150,
     "fact": "Japan has 'gravure idols' - models who pose in bikinis and lingerie for magazines, calendars, and trading cards.",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
     "id": 151,
-    "fact": "There's a Japanese practice 'osoji' (大掃除) - major house cleaning before New Year to sweep away the old year's bad luck.",
+    "fact": "There's a Japanese practice 'osoji' (\u5927\u6383\u9664) - major house cleaning before New Year to sweep away the old year's bad luck.",
     "issued": false,
     "completed": false
   },
@@ -913,7 +913,7 @@
   },
   {
     "id": 153,
-    "fact": "The word 'kansha' (感謝) describes gratitude so profound it becomes a lifestyle - actively looking for things to be thankful for.",
+    "fact": "The word 'kansha' (\u611f\u8b1d) describes gratitude so profound it becomes a lifestyle - actively looking for things to be thankful for.",
     "issued": false,
     "completed": false
   },
@@ -925,7 +925,7 @@
   },
   {
     "id": 155,
-    "fact": "There's a Japanese concept 'uchi-soto' (内外) - inside/outside - defining who you're close to versus everyone else.",
+    "fact": "There's a Japanese concept 'uchi-soto' (\u5185\u5916) - inside/outside - defining who you're close to versus everyone else.",
     "issued": false,
     "completed": false
   },
@@ -937,7 +937,7 @@
   },
   {
     "id": 157,
-    "fact": "The word 'oshaberi' (おしゃべり) means chatting - but specifically light, fun conversation without anything heavy.",
+    "fact": "The word 'oshaberi' (\u304a\u3057\u3083\u3079\u308a) means chatting - but specifically light, fun conversation without anything heavy.",
     "issued": false,
     "completed": false
   },
@@ -949,19 +949,19 @@
   },
   {
     "id": 159,
-    "fact": "There's a Japanese practice 'natsukashii' (懐かしい) experience parties - rooms designed to trigger nostalgia from specific eras.",
+    "fact": "There's a Japanese practice 'natsukashii' (\u61d0\u304b\u3057\u3044) experience parties - rooms designed to trigger nostalgia from specific eras.",
     "issued": false,
     "completed": false
   },
   {
     "id": 160,
-    "fact": "Japan has a dedicated word 'tsukemono' (漬物) for pickled vegetables - over 4,000 varieties exist throughout the country.",
+    "fact": "Japan has a dedicated word 'tsukemono' (\u6f2c\u7269) for pickled vegetables - over 4,000 varieties exist throughout the country.",
     "issued": false,
     "completed": false
   },
   {
     "id": 161,
-    "fact": "The concept 'doryoku' (努力) means hard work as a core value - success without effort is considered somehow lesser.",
+    "fact": "The concept 'doryoku' (\u52aa\u529b) means hard work as a core value - success without effort is considered somehow lesser.",
     "issued": false,
     "completed": false
   },
@@ -973,7 +973,7 @@
   },
   {
     "id": 163,
-    "fact": "There's a Japanese word 'komorebi' (木漏れ日) for sunlight filtering through trees - there's no single English word for this.",
+    "fact": "There's a Japanese word 'komorebi' (\u6728\u6f0f\u308c\u65e5) for sunlight filtering through trees - there's no single English word for this.",
     "issued": false,
     "completed": false
   },
@@ -985,7 +985,7 @@
   },
   {
     "id": 165,
-    "fact": "The word 'ganban' (願番) describes taking turns at a task - cooperation without needing explicit coordination.",
+    "fact": "The word 'ganban' (\u9858\u756a) describes taking turns at a task - cooperation without needing explicit coordination.",
     "issued": false,
     "completed": false
   },
@@ -997,7 +997,7 @@
   },
   {
     "id": 167,
-    "fact": "There's a Japanese concept 'seijitsu' (誠実) meaning sincerity that's shown through actions, not just words.",
+    "fact": "There's a Japanese concept 'seijitsu' (\u8aa0\u5b9f) meaning sincerity that's shown through actions, not just words.",
     "issued": false,
     "completed": false
   },
@@ -1009,7 +1009,7 @@
   },
   {
     "id": 169,
-    "fact": "The word 'kimono' (着物) literally means 'thing to wear' - once the generic term for all clothing in Japan.",
+    "fact": "The word 'kimono' (\u7740\u7269) literally means 'thing to wear' - once the generic term for all clothing in Japan.",
     "issued": false,
     "completed": false
   },
@@ -1017,12 +1017,12 @@
     "id": 170,
     "fact": "Japan has 'death cafes' where people gather to discuss mortality over tea and cake in a relaxed setting.",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 171,
-    "fact": "There's a Japanese practice 'kashikomarimashita' (かしこまりました) - the ultra-polite way service staff say 'understood.'",
-    "issued": true,
+    "fact": "There's a Japanese practice 'kashikomarimashita' (\u304b\u3057\u3053\u307e\u308a\u307e\u3057\u305f) - the ultra-polite way service staff say 'understood.'",
+    "issued": false,
     "completed": false
   },
   {
@@ -1033,7 +1033,7 @@
   },
   {
     "id": 173,
-    "fact": "The concept 'kokoro' (心) means heart-mind-spirit combined - emotions and thoughts are not separate in Japanese philosophy.",
+    "fact": "The concept 'kokoro' (\u5fc3) means heart-mind-spirit combined - emotions and thoughts are not separate in Japanese philosophy.",
     "issued": false,
     "completed": false
   },
@@ -1045,19 +1045,19 @@
   },
   {
     "id": 175,
-    "fact": "There's a Japanese word 'waku-waku' (わくわく) for excited anticipation - the tingly feeling of looking forward to something.",
-    "issued": true,
+    "fact": "There's a Japanese word 'waku-waku' (\u308f\u304f\u308f\u304f) for excited anticipation - the tingly feeling of looking forward to something.",
+    "issued": false,
     "completed": false
   },
   {
     "id": 176,
-    "fact": "Japan has 'gokon' (合コン) - organized group blind dates where equal numbers of men and women meet at izakayas.",
+    "fact": "Japan has 'gokon' (\u5408\u30b3\u30f3) - organized group blind dates where equal numbers of men and women meet at izakayas.",
     "issued": false,
     "completed": false
   },
   {
     "id": 177,
-    "fact": "The word 'tadaima' (ただいま) means 'I'm home' and is always answered with 'okaeri' (お帰り) - 'welcome back.'",
+    "fact": "The word 'tadaima' (\u305f\u3060\u3044\u307e) means 'I'm home' and is always answered with 'okaeri' (\u304a\u5e30\u308a) - 'welcome back.'",
     "issued": false,
     "completed": false
   },
@@ -1069,20 +1069,20 @@
   },
   {
     "id": 179,
-    "fact": "There's a Japanese concept 'ningensei' (人間性) meaning humanity or human nature - the qualities that make us human.",
+    "fact": "There's a Japanese concept 'ningensei' (\u4eba\u9593\u6027) meaning humanity or human nature - the qualities that make us human.",
     "issued": false,
     "completed": false
   },
   {
     "id": 180,
-    "fact": "Japan has 'sunaba' (砂場) sand therapy - walking barefoot in sand gardens believed to improve mental health.",
+    "fact": "Japan has 'sunaba' (\u7802\u5834) sand therapy - walking barefoot in sand gardens believed to improve mental health.",
     "issued": false,
     "completed": false
   },
   {
     "id": 181,
-    "fact": "The word 'kimochi' (気持ち) describes feelings so physical you can sense them in your body - mood embodied.",
-    "issued": true,
+    "fact": "The word 'kimochi' (\u6c17\u6301\u3061) describes feelings so physical you can sense them in your body - mood embodied.",
+    "issued": false,
     "completed": false
   },
   {
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 183,
-    "fact": "There's a Japanese word 'nakama' (仲間) for companions who are closer than friends but not quite family - a chosen tribe.",
+    "fact": "There's a Japanese word 'nakama' (\u4ef2\u9593) for companions who are closer than friends but not quite family - a chosen tribe.",
     "issued": false,
     "completed": false
   },
@@ -1105,31 +1105,31 @@
   },
   {
     "id": 185,
-    "fact": "The concept 'hara hachi bu' (腹八分) means eating until 80% full - an Okinawan practice linked to longevity.",
+    "fact": "The concept 'hara hachi bu' (\u8179\u516b\u5206) means eating until 80% full - an Okinawan practice linked to longevity.",
     "issued": false,
     "completed": false
   },
   {
     "id": 186,
-    "fact": "Japan has a tradition of giving 'otoshidama' (お年玉) - money in special envelopes to children on New Year's.",
+    "fact": "Japan has a tradition of giving 'otoshidama' (\u304a\u5e74\u7389) - money in special envelopes to children on New Year's.",
     "issued": false,
     "completed": false
   },
   {
     "id": 187,
-    "fact": "There's a Japanese practice 'teineisa' (丁寧さ) meaning politeness shown through meticulous attention to detail.",
+    "fact": "There's a Japanese practice 'teineisa' (\u4e01\u5be7\u3055) meaning politeness shown through meticulous attention to detail.",
     "issued": false,
     "completed": false
   },
   {
     "id": 188,
-    "fact": "Japan has the world's longest-running comic book series - 'Kochira Katsushika-ku Kameari Kōen Mae Hashutsujo' ran for 40 years.",
+    "fact": "Japan has the world's longest-running comic book series - 'Kochira Katsushika-ku Kameari K\u014den Mae Hashutsujo' ran for 40 years.",
     "issued": false,
     "completed": false
   },
   {
     "id": 189,
-    "fact": "The word 'utsukushii' (美しい) means beautiful but implies something naturally elegant rather than artificially pretty.",
+    "fact": "The word 'utsukushii' (\u7f8e\u3057\u3044) means beautiful but implies something naturally elegant rather than artificially pretty.",
     "issued": false,
     "completed": false
   },
@@ -1141,19 +1141,19 @@
   },
   {
     "id": 191,
-    "fact": "There's a Japanese concept 'meisou' (瞑想) - meditation that focuses on emptying the mind rather than filling it.",
+    "fact": "There's a Japanese concept 'meisou' (\u7791\u60f3) - meditation that focuses on emptying the mind rather than filling it.",
     "issued": false,
     "completed": false
   },
   {
     "id": 192,
-    "fact": "Japan has 'juku' (塾) - cram schools that children attend after regular school, some running until 10pm.",
+    "fact": "Japan has 'juku' (\u587e) - cram schools that children attend after regular school, some running until 10pm.",
     "issued": false,
     "completed": false
   },
   {
     "id": 193,
-    "fact": "The word 'kawai-sou' (可哀想) means pitiable but with genuine sympathy - you feel sorry for someone's circumstances.",
+    "fact": "The word 'kawai-sou' (\u53ef\u54c0\u60f3) means pitiable but with genuine sympathy - you feel sorry for someone's circumstances.",
     "issued": false,
     "completed": false
   },
@@ -1165,7 +1165,7 @@
   },
   {
     "id": 195,
-    "fact": "There's a Japanese practice 'chinmoku' (沈黙) - meaningful silence in conversation that's comfortable, not awkward.",
+    "fact": "There's a Japanese practice 'chinmoku' (\u6c88\u9ed9) - meaningful silence in conversation that's comfortable, not awkward.",
     "issued": false,
     "completed": false
   },
@@ -1177,7 +1177,7 @@
   },
   {
     "id": 197,
-    "fact": "The concept 'sessha' (拙者) is an extremely humble way to say 'I' - originally used by samurai to show modesty.",
+    "fact": "The concept 'sessha' (\u62d9\u8005) is an extremely humble way to say 'I' - originally used by samurai to show modesty.",
     "issued": false,
     "completed": false
   },
@@ -1189,43 +1189,43 @@
   },
   {
     "id": 199,
-    "fact": "There's a Japanese word 'furusato' (故郷) for hometown - but with deep emotional weight of roots, identity, and belonging.",
+    "fact": "There's a Japanese word 'furusato' (\u6545\u90f7) for hometown - but with deep emotional weight of roots, identity, and belonging.",
     "issued": false,
     "completed": false
   },
   {
     "id": 200,
-    "fact": "Japan has 'hansei' (反省) - structured self-reflection sessions where you honestly examine your mistakes to improve.",
+    "fact": "Japan has 'hansei' (\u53cd\u7701) - structured self-reflection sessions where you honestly examine your mistakes to improve.",
     "issued": false,
     "completed": false
   },
   {
     "id": 201,
-    "fact": "Japan has a word 'tsundoku' (積ん読) for buying books and letting them pile up unread.",
+    "fact": "Japan has a word 'tsundoku' (\u7a4d\u3093\u8aad) for buying books and letting them pile up unread.",
     "issued": false,
     "completed": false
   },
   {
     "id": 202,
-    "fact": "In Japan, many shops display realistic food replicas called 'shokuhin sampuru' (食品サンプル) to show menu items.",
+    "fact": "In Japan, many shops display realistic food replicas called 'shokuhin sampuru' (\u98df\u54c1\u30b5\u30f3\u30d7\u30eb) to show menu items.",
     "issued": false,
     "completed": false
   },
   {
     "id": 203,
-    "fact": "Japan's elementary school students often clean their classrooms themselves in a routine called 'souji' (掃除), teaching responsibility.",
+    "fact": "Japan's elementary school students often clean their classrooms themselves in a routine called 'souji' (\u6383\u9664), teaching responsibility.",
     "issued": false,
     "completed": false
   },
   {
     "id": 204,
-    "fact": "The Japanese word 'yorimichi' (寄り道) means taking a pleasant detour on the way home just because.",
+    "fact": "The Japanese word 'yorimichi' (\u5bc4\u308a\u9053) means taking a pleasant detour on the way home just because.",
     "issued": false,
     "completed": false
   },
   {
     "id": 205,
-    "fact": "Japan has 'eki-stamps' (駅スタンプ) — collectible rubber stamps at train stations that travelers gather like a passport.",
+    "fact": "Japan has 'eki-stamps' (\u99c5\u30b9\u30bf\u30f3\u30d7) \u2014 collectible rubber stamps at train stations that travelers gather like a passport.",
     "issued": false,
     "completed": false
   },
@@ -1237,67 +1237,67 @@
   },
   {
     "id": 207,
-    "fact": "Japan’s mountainous terrain means about 70% of the country is forested.",
+    "fact": "Japan\u2019s mountainous terrain means about 70% of the country is forested.",
     "issued": false,
     "completed": false
   },
   {
     "id": 208,
-    "fact": "Japan has an art of wrapping gifts called 'tsutsumi' (包み), where presentation is considered part of the gift.",
+    "fact": "Japan has an art of wrapping gifts called 'tsutsumi' (\u5305\u307f), where presentation is considered part of the gift.",
     "issued": false,
     "completed": false
   },
   {
     "id": 209,
-    "fact": "The Japanese phrase 'ittekimasu' (行ってきます) is said when leaving home, meaning 'I'll go and come back'.",
+    "fact": "The Japanese phrase 'ittekimasu' (\u884c\u3063\u3066\u304d\u307e\u3059) is said when leaving home, meaning 'I'll go and come back'.",
     "issued": false,
     "completed": false
   },
   {
     "id": 210,
-    "fact": "Japan’s 'kotatsu' is a low table with a heater underneath and a blanket, creating a cozy heated nook in winter.",
+    "fact": "Japan\u2019s 'kotatsu' is a low table with a heater underneath and a blanket, creating a cozy heated nook in winter.",
     "issued": false,
     "completed": false
   },
   {
     "id": 211,
-    "fact": "Japan has regional mascots called 'yuru-chara' (ゆるキャラ) that promote towns, products, and even government agencies.",
+    "fact": "Japan has regional mascots called 'yuru-chara' (\u3086\u308b\u30ad\u30e3\u30e9) that promote towns, products, and even government agencies.",
     "issued": false,
     "completed": false
   },
   {
     "id": 212,
-    "fact": "The Japanese word 'arigatai' (ありがたい) originally meant 'rare and precious', which is why it became associated with gratitude.",
+    "fact": "The Japanese word 'arigatai' (\u3042\u308a\u304c\u305f\u3044) originally meant 'rare and precious', which is why it became associated with gratitude.",
     "issued": false,
     "completed": false
   },
   {
     "id": 213,
-    "fact": "Japan has a tradition of exchanging seasonal gifts called 'oseibo' (お歳暮) in December to express thanks.",
+    "fact": "Japan has a tradition of exchanging seasonal gifts called 'oseibo' (\u304a\u6b73\u66ae) in December to express thanks.",
     "issued": false,
     "completed": false
   },
   {
     "id": 214,
-    "fact": "In many Japanese cities, you can find public 'koban' (交番) — small neighborhood police boxes that help with directions and lost items.",
+    "fact": "In many Japanese cities, you can find public 'koban' (\u4ea4\u756a) \u2014 small neighborhood police boxes that help with directions and lost items.",
     "issued": false,
     "completed": false
   },
   {
     "id": 215,
-    "fact": "Japan’s rail system is so punctual that many train companies issue delay certificates ('chien shoumeisho') for commuters.",
+    "fact": "Japan\u2019s rail system is so punctual that many train companies issue delay certificates ('chien shoumeisho') for commuters.",
     "issued": false,
     "completed": false
   },
   {
     "id": 216,
-    "fact": "The Japanese term 'shuudan ishiki' (集団意識) refers to strong group consciousness — prioritizing harmony within the group.",
+    "fact": "The Japanese term 'shuudan ishiki' (\u96c6\u56e3\u610f\u8b58) refers to strong group consciousness \u2014 prioritizing harmony within the group.",
     "issued": false,
     "completed": false
   },
   {
     "id": 217,
-    "fact": "Japan has 'omikuji' (おみくじ) fortune slips at shrines; bad fortunes are often tied to a tree or rack to leave them behind.",
+    "fact": "Japan has 'omikuji' (\u304a\u307f\u304f\u3058) fortune slips at shrines; bad fortunes are often tied to a tree or rack to leave them behind.",
     "issued": false,
     "completed": false
   },
@@ -1309,13 +1309,13 @@
   },
   {
     "id": 219,
-    "fact": "Japan has a long-running tradition of summer ghost stories called 'kaidan' (怪談) to create a chilling feeling in hot weather.",
+    "fact": "Japan has a long-running tradition of summer ghost stories called 'kaidan' (\u602a\u8ac7) to create a chilling feeling in hot weather.",
     "issued": false,
     "completed": false
   },
   {
     "id": 220,
-    "fact": "The Japanese word 'senpai' (先輩) and 'kouhai' (後輩) describe a senior-junior relationship that shapes school and workplace culture.",
+    "fact": "The Japanese word 'senpai' (\u5148\u8f29) and 'kouhai' (\u5f8c\u8f29) describe a senior-junior relationship that shapes school and workplace culture.",
     "issued": false,
     "completed": false
   },
@@ -1327,25 +1327,25 @@
   },
   {
     "id": 222,
-    "fact": "Japanese New Year’s cards ('nengajou', 年賀状) are traditionally delivered all at once on January 1st.",
+    "fact": "Japanese New Year\u2019s cards ('nengajou', \u5e74\u8cc0\u72b6) are traditionally delivered all at once on January 1st.",
     "issued": false,
     "completed": false
   },
   {
     "id": 223,
-    "fact": "Japan’s 'onsen' hot springs often have specific etiquette, including washing thoroughly before entering the bath.",
+    "fact": "Japan\u2019s 'onsen' hot springs often have specific etiquette, including washing thoroughly before entering the bath.",
     "issued": false,
     "completed": false
   },
   {
     "id": 224,
-    "fact": "The Japanese word 'mijikai' (短い) means short, but 'mijikai hanashi' can refer to a concise story — valued in polite conversation.",
+    "fact": "The Japanese word 'mijikai' (\u77ed\u3044) means short, but 'mijikai hanashi' can refer to a concise story \u2014 valued in polite conversation.",
     "issued": false,
     "completed": false
   },
   {
     "id": 225,
-    "fact": "Japan has a concept 'yakudoshi' (厄年) — unlucky ages — where people often visit shrines for purification blessings.",
+    "fact": "Japan has a concept 'yakudoshi' (\u5384\u5e74) \u2014 unlucky ages \u2014 where people often visit shrines for purification blessings.",
     "issued": false,
     "completed": false
   },
@@ -1363,55 +1363,55 @@
   },
   {
     "id": 228,
-    "fact": "The Japanese term 'matsuri' (祭り) broadly means festival, and many neighborhoods host their own with portable shrines ('mikoshi').",
+    "fact": "The Japanese term 'matsuri' (\u796d\u308a) broadly means festival, and many neighborhoods host their own with portable shrines ('mikoshi').",
     "issued": false,
     "completed": false
   },
   {
     "id": 229,
-    "fact": "Japan’s 'shrine stamps' called 'goshuin' (御朱印) are calligraphy seals collected in special books by visitors.",
+    "fact": "Japan\u2019s 'shrine stamps' called 'goshuin' (\u5fa1\u6731\u5370) are calligraphy seals collected in special books by visitors.",
     "issued": false,
     "completed": false
   },
   {
     "id": 230,
-    "fact": "The Japanese word 'nagori' (名残) describes the lingering feeling when a season is ending — like the last strawberries of spring.",
+    "fact": "The Japanese word 'nagori' (\u540d\u6b8b) describes the lingering feeling when a season is ending \u2014 like the last strawberries of spring.",
     "issued": false,
     "completed": false
   },
   {
     "id": 231,
-    "fact": "Japan has a tradition of seasonal winds called 'kaze no tayori' (風の便り), where changes in nature signal the arrival of a festival or harvest.",
+    "fact": "Japan has a tradition of seasonal winds called 'kaze no tayori' (\u98a8\u306e\u4fbf\u308a), where changes in nature signal the arrival of a festival or harvest.",
     "issued": false,
     "completed": false
   },
   {
     "id": 232,
-    "fact": "The Japanese word 'tsubame' (燕) means swallow, and many shops put up nesting boxes because swallows are believed to bring good fortune.",
+    "fact": "The Japanese word 'tsubame' (\u71d5) means swallow, and many shops put up nesting boxes because swallows are believed to bring good fortune.",
     "issued": false,
     "completed": false
   },
   {
     "id": 233,
-    "fact": "Japan has a ceremony called 'kagamibiraki' (鏡開き) where mochi is broken with a wooden mallet to celebrate a fresh start.",
+    "fact": "Japan has a ceremony called 'kagamibiraki' (\u93e1\u958b\u304d) where mochi is broken with a wooden mallet to celebrate a fresh start.",
     "issued": false,
     "completed": false
   },
   {
     "id": 234,
-    "fact": "The word 'shiokaze' (潮風) means sea breeze, and coastal towns often write it into song lyrics and seasonal postcards.",
+    "fact": "The word 'shiokaze' (\u6f6e\u98a8) means sea breeze, and coastal towns often write it into song lyrics and seasonal postcards.",
     "issued": false,
     "completed": false
   },
   {
     "id": 235,
-    "fact": "Japan’s 'ekiben' (駅弁) are region-specific boxed lunches sold at train stations, often showcasing local ingredients and specialties.",
+    "fact": "Japan\u2019s 'ekiben' (\u99c5\u5f01) are region-specific boxed lunches sold at train stations, often showcasing local ingredients and specialties.",
     "issued": false,
     "completed": false
   },
   {
     "id": 236,
-    "fact": "The concept of 'yoin' (余韻) refers to the lingering aftertaste or feeling, and is used for everything from tea to music performances.",
+    "fact": "The concept of 'yoin' (\u4f59\u97fb) refers to the lingering aftertaste or feeling, and is used for everything from tea to music performances.",
     "issued": false,
     "completed": false
   },
@@ -1423,7 +1423,7 @@
   },
   {
     "id": 238,
-    "fact": "The word 'yukimi' (雪見) means snow viewing — eating seasonal treats like snow-viewing daifuku while watching falling snow.",
+    "fact": "The word 'yukimi' (\u96ea\u898b) means snow viewing \u2014 eating seasonal treats like snow-viewing daifuku while watching falling snow.",
     "issued": false,
     "completed": false
   },
@@ -1435,193 +1435,193 @@
   },
   {
     "id": 240,
-    "fact": "The phrase 'ichigo ichie' (一期一会) means 'one time, one meeting' — reminding people to treasure each encounter.",
+    "fact": "The phrase 'ichigo ichie' (\u4e00\u671f\u4e00\u4f1a) means 'one time, one meeting' \u2014 reminding people to treasure each encounter.",
     "issued": false,
     "completed": false
   },
   {
     "id": 241,
-    "fact": "Japan’s traditional paper, 'washi' (和紙), is so strong that it’s used for lanterns, umbrellas, and even interior walls.",
+    "fact": "Japan\u2019s traditional paper, 'washi' (\u548c\u7d19), is so strong that it\u2019s used for lanterns, umbrellas, and even interior walls.",
     "issued": false,
     "completed": false
   },
   {
     "id": 242,
-    "fact": "The Japanese word 'tokimeki' (ときめき) describes the fluttery excitement of a moment — like hearing a favorite song live.",
+    "fact": "The Japanese word 'tokimeki' (\u3068\u304d\u3081\u304d) describes the fluttery excitement of a moment \u2014 like hearing a favorite song live.",
     "issued": false,
     "completed": false
   },
   {
     "id": 243,
-    "fact": "Japan has a practice called 'teinei' (丁寧), meaning careful, polite attention — prized in customer service and crafts.",
+    "fact": "Japan has a practice called 'teinei' (\u4e01\u5be7), meaning careful, polite attention \u2014 prized in customer service and crafts.",
     "issued": false,
     "completed": false
   },
   {
     "id": 244,
-    "fact": "The term 'machiya' (町家) refers to traditional wooden townhouses with storefronts on the first floor and living spaces above.",
+    "fact": "The term 'machiya' (\u753a\u5bb6) refers to traditional wooden townhouses with storefronts on the first floor and living spaces above.",
     "issued": false,
     "completed": false
   },
   {
     "id": 245,
-    "fact": "Japan’s 'furoshiki' (風呂敷) are reusable cloth wraps that can be folded into bags for groceries or gifts.",
+    "fact": "Japan\u2019s 'furoshiki' (\u98a8\u5442\u6577) are reusable cloth wraps that can be folded into bags for groceries or gifts.",
     "issued": false,
     "completed": false
   },
   {
     "id": 246,
-    "fact": "The Japanese word 'nureta' (濡れた) means wet, but 'nureta yuugure' is used poetically for rain-soaked sunsets.",
+    "fact": "The Japanese word 'nureta' (\u6fe1\u308c\u305f) means wet, but 'nureta yuugure' is used poetically for rain-soaked sunsets.",
     "issued": false,
     "completed": false
   },
   {
     "id": 247,
-    "fact": "Japan’s 'michi-no-eki' (道の駅) are highway rest stops that double as local farmers’ markets and souvenir hubs.",
-    "issued": true,
+    "fact": "Japan\u2019s 'michi-no-eki' (\u9053\u306e\u99c5) are highway rest stops that double as local farmers\u2019 markets and souvenir hubs.",
+    "issued": false,
     "completed": false
   },
   {
     "id": 248,
-    "fact": "The word 'kazaana' (風穴) refers to naturally cool caves used historically to store ice and preserve food in summer.",
-    "issued": true,
+    "fact": "The word 'kazaana' (\u98a8\u7a74) refers to naturally cool caves used historically to store ice and preserve food in summer.",
+    "issued": false,
     "completed": false
   },
   {
     "id": 249,
-    "fact": "Japan’s traditional nighttime street games are called 'yomise' — pop-up stalls offering goldfish scooping, darts, and sweets.",
+    "fact": "Japan\u2019s traditional nighttime street games are called 'yomise' \u2014 pop-up stalls offering goldfish scooping, darts, and sweets.",
     "issued": false,
     "completed": false
   },
   {
     "id": 250,
-    "fact": "The concept of 'seijaku' (静寂) means profound silence, often used to describe the quiet of temples or deep forests.",
+    "fact": "The concept of 'seijaku' (\u9759\u5bc2) means profound silence, often used to describe the quiet of temples or deep forests.",
     "issued": false,
     "completed": false
   },
   {
     "id": 251,
-    "fact": "Japan has an art of arranging flowers called 'ikebana' (生け花), focusing on balance, line, and space rather than volume.",
+    "fact": "Japan has an art of arranging flowers called 'ikebana' (\u751f\u3051\u82b1), focusing on balance, line, and space rather than volume.",
     "issued": false,
     "completed": false
   },
   {
     "id": 252,
-    "fact": "The Japanese word 'kotodama' (言霊) means 'spirit of words' — the belief that words have power and influence outcomes.",
+    "fact": "The Japanese word 'kotodama' (\u8a00\u970a) means 'spirit of words' \u2014 the belief that words have power and influence outcomes.",
     "issued": false,
     "completed": false
   },
   {
     "id": 253,
-    "fact": "Japan’s 'tachigui' culture means quick standing meals at noodle or sushi counters, especially around busy train stations.",
-    "issued": true,
+    "fact": "Japan\u2019s 'tachigui' culture means quick standing meals at noodle or sushi counters, especially around busy train stations.",
+    "issued": false,
     "completed": false
   },
   {
     "id": 254,
-    "fact": "The term 'ashita no tenki' (明日の天気) is used in small talk, similar to discussing the weather to open conversations.",
+    "fact": "The term 'ashita no tenki' (\u660e\u65e5\u306e\u5929\u6c17) is used in small talk, similar to discussing the weather to open conversations.",
     "issued": false,
     "completed": false
   },
   {
     "id": 255,
-    "fact": "Japan’s traditional towel, the 'tenugui' (手ぬぐい), is used for drying hands, wrapping gifts, and decorating homes.",
+    "fact": "Japan\u2019s traditional towel, the 'tenugui' (\u624b\u306c\u3050\u3044), is used for drying hands, wrapping gifts, and decorating homes.",
     "issued": false,
     "completed": false
   },
   {
     "id": 256,
-    "fact": "The word 'asahi' (朝日) means morning sun, and many towns host sunrise walks called 'asahi sanpo'.",
+    "fact": "The word 'asahi' (\u671d\u65e5) means morning sun, and many towns host sunrise walks called 'asahi sanpo'.",
     "issued": false,
     "completed": false
   },
   {
     "id": 257,
-    "fact": "Japan’s 'shugendo' (修験道) is a mountain ascetic tradition combining Shinto, Buddhism, and folk practices.",
+    "fact": "Japan\u2019s 'shugendo' (\u4fee\u9a13\u9053) is a mountain ascetic tradition combining Shinto, Buddhism, and folk practices.",
     "issued": false,
     "completed": false
   },
   {
     "id": 258,
-    "fact": "The phrase 'shoku no shiki' (食の四季) refers to eating with the seasons — menus change to highlight spring, summer, fall, and winter ingredients.",
+    "fact": "The phrase 'shoku no shiki' (\u98df\u306e\u56db\u5b63) refers to eating with the seasons \u2014 menus change to highlight spring, summer, fall, and winter ingredients.",
     "issued": false,
     "completed": false
   },
   {
     "id": 259,
-    "fact": "Japan has a summer custom of hanging 'furin' (風鈴) glass wind chimes to make homes feel cooler with their sound.",
+    "fact": "Japan has a summer custom of hanging 'furin' (\u98a8\u9234) glass wind chimes to make homes feel cooler with their sound.",
     "issued": false,
     "completed": false
   },
   {
     "id": 260,
-    "fact": "The Japanese word 'shitsurai' (設え) means arranging a space thoughtfully — from seasonal decor to the placement of tea utensils.",
+    "fact": "The Japanese word 'shitsurai' (\u8a2d\u3048) means arranging a space thoughtfully \u2014 from seasonal decor to the placement of tea utensils.",
     "issued": false,
     "completed": false
   },
   {
     "id": 261,
-    "fact": "Japan’s 'machi-nami hozon' movement preserves historic townscapes, protecting old streets so locals can still live and work there.",
+    "fact": "Japan\u2019s 'machi-nami hozon' movement preserves historic townscapes, protecting old streets so locals can still live and work there.",
     "issued": false,
     "completed": false
   },
   {
     "id": 262,
-    "fact": "The term 'yuyake' (夕焼け) means sunset glow, and many schools have songs that reference it as a symbol of going home.",
+    "fact": "The term 'yuyake' (\u5915\u713c\u3051) means sunset glow, and many schools have songs that reference it as a symbol of going home.",
     "issued": false,
     "completed": false
   },
   {
     "id": 263,
-    "fact": "Japan has 'chiiki matsuri' — neighborhood festivals run by local committees where residents carry portable shrines together.",
-    "issued": true,
+    "fact": "Japan has 'chiiki matsuri' \u2014 neighborhood festivals run by local committees where residents carry portable shrines together.",
+    "issued": false,
     "completed": false
   },
   {
     "id": 264,
-    "fact": "The word 'kawaigaru' (可愛がる) means to dote on or cherish, often used for pets or younger relatives.",
+    "fact": "The word 'kawaigaru' (\u53ef\u611b\u304c\u308b) means to dote on or cherish, often used for pets or younger relatives.",
     "issued": false,
     "completed": false
   },
   {
     "id": 265,
-    "fact": "Japan’s 'shimenawa' (注連縄) sacred ropes are hung at shrines and homes to mark purified, protected spaces.",
+    "fact": "Japan\u2019s 'shimenawa' (\u6ce8\u9023\u7e04) sacred ropes are hung at shrines and homes to mark purified, protected spaces.",
     "issued": false,
     "completed": false
   },
   {
     "id": 266,
-    "fact": "The phrase 'okage-sama' (おかげさま) expresses gratitude for unseen support — like thanking the people behind your success.",
+    "fact": "The phrase 'okage-sama' (\u304a\u304b\u3052\u3055\u307e) expresses gratitude for unseen support \u2014 like thanking the people behind your success.",
     "issued": false,
     "completed": false
   },
   {
     "id": 267,
-    "fact": "Japan’s 'hitokoto omikuji' are single-phrase fortune slips meant for quick inspiration or encouragement.",
+    "fact": "Japan\u2019s 'hitokoto omikuji' are single-phrase fortune slips meant for quick inspiration or encouragement.",
     "issued": false,
     "completed": false
   },
   {
     "id": 268,
-    "fact": "The word 'komachi' (小町) is used in place names to reference elegance, inspired by the legendary beauty Ono no Komachi.",
+    "fact": "The word 'komachi' (\u5c0f\u753a) is used in place names to reference elegance, inspired by the legendary beauty Ono no Komachi.",
     "issued": false,
     "completed": false
   },
   {
     "id": 269,
-    "fact": "Japan has 'yukidaruma' (雪だるま) snowman festivals where entire parks fill with glowing snow lanterns.",
+    "fact": "Japan has 'yukidaruma' (\u96ea\u3060\u308b\u307e) snowman festivals where entire parks fill with glowing snow lanterns.",
     "issued": false,
     "completed": false
   },
   {
     "id": 270,
-    "fact": "The term 'shinise' (老舗) refers to long-established shops, often family-run for generations.",
+    "fact": "The term 'shinise' (\u8001\u8217) refers to long-established shops, often family-run for generations.",
     "issued": false,
     "completed": false
   },
   {
     "id": 271,
-    "fact": "Japan’s 'yatai' food stalls are famous for ramen, yakitori, and oden, especially during festivals and late nights.",
+    "fact": "Japan\u2019s 'yatai' food stalls are famous for ramen, yakitori, and oden, especially during festivals and late nights.",
     "issued": false,
     "completed": false
   },
@@ -1645,37 +1645,37 @@
   },
   {
     "id": 275,
-    "fact": "Japan’s 'mame maki' Setsubun ritual involves throwing roasted soybeans while shouting 'Oni wa soto! Fuku wa uchi!'.",
+    "fact": "Japan\u2019s 'mame maki' Setsubun ritual involves throwing roasted soybeans while shouting 'Oni wa soto! Fuku wa uchi!'.",
     "issued": false,
     "completed": false
   },
   {
     "id": 276,
-    "fact": "The term 'kirei' (綺麗) means both 'beautiful' and 'clean', linking aesthetics with neatness.",
+    "fact": "The term 'kirei' (\u7dba\u9e97) means both 'beautiful' and 'clean', linking aesthetics with neatness.",
     "issued": false,
     "completed": false
   },
   {
     "id": 277,
-    "fact": "Japan’s 'pocket tissues' are commonly handed out on streets as tiny promotional giveaways for shops or services.",
-    "issued": true,
+    "fact": "Japan\u2019s 'pocket tissues' are commonly handed out on streets as tiny promotional giveaways for shops or services.",
+    "issued": false,
     "completed": false
   },
   {
     "id": 278,
-    "fact": "The word 'mikan' (未完) means incomplete, and it's sometimes used by artists to describe works intentionally left open-ended.",
+    "fact": "The word 'mikan' (\u672a\u5b8c) means incomplete, and it's sometimes used by artists to describe works intentionally left open-ended.",
     "issued": false,
     "completed": false
   },
   {
     "id": 279,
-    "fact": "Japan’s 'norens' are split fabric curtains hung at shop entrances; colors and symbols often indicate the specialty inside.",
+    "fact": "Japan\u2019s 'norens' are split fabric curtains hung at shop entrances; colors and symbols often indicate the specialty inside.",
     "issued": false,
     "completed": false
   },
   {
     "id": 280,
-    "fact": "The phrase 'shinpuru' (シンプル) is the Japanese adoption of 'simple', often implying elegant minimalism.",
+    "fact": "The phrase 'shinpuru' (\u30b7\u30f3\u30d7\u30eb) is the Japanese adoption of 'simple', often implying elegant minimalism.",
     "issued": false,
     "completed": false
   },
@@ -1687,43 +1687,43 @@
   },
   {
     "id": 282,
-    "fact": "The word 'utsuroi' (移ろい) describes subtle transitions, like shifting seasons or fading light.",
+    "fact": "The word 'utsuroi' (\u79fb\u308d\u3044) describes subtle transitions, like shifting seasons or fading light.",
     "issued": false,
     "completed": false
   },
   {
     "id": 283,
-    "fact": "Japan’s 'wagashi' sweets are often designed to match the season, with colors and shapes inspired by flowers or snow.",
+    "fact": "Japan\u2019s 'wagashi' sweets are often designed to match the season, with colors and shapes inspired by flowers or snow.",
     "issued": false,
     "completed": false
   },
   {
     "id": 284,
-    "fact": "The term 'shokunin' (職人) refers to artisans who dedicate their lives to mastering a craft.",
+    "fact": "The term 'shokunin' (\u8077\u4eba) refers to artisans who dedicate their lives to mastering a craft.",
     "issued": false,
     "completed": false
   },
   {
     "id": 285,
-    "fact": "Japan’s 'hashioki' are chopstick rests, and many restaurants choose seasonal or themed designs.",
+    "fact": "Japan\u2019s 'hashioki' are chopstick rests, and many restaurants choose seasonal or themed designs.",
     "issued": false,
     "completed": false
   },
   {
     "id": 286,
-    "fact": "The phrase 'osusowake' (お裾分け) means sharing a portion of something received, like produce or gifts.",
+    "fact": "The phrase 'osusowake' (\u304a\u88fe\u5206\u3051) means sharing a portion of something received, like produce or gifts.",
     "issued": false,
     "completed": false
   },
   {
     "id": 287,
-    "fact": "Japan’s 'yukata' are lightweight summer kimono made of cotton, often worn at festivals or firework shows.",
+    "fact": "Japan\u2019s 'yukata' are lightweight summer kimono made of cotton, often worn at festivals or firework shows.",
     "issued": false,
     "completed": false
   },
   {
     "id": 288,
-    "fact": "The word 'kira kira' (キラキラ) is an onomatopoeia for sparkle, often used in product names and pop culture.",
+    "fact": "The word 'kira kira' (\u30ad\u30e9\u30ad\u30e9) is an onomatopoeia for sparkle, often used in product names and pop culture.",
     "issued": false,
     "completed": false
   },
@@ -1735,19 +1735,19 @@
   },
   {
     "id": 290,
-    "fact": "The term 'kigatsuku' (気がつく) means to notice or realize, and is often associated with considerate awareness.",
+    "fact": "The term 'kigatsuku' (\u6c17\u304c\u3064\u304f) means to notice or realize, and is often associated with considerate awareness.",
     "issued": false,
     "completed": false
   },
   {
     "id": 291,
-    "fact": "Japan’s name for the rainy season, 'tsuyu' (梅雨), literally means \"plum rain\" because it coincides with the ripening of ume plums.",
+    "fact": "Japan\u2019s name for the rainy season, 'tsuyu' (\u6885\u96e8), literally means \"plum rain\" because it coincides with the ripening of ume plums.",
     "issued": false,
     "completed": false
   },
   {
     "id": 292,
-    "fact": "The term 'komorebi' (木漏れ日) describes sunlight filtering through leaves—so common it has a single word.",
+    "fact": "The term 'komorebi' (\u6728\u6f0f\u308c\u65e5) describes sunlight filtering through leaves\u2014so common it has a single word.",
     "issued": false,
     "completed": false
   },
@@ -1759,73 +1759,73 @@
   },
   {
     "id": 294,
-    "fact": "The concept of 'mottainai' (もったいない) expresses regret over waste and encourages respect for resources.",
+    "fact": "The concept of 'mottainai' (\u3082\u3063\u305f\u3044\u306a\u3044) expresses regret over waste and encourages respect for resources.",
     "issued": false,
     "completed": false
   },
   {
     "id": 295,
-    "fact": "A 'shuincho' (朱印帳) is a stamp book used to collect shrine and temple seals during visits across Japan.",
+    "fact": "A 'shuincho' (\u6731\u5370\u5e33) is a stamp book used to collect shrine and temple seals during visits across Japan.",
     "issued": false,
     "completed": false
   },
   {
     "id": 296,
-    "fact": "The word 'yuruyaka' (ゆるやか) means gentle or gradual, often used to describe soft slopes or slow changes.",
+    "fact": "The word 'yuruyaka' (\u3086\u308b\u3084\u304b) means gentle or gradual, often used to describe soft slopes or slow changes.",
     "issued": false,
     "completed": false
   },
   {
     "id": 297,
-    "fact": "Japan’s 'eki-ben' (駅弁) are region-specific boxed meals sold at train stations, often featuring local specialties.",
+    "fact": "Japan\u2019s 'eki-ben' (\u99c5\u5f01) are region-specific boxed meals sold at train stations, often featuring local specialties.",
     "issued": false,
     "completed": false
   },
   {
     "id": 298,
-    "fact": "The term 'kintsugi' (金継ぎ) refers to repairing ceramics with gold, embracing cracks as part of an object’s history.",
+    "fact": "The term 'kintsugi' (\u91d1\u7d99\u304e) refers to repairing ceramics with gold, embracing cracks as part of an object\u2019s history.",
     "issued": false,
     "completed": false
   },
   {
     "id": 299,
-    "fact": "'Yozakura' (夜桜) means night-time cherry blossom viewing, often accompanied by lanterns and food stalls.",
-    "issued": true,
+    "fact": "'Yozakura' (\u591c\u685c) means night-time cherry blossom viewing, often accompanied by lanterns and food stalls.",
+    "issued": false,
     "completed": false
   },
   {
     "id": 300,
-    "fact": "A 'hikimono' (引き物) is a small parting gift given at weddings, often a set of sweets or tea.",
+    "fact": "A 'hikimono' (\u5f15\u304d\u7269) is a small parting gift given at weddings, often a set of sweets or tea.",
     "issued": false,
     "completed": false
   },
   {
     "id": 301,
-    "fact": "Japan’s New Year custom 'hatsumode' (初詣) involves visiting a shrine or temple for the year’s first prayer.",
+    "fact": "Japan\u2019s New Year custom 'hatsumode' (\u521d\u8a63) involves visiting a shrine or temple for the year\u2019s first prayer.",
     "issued": false,
     "completed": false
   },
   {
     "id": 302,
-    "fact": "The phrase 'itadakimasu' (いただきます) is said before meals to show gratitude for the food and those who prepared it.",
+    "fact": "The phrase 'itadakimasu' (\u3044\u305f\u3060\u304d\u307e\u3059) is said before meals to show gratitude for the food and those who prepared it.",
     "issued": false,
     "completed": false
   },
   {
     "id": 303,
-    "fact": "'Natsukashii' (懐かしい) describes a warm, nostalgic feeling when recalling the past.",
+    "fact": "'Natsukashii' (\u61d0\u304b\u3057\u3044) describes a warm, nostalgic feeling when recalling the past.",
     "issued": false,
     "completed": false
   },
   {
     "id": 304,
-    "fact": "Japan’s 'hanami' tradition often includes picnic mats, bento boxes, and seasonal sweets under the cherry trees.",
+    "fact": "Japan\u2019s 'hanami' tradition often includes picnic mats, bento boxes, and seasonal sweets under the cherry trees.",
     "issued": false,
     "completed": false
   },
   {
     "id": 305,
-    "fact": "The term 'shibui' (渋い) refers to understated, elegant beauty—often used for subtle flavors or aesthetics.",
+    "fact": "The term 'shibui' (\u6e0b\u3044) refers to understated, elegant beauty\u2014often used for subtle flavors or aesthetics.",
     "issued": false,
     "completed": false
   },
@@ -1837,7 +1837,7 @@
   },
   {
     "id": 307,
-    "fact": "Japan’s 'tanabata' festival celebrates star-crossed lovers with colorful paper wishes tied to bamboo branches.",
+    "fact": "Japan\u2019s 'tanabata' festival celebrates star-crossed lovers with colorful paper wishes tied to bamboo branches.",
     "issued": false,
     "completed": false
   },
@@ -1849,31 +1849,31 @@
   },
   {
     "id": 309,
-    "fact": "Japan has a word 'tsundoku' (積ん読) for buying books and letting them pile up unread.",
+    "fact": "Japan has a word 'tsundoku' (\u7a4d\u3093\u8aad) for buying books and letting them pile up unread.",
     "issued": false,
     "completed": false
   },
   {
     "id": 310,
-    "fact": "The term 'okagesama' (おかげさまで) expresses humility, meaning \"thanks to you\" or \"thanks to circumstances.\"",
+    "fact": "The term 'okagesama' (\u304a\u304b\u3052\u3055\u307e\u3067) expresses humility, meaning \"thanks to you\" or \"thanks to circumstances.\"",
     "issued": false,
     "completed": false
   },
   {
     "id": 311,
-    "fact": "'Mono no aware' (物の哀れ) is an aesthetic of gentle sadness at the impermanence of things.",
+    "fact": "'Mono no aware' (\u7269\u306e\u54c0\u308c) is an aesthetic of gentle sadness at the impermanence of things.",
     "issued": false,
     "completed": false
   },
   {
     "id": 312,
-    "fact": "Japan’s 'shichi-go-san' festival celebrates children at ages 3, 5, and 7 with shrine visits and traditional outfits.",
+    "fact": "Japan\u2019s 'shichi-go-san' festival celebrates children at ages 3, 5, and 7 with shrine visits and traditional outfits.",
     "issued": false,
     "completed": false
   },
   {
     "id": 313,
-    "fact": "The phrase 'yoroshiku onegaishimasu' (よろしくお願いします) is a versatile expression for \"please take care of me.\"",
+    "fact": "The phrase 'yoroshiku onegaishimasu' (\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059) is a versatile expression for \"please take care of me.\"",
     "issued": false,
     "completed": false
   },
@@ -1885,13 +1885,13 @@
   },
   {
     "id": 315,
-    "fact": "Japan’s 'omotenashi' culture emphasizes thoughtful hospitality and anticipating guests’ needs.",
+    "fact": "Japan\u2019s 'omotenashi' culture emphasizes thoughtful hospitality and anticipating guests\u2019 needs.",
     "issued": false,
     "completed": false
   },
   {
     "id": 316,
-    "fact": "The term 'shinnen' (信念) means conviction or strongly held belief, often tied to personal principles.",
+    "fact": "The term 'shinnen' (\u4fe1\u5ff5) means conviction or strongly held belief, often tied to personal principles.",
     "issued": false,
     "completed": false
   },
@@ -1909,13 +1909,13 @@
   },
   {
     "id": 319,
-    "fact": "The Japanese term 'shinrin-yoku' (森林浴) translates to \"forest bathing\" and emphasizes mindful time in nature.",
+    "fact": "The Japanese term 'shinrin-yoku' (\u68ee\u6797\u6d74) translates to \"forest bathing\" and emphasizes mindful time in nature.",
     "issued": false,
     "completed": false
   },
   {
     "id": 320,
-    "fact": "'Mame' (豆) can mean both \"bean\" and \"diligent\"—so bean-related gifts sometimes imply good health and hard work.",
+    "fact": "'Mame' (\u8c46) can mean both \"bean\" and \"diligent\"\u2014so bean-related gifts sometimes imply good health and hard work.",
     "issued": false,
     "completed": false
   }

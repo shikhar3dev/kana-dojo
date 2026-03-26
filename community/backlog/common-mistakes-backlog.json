@@ -1,962 +1,962 @@
 [
   {
-    "wrong": "私は日本語を話しますです。",
-    "correct": "私は日本語を話します。",
-    "explanation": "Do not stack ます and です in one predicate. (Pattern set 1)",
+    "wrong": "\u79c1\u306f\u65e5\u672c\u8a9e\u3092\u8a71\u3057\u307e\u3059\u3067\u3059\u3002",
+    "correct": "\u79c1\u306f\u65e5\u672c\u8a9e\u3092\u8a71\u3057\u307e\u3059\u3002",
+    "explanation": "Do not stack \u307e\u3059 and \u3067\u3059 in one predicate. (Pattern set 1)",
     "id": 1,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本語が好きをです。",
-    "correct": "日本語が好きです。",
-    "explanation": "好き takes が, not を. (Pattern set 1)",
+    "wrong": "\u65e5\u672c\u8a9e\u304c\u597d\u304d\u3092\u3067\u3059\u3002",
+    "correct": "\u65e5\u672c\u8a9e\u304c\u597d\u304d\u3067\u3059\u3002",
+    "explanation": "\u597d\u304d takes \u304c, not \u3092. (Pattern set 1)",
     "id": 2,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "静かい部屋",
-    "correct": "静かな部屋",
-    "explanation": "な-adjectives require な before nouns. (Pattern set 1)",
+    "wrong": "\u9759\u304b\u3044\u90e8\u5c4b",
+    "correct": "\u9759\u304b\u306a\u90e8\u5c4b",
+    "explanation": "\u306a-adjectives require \u306a before nouns. (Pattern set 1)",
     "id": 3,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "これはおいしいだ。",
-    "correct": "これはおいしい。",
-    "explanation": "い-adjectives do not take だ in plain present. (Pattern set 1)",
+    "wrong": "\u3053\u308c\u306f\u304a\u3044\u3057\u3044\u3060\u3002",
+    "correct": "\u3053\u308c\u306f\u304a\u3044\u3057\u3044\u3002",
+    "explanation": "\u3044-adjectives do not take \u3060 in plain present. (Pattern set 1)",
     "id": 4,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "先生は私を日本語を教えました。",
-    "correct": "先生は私に日本語を教えました。",
-    "explanation": "Recipient takes に with 教える. (Pattern set 1)",
+    "wrong": "\u5148\u751f\u306f\u79c1\u3092\u65e5\u672c\u8a9e\u3092\u6559\u3048\u307e\u3057\u305f\u3002",
+    "correct": "\u5148\u751f\u306f\u79c1\u306b\u65e5\u672c\u8a9e\u3092\u6559\u3048\u307e\u3057\u305f\u3002",
+    "explanation": "Recipient takes \u306b with \u6559\u3048\u308b. (Pattern set 1)",
     "id": 5,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "図書館に本を借りました。",
-    "correct": "図書館で本を借りました。",
-    "explanation": "で marks location of action. (Pattern set 1)",
+    "wrong": "\u56f3\u66f8\u9928\u306b\u672c\u3092\u501f\u308a\u307e\u3057\u305f\u3002",
+    "correct": "\u56f3\u66f8\u9928\u3067\u672c\u3092\u501f\u308a\u307e\u3057\u305f\u3002",
+    "explanation": "\u3067 marks location of action. (Pattern set 1)",
     "id": 6,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は昨日東京に行きます。",
-    "correct": "私は昨日東京に行きました。",
+    "wrong": "\u79c1\u306f\u6628\u65e5\u6771\u4eac\u306b\u884c\u304d\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u6628\u65e5\u6771\u4eac\u306b\u884c\u304d\u307e\u3057\u305f\u3002",
     "explanation": "Use past tense for past actions. (Pattern set 1)",
     "id": 7,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "東京は人が多いです、きれいです。",
-    "correct": "東京は人が多くて、きれいです。",
-    "explanation": "Use て-form to connect clauses. (Pattern set 1)",
+    "wrong": "\u6771\u4eac\u306f\u4eba\u304c\u591a\u3044\u3067\u3059\u3001\u304d\u308c\u3044\u3067\u3059\u3002",
+    "correct": "\u6771\u4eac\u306f\u4eba\u304c\u591a\u304f\u3066\u3001\u304d\u308c\u3044\u3067\u3059\u3002",
+    "explanation": "Use \u3066-form to connect clauses. (Pattern set 1)",
     "id": 8,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "友達に会うを楽しみにしています。",
-    "correct": "友達に会うのを楽しみにしています。",
-    "explanation": "Nominalize with の before を. (Pattern set 1)",
+    "wrong": "\u53cb\u9054\u306b\u4f1a\u3046\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "correct": "\u53cb\u9054\u306b\u4f1a\u3046\u306e\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "explanation": "Nominalize with \u306e before \u3092. (Pattern set 1)",
     "id": 9,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は兄さんが二人います。",
-    "correct": "私は兄が二人います。",
-    "explanation": "Use 兄 for your own older brother. (Pattern set 1)",
+    "wrong": "\u79c1\u306f\u5144\u3055\u3093\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u5144\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "explanation": "Use \u5144 for your own older brother. (Pattern set 1)",
     "id": 10,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "毎日日本語を勉強していますから上手になります。",
-    "correct": "毎日日本語を勉強しているので上手になります。",
-    "explanation": "ので is smoother/neutral for reason. (Pattern set 1)",
+    "wrong": "\u6bce\u65e5\u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u3066\u3044\u307e\u3059\u304b\u3089\u4e0a\u624b\u306b\u306a\u308a\u307e\u3059\u3002",
+    "correct": "\u6bce\u65e5\u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u3066\u3044\u308b\u306e\u3067\u4e0a\u624b\u306b\u306a\u308a\u307e\u3059\u3002",
+    "explanation": "\u306e\u3067 is smoother/neutral for reason. (Pattern set 1)",
     "id": 11,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "もし雨が降ります、行きません。",
-    "correct": "もし雨が降ったら、行きません。",
-    "explanation": "Conditional needs たら/なら etc. (Pattern set 1)",
+    "wrong": "\u3082\u3057\u96e8\u304c\u964d\u308a\u307e\u3059\u3001\u884c\u304d\u307e\u305b\u3093\u3002",
+    "correct": "\u3082\u3057\u96e8\u304c\u964d\u3063\u305f\u3089\u3001\u884c\u304d\u307e\u305b\u3093\u3002",
+    "explanation": "Conditional needs \u305f\u3089/\u306a\u3089 etc. (Pattern set 1)",
     "id": 12,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "これは私のです本。",
-    "correct": "これは私の本です。",
-    "explanation": "Place の correctly in noun phrase. (Pattern set 1)",
+    "wrong": "\u3053\u308c\u306f\u79c1\u306e\u3067\u3059\u672c\u3002",
+    "correct": "\u3053\u308c\u306f\u79c1\u306e\u672c\u3067\u3059\u3002",
+    "explanation": "Place \u306e correctly in noun phrase. (Pattern set 1)",
     "id": 13,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "会議は三時からで始まります。",
-    "correct": "会議は三時から始まります。",
-    "explanation": "Remove unnecessary particle after から. (Pattern set 1)",
+    "wrong": "\u4f1a\u8b70\u306f\u4e09\u6642\u304b\u3089\u3067\u59cb\u307e\u308a\u307e\u3059\u3002",
+    "correct": "\u4f1a\u8b70\u306f\u4e09\u6642\u304b\u3089\u59cb\u307e\u308a\u307e\u3059\u3002",
+    "explanation": "Remove unnecessary particle after \u304b\u3089. (Pattern set 1)",
     "id": 14,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本へ旅行を行きたい。",
-    "correct": "日本へ旅行に行きたい。",
-    "explanation": "Use に行く for purpose. (Pattern set 1)",
+    "wrong": "\u65e5\u672c\u3078\u65c5\u884c\u3092\u884c\u304d\u305f\u3044\u3002",
+    "correct": "\u65e5\u672c\u3078\u65c5\u884c\u306b\u884c\u304d\u305f\u3044\u3002",
+    "explanation": "Use \u306b\u884c\u304f for purpose. (Pattern set 1)",
     "id": 15,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本語をわかります。",
-    "correct": "日本語がわかります。",
-    "explanation": "わかる takes が. (Pattern set 1)",
+    "wrong": "\u65e5\u672c\u8a9e\u3092\u308f\u304b\u308a\u307e\u3059\u3002",
+    "correct": "\u65e5\u672c\u8a9e\u304c\u308f\u304b\u308a\u307e\u3059\u3002",
+    "explanation": "\u308f\u304b\u308b takes \u304c. (Pattern set 1)",
     "id": 16,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "宿題を忘れないよう、メモします。",
-    "correct": "宿題を忘れないように、メモします。",
-    "explanation": "Use ように for purpose/prevention. (Pattern set 1)",
+    "wrong": "\u5bbf\u984c\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u3001\u30e1\u30e2\u3057\u307e\u3059\u3002",
+    "correct": "\u5bbf\u984c\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u306b\u3001\u30e1\u30e2\u3057\u307e\u3059\u3002",
+    "explanation": "Use \u3088\u3046\u306b for purpose/prevention. (Pattern set 1)",
     "id": 17,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "駅まで十分歩きますかかる。",
-    "correct": "駅まで歩いて十分かかる。",
+    "wrong": "\u99c5\u307e\u3067\u5341\u5206\u6b69\u304d\u307e\u3059\u304b\u304b\u308b\u3002",
+    "correct": "\u99c5\u307e\u3067\u6b69\u3044\u3066\u5341\u5206\u304b\u304b\u308b\u3002",
     "explanation": "Use natural collocation and order. (Pattern set 1)",
     "id": 18,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "この漢字は読み方が難しいです。",
-    "correct": "この漢字の読み方は難しいです。",
-    "explanation": "Prefer noun linkage with の. (Pattern set 1)",
+    "wrong": "\u3053\u306e\u6f22\u5b57\u306f\u8aad\u307f\u65b9\u304c\u96e3\u3057\u3044\u3067\u3059\u3002",
+    "correct": "\u3053\u306e\u6f22\u5b57\u306e\u8aad\u307f\u65b9\u306f\u96e3\u3057\u3044\u3067\u3059\u3002",
+    "explanation": "Prefer noun linkage with \u306e. (Pattern set 1)",
     "id": 19,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私はお金がありませんです。",
-    "correct": "私はお金がありません。",
+    "wrong": "\u79c1\u306f\u304a\u91d1\u304c\u3042\u308a\u307e\u305b\u3093\u3067\u3059\u3002",
+    "correct": "\u79c1\u306f\u304a\u91d1\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
     "explanation": "Negative polite form already complete. (Pattern set 1)",
     "id": 20,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は日本語を話しますです。",
-    "correct": "私は日本語を話します。",
-    "explanation": "Do not stack ます and です in one predicate. (Pattern set 2)",
+    "wrong": "\u79c1\u306f\u65e5\u672c\u8a9e\u3092\u8a71\u3057\u307e\u3059\u3067\u3059\u3002",
+    "correct": "\u79c1\u306f\u65e5\u672c\u8a9e\u3092\u8a71\u3057\u307e\u3059\u3002",
+    "explanation": "Do not stack \u307e\u3059 and \u3067\u3059 in one predicate. (Pattern set 2)",
     "id": 21,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本語が好きをです。",
-    "correct": "日本語が好きです。",
-    "explanation": "好き takes が, not を. (Pattern set 2)",
+    "wrong": "\u65e5\u672c\u8a9e\u304c\u597d\u304d\u3092\u3067\u3059\u3002",
+    "correct": "\u65e5\u672c\u8a9e\u304c\u597d\u304d\u3067\u3059\u3002",
+    "explanation": "\u597d\u304d takes \u304c, not \u3092. (Pattern set 2)",
     "id": 22,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "静かい部屋",
-    "correct": "静かな部屋",
-    "explanation": "な-adjectives require な before nouns. (Pattern set 2)",
+    "wrong": "\u9759\u304b\u3044\u90e8\u5c4b",
+    "correct": "\u9759\u304b\u306a\u90e8\u5c4b",
+    "explanation": "\u306a-adjectives require \u306a before nouns. (Pattern set 2)",
     "id": 23,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "これはおいしいだ。",
-    "correct": "これはおいしい。",
-    "explanation": "い-adjectives do not take だ in plain present. (Pattern set 2)",
+    "wrong": "\u3053\u308c\u306f\u304a\u3044\u3057\u3044\u3060\u3002",
+    "correct": "\u3053\u308c\u306f\u304a\u3044\u3057\u3044\u3002",
+    "explanation": "\u3044-adjectives do not take \u3060 in plain present. (Pattern set 2)",
     "id": 24,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "先生は私を日本語を教えました。",
-    "correct": "先生は私に日本語を教えました。",
-    "explanation": "Recipient takes に with 教える. (Pattern set 2)",
+    "wrong": "\u5148\u751f\u306f\u79c1\u3092\u65e5\u672c\u8a9e\u3092\u6559\u3048\u307e\u3057\u305f\u3002",
+    "correct": "\u5148\u751f\u306f\u79c1\u306b\u65e5\u672c\u8a9e\u3092\u6559\u3048\u307e\u3057\u305f\u3002",
+    "explanation": "Recipient takes \u306b with \u6559\u3048\u308b. (Pattern set 2)",
     "id": 25,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "図書館に本を借りました。",
-    "correct": "図書館で本を借りました。",
-    "explanation": "で marks location of action. (Pattern set 2)",
+    "wrong": "\u56f3\u66f8\u9928\u306b\u672c\u3092\u501f\u308a\u307e\u3057\u305f\u3002",
+    "correct": "\u56f3\u66f8\u9928\u3067\u672c\u3092\u501f\u308a\u307e\u3057\u305f\u3002",
+    "explanation": "\u3067 marks location of action. (Pattern set 2)",
     "id": 26,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は昨日東京に行きます。",
-    "correct": "私は昨日東京に行きました。",
+    "wrong": "\u79c1\u306f\u6628\u65e5\u6771\u4eac\u306b\u884c\u304d\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u6628\u65e5\u6771\u4eac\u306b\u884c\u304d\u307e\u3057\u305f\u3002",
     "explanation": "Use past tense for past actions. (Pattern set 2)",
     "id": 27,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "東京は人が多いです、きれいです。",
-    "correct": "東京は人が多くて、きれいです。",
-    "explanation": "Use て-form to connect clauses. (Pattern set 2)",
+    "wrong": "\u6771\u4eac\u306f\u4eba\u304c\u591a\u3044\u3067\u3059\u3001\u304d\u308c\u3044\u3067\u3059\u3002",
+    "correct": "\u6771\u4eac\u306f\u4eba\u304c\u591a\u304f\u3066\u3001\u304d\u308c\u3044\u3067\u3059\u3002",
+    "explanation": "Use \u3066-form to connect clauses. (Pattern set 2)",
     "id": 28,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "友達に会うを楽しみにしています。",
-    "correct": "友達に会うのを楽しみにしています。",
-    "explanation": "Nominalize with の before を. (Pattern set 2)",
+    "wrong": "\u53cb\u9054\u306b\u4f1a\u3046\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "correct": "\u53cb\u9054\u306b\u4f1a\u3046\u306e\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "explanation": "Nominalize with \u306e before \u3092. (Pattern set 2)",
     "id": 29,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は兄さんが二人います。",
-    "correct": "私は兄が二人います。",
-    "explanation": "Use 兄 for your own older brother. (Pattern set 2)",
+    "wrong": "\u79c1\u306f\u5144\u3055\u3093\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u5144\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "explanation": "Use \u5144 for your own older brother. (Pattern set 2)",
     "id": 30,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "毎日日本語を勉強していますから上手になります。",
-    "correct": "毎日日本語を勉強しているので上手になります。",
-    "explanation": "ので is smoother/neutral for reason. (Pattern set 2)",
+    "wrong": "\u6bce\u65e5\u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u3066\u3044\u307e\u3059\u304b\u3089\u4e0a\u624b\u306b\u306a\u308a\u307e\u3059\u3002",
+    "correct": "\u6bce\u65e5\u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u3066\u3044\u308b\u306e\u3067\u4e0a\u624b\u306b\u306a\u308a\u307e\u3059\u3002",
+    "explanation": "\u306e\u3067 is smoother/neutral for reason. (Pattern set 2)",
     "id": 31,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "もし雨が降ります、行きません。",
-    "correct": "もし雨が降ったら、行きません。",
-    "explanation": "Conditional needs たら/なら etc. (Pattern set 2)",
+    "wrong": "\u3082\u3057\u96e8\u304c\u964d\u308a\u307e\u3059\u3001\u884c\u304d\u307e\u305b\u3093\u3002",
+    "correct": "\u3082\u3057\u96e8\u304c\u964d\u3063\u305f\u3089\u3001\u884c\u304d\u307e\u305b\u3093\u3002",
+    "explanation": "Conditional needs \u305f\u3089/\u306a\u3089 etc. (Pattern set 2)",
     "id": 32,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "これは私のです本。",
-    "correct": "これは私の本です。",
-    "explanation": "Place の correctly in noun phrase. (Pattern set 2)",
+    "wrong": "\u3053\u308c\u306f\u79c1\u306e\u3067\u3059\u672c\u3002",
+    "correct": "\u3053\u308c\u306f\u79c1\u306e\u672c\u3067\u3059\u3002",
+    "explanation": "Place \u306e correctly in noun phrase. (Pattern set 2)",
     "id": 33,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "会議は三時からで始まります。",
-    "correct": "会議は三時から始まります。",
-    "explanation": "Remove unnecessary particle after から. (Pattern set 2)",
+    "wrong": "\u4f1a\u8b70\u306f\u4e09\u6642\u304b\u3089\u3067\u59cb\u307e\u308a\u307e\u3059\u3002",
+    "correct": "\u4f1a\u8b70\u306f\u4e09\u6642\u304b\u3089\u59cb\u307e\u308a\u307e\u3059\u3002",
+    "explanation": "Remove unnecessary particle after \u304b\u3089. (Pattern set 2)",
     "id": 34,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本へ旅行を行きたい。",
-    "correct": "日本へ旅行に行きたい。",
-    "explanation": "Use に行く for purpose. (Pattern set 2)",
+    "wrong": "\u65e5\u672c\u3078\u65c5\u884c\u3092\u884c\u304d\u305f\u3044\u3002",
+    "correct": "\u65e5\u672c\u3078\u65c5\u884c\u306b\u884c\u304d\u305f\u3044\u3002",
+    "explanation": "Use \u306b\u884c\u304f for purpose. (Pattern set 2)",
     "id": 35,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本語をわかります。",
-    "correct": "日本語がわかります。",
-    "explanation": "わかる takes が. (Pattern set 2)",
+    "wrong": "\u65e5\u672c\u8a9e\u3092\u308f\u304b\u308a\u307e\u3059\u3002",
+    "correct": "\u65e5\u672c\u8a9e\u304c\u308f\u304b\u308a\u307e\u3059\u3002",
+    "explanation": "\u308f\u304b\u308b takes \u304c. (Pattern set 2)",
     "id": 36,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "宿題を忘れないよう、メモします。",
-    "correct": "宿題を忘れないように、メモします。",
-    "explanation": "Use ように for purpose/prevention. (Pattern set 2)",
+    "wrong": "\u5bbf\u984c\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u3001\u30e1\u30e2\u3057\u307e\u3059\u3002",
+    "correct": "\u5bbf\u984c\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u306b\u3001\u30e1\u30e2\u3057\u307e\u3059\u3002",
+    "explanation": "Use \u3088\u3046\u306b for purpose/prevention. (Pattern set 2)",
     "id": 37,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "駅まで十分歩きますかかる。",
-    "correct": "駅まで歩いて十分かかる。",
+    "wrong": "\u99c5\u307e\u3067\u5341\u5206\u6b69\u304d\u307e\u3059\u304b\u304b\u308b\u3002",
+    "correct": "\u99c5\u307e\u3067\u6b69\u3044\u3066\u5341\u5206\u304b\u304b\u308b\u3002",
     "explanation": "Use natural collocation and order. (Pattern set 2)",
     "id": 38,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "この漢字は読み方が難しいです。",
-    "correct": "この漢字の読み方は難しいです。",
-    "explanation": "Prefer noun linkage with の. (Pattern set 2)",
+    "wrong": "\u3053\u306e\u6f22\u5b57\u306f\u8aad\u307f\u65b9\u304c\u96e3\u3057\u3044\u3067\u3059\u3002",
+    "correct": "\u3053\u306e\u6f22\u5b57\u306e\u8aad\u307f\u65b9\u306f\u96e3\u3057\u3044\u3067\u3059\u3002",
+    "explanation": "Prefer noun linkage with \u306e. (Pattern set 2)",
     "id": 39,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私はお金がありませんです。",
-    "correct": "私はお金がありません。",
+    "wrong": "\u79c1\u306f\u304a\u91d1\u304c\u3042\u308a\u307e\u305b\u3093\u3067\u3059\u3002",
+    "correct": "\u79c1\u306f\u304a\u91d1\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
     "explanation": "Negative polite form already complete. (Pattern set 2)",
     "id": 40,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は日本語を話しますです。",
-    "correct": "私は日本語を話します。",
-    "explanation": "Do not stack ます and です in one predicate. (Pattern set 3)",
+    "wrong": "\u79c1\u306f\u65e5\u672c\u8a9e\u3092\u8a71\u3057\u307e\u3059\u3067\u3059\u3002",
+    "correct": "\u79c1\u306f\u65e5\u672c\u8a9e\u3092\u8a71\u3057\u307e\u3059\u3002",
+    "explanation": "Do not stack \u307e\u3059 and \u3067\u3059 in one predicate. (Pattern set 3)",
     "id": 41,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本語が好きをです。",
-    "correct": "日本語が好きです。",
-    "explanation": "好き takes が, not を. (Pattern set 3)",
+    "wrong": "\u65e5\u672c\u8a9e\u304c\u597d\u304d\u3092\u3067\u3059\u3002",
+    "correct": "\u65e5\u672c\u8a9e\u304c\u597d\u304d\u3067\u3059\u3002",
+    "explanation": "\u597d\u304d takes \u304c, not \u3092. (Pattern set 3)",
     "id": 42,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "静かい部屋",
-    "correct": "静かな部屋",
-    "explanation": "な-adjectives require な before nouns. (Pattern set 3)",
+    "wrong": "\u9759\u304b\u3044\u90e8\u5c4b",
+    "correct": "\u9759\u304b\u306a\u90e8\u5c4b",
+    "explanation": "\u306a-adjectives require \u306a before nouns. (Pattern set 3)",
     "id": 43,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "これはおいしいだ。",
-    "correct": "これはおいしい。",
-    "explanation": "い-adjectives do not take だ in plain present. (Pattern set 3)",
+    "wrong": "\u3053\u308c\u306f\u304a\u3044\u3057\u3044\u3060\u3002",
+    "correct": "\u3053\u308c\u306f\u304a\u3044\u3057\u3044\u3002",
+    "explanation": "\u3044-adjectives do not take \u3060 in plain present. (Pattern set 3)",
     "id": 44,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "先生は私を日本語を教えました。",
-    "correct": "先生は私に日本語を教えました。",
-    "explanation": "Recipient takes に with 教える. (Pattern set 3)",
+    "wrong": "\u5148\u751f\u306f\u79c1\u3092\u65e5\u672c\u8a9e\u3092\u6559\u3048\u307e\u3057\u305f\u3002",
+    "correct": "\u5148\u751f\u306f\u79c1\u306b\u65e5\u672c\u8a9e\u3092\u6559\u3048\u307e\u3057\u305f\u3002",
+    "explanation": "Recipient takes \u306b with \u6559\u3048\u308b. (Pattern set 3)",
     "id": 45,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "図書館に本を借りました。",
-    "correct": "図書館で本を借りました。",
-    "explanation": "で marks location of action. (Pattern set 3)",
+    "wrong": "\u56f3\u66f8\u9928\u306b\u672c\u3092\u501f\u308a\u307e\u3057\u305f\u3002",
+    "correct": "\u56f3\u66f8\u9928\u3067\u672c\u3092\u501f\u308a\u307e\u3057\u305f\u3002",
+    "explanation": "\u3067 marks location of action. (Pattern set 3)",
     "id": 46,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は昨日東京に行きます。",
-    "correct": "私は昨日東京に行きました。",
+    "wrong": "\u79c1\u306f\u6628\u65e5\u6771\u4eac\u306b\u884c\u304d\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u6628\u65e5\u6771\u4eac\u306b\u884c\u304d\u307e\u3057\u305f\u3002",
     "explanation": "Use past tense for past actions. (Pattern set 3)",
     "id": 47,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "東京は人が多いです、きれいです。",
-    "correct": "東京は人が多くて、きれいです。",
-    "explanation": "Use て-form to connect clauses. (Pattern set 3)",
+    "wrong": "\u6771\u4eac\u306f\u4eba\u304c\u591a\u3044\u3067\u3059\u3001\u304d\u308c\u3044\u3067\u3059\u3002",
+    "correct": "\u6771\u4eac\u306f\u4eba\u304c\u591a\u304f\u3066\u3001\u304d\u308c\u3044\u3067\u3059\u3002",
+    "explanation": "Use \u3066-form to connect clauses. (Pattern set 3)",
     "id": 48,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "友達に会うを楽しみにしています。",
-    "correct": "友達に会うのを楽しみにしています。",
-    "explanation": "Nominalize with の before を. (Pattern set 3)",
+    "wrong": "\u53cb\u9054\u306b\u4f1a\u3046\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "correct": "\u53cb\u9054\u306b\u4f1a\u3046\u306e\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "explanation": "Nominalize with \u306e before \u3092. (Pattern set 3)",
     "id": 49,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は兄さんが二人います。",
-    "correct": "私は兄が二人います。",
-    "explanation": "Use 兄 for your own older brother. (Pattern set 3)",
+    "wrong": "\u79c1\u306f\u5144\u3055\u3093\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u5144\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "explanation": "Use \u5144 for your own older brother. (Pattern set 3)",
     "id": 50,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "毎日日本語を勉強していますから上手になります。",
-    "correct": "毎日日本語を勉強しているので上手になります。",
-    "explanation": "ので is smoother/neutral for reason. (Pattern set 3)",
+    "wrong": "\u6bce\u65e5\u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u3066\u3044\u307e\u3059\u304b\u3089\u4e0a\u624b\u306b\u306a\u308a\u307e\u3059\u3002",
+    "correct": "\u6bce\u65e5\u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u3066\u3044\u308b\u306e\u3067\u4e0a\u624b\u306b\u306a\u308a\u307e\u3059\u3002",
+    "explanation": "\u306e\u3067 is smoother/neutral for reason. (Pattern set 3)",
     "id": 51,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "もし雨が降ります、行きません。",
-    "correct": "もし雨が降ったら、行きません。",
-    "explanation": "Conditional needs たら/なら etc. (Pattern set 3)",
+    "wrong": "\u3082\u3057\u96e8\u304c\u964d\u308a\u307e\u3059\u3001\u884c\u304d\u307e\u305b\u3093\u3002",
+    "correct": "\u3082\u3057\u96e8\u304c\u964d\u3063\u305f\u3089\u3001\u884c\u304d\u307e\u305b\u3093\u3002",
+    "explanation": "Conditional needs \u305f\u3089/\u306a\u3089 etc. (Pattern set 3)",
     "id": 52,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "これは私のです本。",
-    "correct": "これは私の本です。",
-    "explanation": "Place の correctly in noun phrase. (Pattern set 3)",
+    "wrong": "\u3053\u308c\u306f\u79c1\u306e\u3067\u3059\u672c\u3002",
+    "correct": "\u3053\u308c\u306f\u79c1\u306e\u672c\u3067\u3059\u3002",
+    "explanation": "Place \u306e correctly in noun phrase. (Pattern set 3)",
     "id": 53,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "会議は三時からで始まります。",
-    "correct": "会議は三時から始まります。",
-    "explanation": "Remove unnecessary particle after から. (Pattern set 3)",
+    "wrong": "\u4f1a\u8b70\u306f\u4e09\u6642\u304b\u3089\u3067\u59cb\u307e\u308a\u307e\u3059\u3002",
+    "correct": "\u4f1a\u8b70\u306f\u4e09\u6642\u304b\u3089\u59cb\u307e\u308a\u307e\u3059\u3002",
+    "explanation": "Remove unnecessary particle after \u304b\u3089. (Pattern set 3)",
     "id": 54,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本へ旅行を行きたい。",
-    "correct": "日本へ旅行に行きたい。",
-    "explanation": "Use に行く for purpose. (Pattern set 3)",
+    "wrong": "\u65e5\u672c\u3078\u65c5\u884c\u3092\u884c\u304d\u305f\u3044\u3002",
+    "correct": "\u65e5\u672c\u3078\u65c5\u884c\u306b\u884c\u304d\u305f\u3044\u3002",
+    "explanation": "Use \u306b\u884c\u304f for purpose. (Pattern set 3)",
     "id": 55,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本語をわかります。",
-    "correct": "日本語がわかります。",
-    "explanation": "わかる takes が. (Pattern set 3)",
+    "wrong": "\u65e5\u672c\u8a9e\u3092\u308f\u304b\u308a\u307e\u3059\u3002",
+    "correct": "\u65e5\u672c\u8a9e\u304c\u308f\u304b\u308a\u307e\u3059\u3002",
+    "explanation": "\u308f\u304b\u308b takes \u304c. (Pattern set 3)",
     "id": 56,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "宿題を忘れないよう、メモします。",
-    "correct": "宿題を忘れないように、メモします。",
-    "explanation": "Use ように for purpose/prevention. (Pattern set 3)",
+    "wrong": "\u5bbf\u984c\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u3001\u30e1\u30e2\u3057\u307e\u3059\u3002",
+    "correct": "\u5bbf\u984c\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u306b\u3001\u30e1\u30e2\u3057\u307e\u3059\u3002",
+    "explanation": "Use \u3088\u3046\u306b for purpose/prevention. (Pattern set 3)",
     "id": 57,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "駅まで十分歩きますかかる。",
-    "correct": "駅まで歩いて十分かかる。",
+    "wrong": "\u99c5\u307e\u3067\u5341\u5206\u6b69\u304d\u307e\u3059\u304b\u304b\u308b\u3002",
+    "correct": "\u99c5\u307e\u3067\u6b69\u3044\u3066\u5341\u5206\u304b\u304b\u308b\u3002",
     "explanation": "Use natural collocation and order. (Pattern set 3)",
     "id": 58,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "この漢字は読み方が難しいです。",
-    "correct": "この漢字の読み方は難しいです。",
-    "explanation": "Prefer noun linkage with の. (Pattern set 3)",
+    "wrong": "\u3053\u306e\u6f22\u5b57\u306f\u8aad\u307f\u65b9\u304c\u96e3\u3057\u3044\u3067\u3059\u3002",
+    "correct": "\u3053\u306e\u6f22\u5b57\u306e\u8aad\u307f\u65b9\u306f\u96e3\u3057\u3044\u3067\u3059\u3002",
+    "explanation": "Prefer noun linkage with \u306e. (Pattern set 3)",
     "id": 59,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私はお金がありませんです。",
-    "correct": "私はお金がありません。",
+    "wrong": "\u79c1\u306f\u304a\u91d1\u304c\u3042\u308a\u307e\u305b\u3093\u3067\u3059\u3002",
+    "correct": "\u79c1\u306f\u304a\u91d1\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
     "explanation": "Negative polite form already complete. (Pattern set 3)",
     "id": 60,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は日本語を話しますです。",
-    "correct": "私は日本語を話します。",
-    "explanation": "Do not stack ます and です in one predicate. (Pattern set 4)",
+    "wrong": "\u79c1\u306f\u65e5\u672c\u8a9e\u3092\u8a71\u3057\u307e\u3059\u3067\u3059\u3002",
+    "correct": "\u79c1\u306f\u65e5\u672c\u8a9e\u3092\u8a71\u3057\u307e\u3059\u3002",
+    "explanation": "Do not stack \u307e\u3059 and \u3067\u3059 in one predicate. (Pattern set 4)",
     "id": 61,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本語が好きをです。",
-    "correct": "日本語が好きです。",
-    "explanation": "好き takes が, not を. (Pattern set 4)",
+    "wrong": "\u65e5\u672c\u8a9e\u304c\u597d\u304d\u3092\u3067\u3059\u3002",
+    "correct": "\u65e5\u672c\u8a9e\u304c\u597d\u304d\u3067\u3059\u3002",
+    "explanation": "\u597d\u304d takes \u304c, not \u3092. (Pattern set 4)",
     "id": 62,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "静かい部屋",
-    "correct": "静かな部屋",
-    "explanation": "な-adjectives require な before nouns. (Pattern set 4)",
+    "wrong": "\u9759\u304b\u3044\u90e8\u5c4b",
+    "correct": "\u9759\u304b\u306a\u90e8\u5c4b",
+    "explanation": "\u306a-adjectives require \u306a before nouns. (Pattern set 4)",
     "id": 63,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "これはおいしいだ。",
-    "correct": "これはおいしい。",
-    "explanation": "い-adjectives do not take だ in plain present. (Pattern set 4)",
+    "wrong": "\u3053\u308c\u306f\u304a\u3044\u3057\u3044\u3060\u3002",
+    "correct": "\u3053\u308c\u306f\u304a\u3044\u3057\u3044\u3002",
+    "explanation": "\u3044-adjectives do not take \u3060 in plain present. (Pattern set 4)",
     "id": 64,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "先生は私を日本語を教えました。",
-    "correct": "先生は私に日本語を教えました。",
-    "explanation": "Recipient takes に with 教える. (Pattern set 4)",
+    "wrong": "\u5148\u751f\u306f\u79c1\u3092\u65e5\u672c\u8a9e\u3092\u6559\u3048\u307e\u3057\u305f\u3002",
+    "correct": "\u5148\u751f\u306f\u79c1\u306b\u65e5\u672c\u8a9e\u3092\u6559\u3048\u307e\u3057\u305f\u3002",
+    "explanation": "Recipient takes \u306b with \u6559\u3048\u308b. (Pattern set 4)",
     "id": 65,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "図書館に本を借りました。",
-    "correct": "図書館で本を借りました。",
-    "explanation": "で marks location of action. (Pattern set 4)",
+    "wrong": "\u56f3\u66f8\u9928\u306b\u672c\u3092\u501f\u308a\u307e\u3057\u305f\u3002",
+    "correct": "\u56f3\u66f8\u9928\u3067\u672c\u3092\u501f\u308a\u307e\u3057\u305f\u3002",
+    "explanation": "\u3067 marks location of action. (Pattern set 4)",
     "id": 66,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は昨日東京に行きます。",
-    "correct": "私は昨日東京に行きました。",
+    "wrong": "\u79c1\u306f\u6628\u65e5\u6771\u4eac\u306b\u884c\u304d\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u6628\u65e5\u6771\u4eac\u306b\u884c\u304d\u307e\u3057\u305f\u3002",
     "explanation": "Use past tense for past actions. (Pattern set 4)",
     "id": 67,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "東京は人が多いです、きれいです。",
-    "correct": "東京は人が多くて、きれいです。",
-    "explanation": "Use て-form to connect clauses. (Pattern set 4)",
+    "wrong": "\u6771\u4eac\u306f\u4eba\u304c\u591a\u3044\u3067\u3059\u3001\u304d\u308c\u3044\u3067\u3059\u3002",
+    "correct": "\u6771\u4eac\u306f\u4eba\u304c\u591a\u304f\u3066\u3001\u304d\u308c\u3044\u3067\u3059\u3002",
+    "explanation": "Use \u3066-form to connect clauses. (Pattern set 4)",
     "id": 68,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "友達に会うを楽しみにしています。",
-    "correct": "友達に会うのを楽しみにしています。",
-    "explanation": "Nominalize with の before を. (Pattern set 4)",
+    "wrong": "\u53cb\u9054\u306b\u4f1a\u3046\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "correct": "\u53cb\u9054\u306b\u4f1a\u3046\u306e\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "explanation": "Nominalize with \u306e before \u3092. (Pattern set 4)",
     "id": 69,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は兄さんが二人います。",
-    "correct": "私は兄が二人います。",
-    "explanation": "Use 兄 for your own older brother. (Pattern set 4)",
+    "wrong": "\u79c1\u306f\u5144\u3055\u3093\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u5144\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "explanation": "Use \u5144 for your own older brother. (Pattern set 4)",
     "id": 70,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "毎日日本語を勉強していますから上手になります。",
-    "correct": "毎日日本語を勉強しているので上手になります。",
-    "explanation": "ので is smoother/neutral for reason. (Pattern set 4)",
+    "wrong": "\u6bce\u65e5\u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u3066\u3044\u307e\u3059\u304b\u3089\u4e0a\u624b\u306b\u306a\u308a\u307e\u3059\u3002",
+    "correct": "\u6bce\u65e5\u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u3066\u3044\u308b\u306e\u3067\u4e0a\u624b\u306b\u306a\u308a\u307e\u3059\u3002",
+    "explanation": "\u306e\u3067 is smoother/neutral for reason. (Pattern set 4)",
     "id": 71,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "もし雨が降ります、行きません。",
-    "correct": "もし雨が降ったら、行きません。",
-    "explanation": "Conditional needs たら/なら etc. (Pattern set 4)",
+    "wrong": "\u3082\u3057\u96e8\u304c\u964d\u308a\u307e\u3059\u3001\u884c\u304d\u307e\u305b\u3093\u3002",
+    "correct": "\u3082\u3057\u96e8\u304c\u964d\u3063\u305f\u3089\u3001\u884c\u304d\u307e\u305b\u3093\u3002",
+    "explanation": "Conditional needs \u305f\u3089/\u306a\u3089 etc. (Pattern set 4)",
     "id": 72,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "これは私のです本。",
-    "correct": "これは私の本です。",
-    "explanation": "Place の correctly in noun phrase. (Pattern set 4)",
+    "wrong": "\u3053\u308c\u306f\u79c1\u306e\u3067\u3059\u672c\u3002",
+    "correct": "\u3053\u308c\u306f\u79c1\u306e\u672c\u3067\u3059\u3002",
+    "explanation": "Place \u306e correctly in noun phrase. (Pattern set 4)",
     "id": 73,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "会議は三時からで始まります。",
-    "correct": "会議は三時から始まります。",
-    "explanation": "Remove unnecessary particle after から. (Pattern set 4)",
+    "wrong": "\u4f1a\u8b70\u306f\u4e09\u6642\u304b\u3089\u3067\u59cb\u307e\u308a\u307e\u3059\u3002",
+    "correct": "\u4f1a\u8b70\u306f\u4e09\u6642\u304b\u3089\u59cb\u307e\u308a\u307e\u3059\u3002",
+    "explanation": "Remove unnecessary particle after \u304b\u3089. (Pattern set 4)",
     "id": 74,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本へ旅行を行きたい。",
-    "correct": "日本へ旅行に行きたい。",
-    "explanation": "Use に行く for purpose. (Pattern set 4)",
+    "wrong": "\u65e5\u672c\u3078\u65c5\u884c\u3092\u884c\u304d\u305f\u3044\u3002",
+    "correct": "\u65e5\u672c\u3078\u65c5\u884c\u306b\u884c\u304d\u305f\u3044\u3002",
+    "explanation": "Use \u306b\u884c\u304f for purpose. (Pattern set 4)",
     "id": 75,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本語をわかります。",
-    "correct": "日本語がわかります。",
-    "explanation": "わかる takes が. (Pattern set 4)",
+    "wrong": "\u65e5\u672c\u8a9e\u3092\u308f\u304b\u308a\u307e\u3059\u3002",
+    "correct": "\u65e5\u672c\u8a9e\u304c\u308f\u304b\u308a\u307e\u3059\u3002",
+    "explanation": "\u308f\u304b\u308b takes \u304c. (Pattern set 4)",
     "id": 76,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "宿題を忘れないよう、メモします。",
-    "correct": "宿題を忘れないように、メモします。",
-    "explanation": "Use ように for purpose/prevention. (Pattern set 4)",
+    "wrong": "\u5bbf\u984c\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u3001\u30e1\u30e2\u3057\u307e\u3059\u3002",
+    "correct": "\u5bbf\u984c\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u306b\u3001\u30e1\u30e2\u3057\u307e\u3059\u3002",
+    "explanation": "Use \u3088\u3046\u306b for purpose/prevention. (Pattern set 4)",
     "id": 77,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "駅まで十分歩きますかかる。",
-    "correct": "駅まで歩いて十分かかる。",
+    "wrong": "\u99c5\u307e\u3067\u5341\u5206\u6b69\u304d\u307e\u3059\u304b\u304b\u308b\u3002",
+    "correct": "\u99c5\u307e\u3067\u6b69\u3044\u3066\u5341\u5206\u304b\u304b\u308b\u3002",
     "explanation": "Use natural collocation and order. (Pattern set 4)",
     "id": 78,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "この漢字は読み方が難しいです。",
-    "correct": "この漢字の読み方は難しいです。",
-    "explanation": "Prefer noun linkage with の. (Pattern set 4)",
+    "wrong": "\u3053\u306e\u6f22\u5b57\u306f\u8aad\u307f\u65b9\u304c\u96e3\u3057\u3044\u3067\u3059\u3002",
+    "correct": "\u3053\u306e\u6f22\u5b57\u306e\u8aad\u307f\u65b9\u306f\u96e3\u3057\u3044\u3067\u3059\u3002",
+    "explanation": "Prefer noun linkage with \u306e. (Pattern set 4)",
     "id": 79,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私はお金がありませんです。",
-    "correct": "私はお金がありません。",
+    "wrong": "\u79c1\u306f\u304a\u91d1\u304c\u3042\u308a\u307e\u305b\u3093\u3067\u3059\u3002",
+    "correct": "\u79c1\u306f\u304a\u91d1\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
     "explanation": "Negative polite form already complete. (Pattern set 4)",
     "id": 80,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は日本語を話しますです。",
-    "correct": "私は日本語を話します。",
-    "explanation": "Do not stack ます and です in one predicate. (Pattern set 5)",
+    "wrong": "\u79c1\u306f\u65e5\u672c\u8a9e\u3092\u8a71\u3057\u307e\u3059\u3067\u3059\u3002",
+    "correct": "\u79c1\u306f\u65e5\u672c\u8a9e\u3092\u8a71\u3057\u307e\u3059\u3002",
+    "explanation": "Do not stack \u307e\u3059 and \u3067\u3059 in one predicate. (Pattern set 5)",
     "id": 81,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本語が好きをです。",
-    "correct": "日本語が好きです。",
-    "explanation": "好き takes が, not を. (Pattern set 5)",
+    "wrong": "\u65e5\u672c\u8a9e\u304c\u597d\u304d\u3092\u3067\u3059\u3002",
+    "correct": "\u65e5\u672c\u8a9e\u304c\u597d\u304d\u3067\u3059\u3002",
+    "explanation": "\u597d\u304d takes \u304c, not \u3092. (Pattern set 5)",
     "id": 82,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "静かい部屋",
-    "correct": "静かな部屋",
-    "explanation": "な-adjectives require な before nouns. (Pattern set 5)",
+    "wrong": "\u9759\u304b\u3044\u90e8\u5c4b",
+    "correct": "\u9759\u304b\u306a\u90e8\u5c4b",
+    "explanation": "\u306a-adjectives require \u306a before nouns. (Pattern set 5)",
     "id": 83,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "これはおいしいだ。",
-    "correct": "これはおいしい。",
-    "explanation": "い-adjectives do not take だ in plain present. (Pattern set 5)",
+    "wrong": "\u3053\u308c\u306f\u304a\u3044\u3057\u3044\u3060\u3002",
+    "correct": "\u3053\u308c\u306f\u304a\u3044\u3057\u3044\u3002",
+    "explanation": "\u3044-adjectives do not take \u3060 in plain present. (Pattern set 5)",
     "id": 84,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "先生は私を日本語を教えました。",
-    "correct": "先生は私に日本語を教えました。",
-    "explanation": "Recipient takes に with 教える. (Pattern set 5)",
+    "wrong": "\u5148\u751f\u306f\u79c1\u3092\u65e5\u672c\u8a9e\u3092\u6559\u3048\u307e\u3057\u305f\u3002",
+    "correct": "\u5148\u751f\u306f\u79c1\u306b\u65e5\u672c\u8a9e\u3092\u6559\u3048\u307e\u3057\u305f\u3002",
+    "explanation": "Recipient takes \u306b with \u6559\u3048\u308b. (Pattern set 5)",
     "id": 85,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "図書館に本を借りました。",
-    "correct": "図書館で本を借りました。",
-    "explanation": "で marks location of action. (Pattern set 5)",
+    "wrong": "\u56f3\u66f8\u9928\u306b\u672c\u3092\u501f\u308a\u307e\u3057\u305f\u3002",
+    "correct": "\u56f3\u66f8\u9928\u3067\u672c\u3092\u501f\u308a\u307e\u3057\u305f\u3002",
+    "explanation": "\u3067 marks location of action. (Pattern set 5)",
     "id": 86,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は昨日東京に行きます。",
-    "correct": "私は昨日東京に行きました。",
+    "wrong": "\u79c1\u306f\u6628\u65e5\u6771\u4eac\u306b\u884c\u304d\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u6628\u65e5\u6771\u4eac\u306b\u884c\u304d\u307e\u3057\u305f\u3002",
     "explanation": "Use past tense for past actions. (Pattern set 5)",
     "id": 87,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "東京は人が多いです、きれいです。",
-    "correct": "東京は人が多くて、きれいです。",
-    "explanation": "Use て-form to connect clauses. (Pattern set 5)",
+    "wrong": "\u6771\u4eac\u306f\u4eba\u304c\u591a\u3044\u3067\u3059\u3001\u304d\u308c\u3044\u3067\u3059\u3002",
+    "correct": "\u6771\u4eac\u306f\u4eba\u304c\u591a\u304f\u3066\u3001\u304d\u308c\u3044\u3067\u3059\u3002",
+    "explanation": "Use \u3066-form to connect clauses. (Pattern set 5)",
     "id": 88,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "友達に会うを楽しみにしています。",
-    "correct": "友達に会うのを楽しみにしています。",
-    "explanation": "Nominalize with の before を. (Pattern set 5)",
+    "wrong": "\u53cb\u9054\u306b\u4f1a\u3046\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "correct": "\u53cb\u9054\u306b\u4f1a\u3046\u306e\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "explanation": "Nominalize with \u306e before \u3092. (Pattern set 5)",
     "id": 89,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は兄さんが二人います。",
-    "correct": "私は兄が二人います。",
-    "explanation": "Use 兄 for your own older brother. (Pattern set 5)",
+    "wrong": "\u79c1\u306f\u5144\u3055\u3093\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u5144\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "explanation": "Use \u5144 for your own older brother. (Pattern set 5)",
     "id": 90,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "毎日日本語を勉強していますから上手になります。",
-    "correct": "毎日日本語を勉強しているので上手になります。",
-    "explanation": "ので is smoother/neutral for reason. (Pattern set 5)",
+    "wrong": "\u6bce\u65e5\u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u3066\u3044\u307e\u3059\u304b\u3089\u4e0a\u624b\u306b\u306a\u308a\u307e\u3059\u3002",
+    "correct": "\u6bce\u65e5\u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u3066\u3044\u308b\u306e\u3067\u4e0a\u624b\u306b\u306a\u308a\u307e\u3059\u3002",
+    "explanation": "\u306e\u3067 is smoother/neutral for reason. (Pattern set 5)",
     "id": 91,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "もし雨が降ります、行きません。",
-    "correct": "もし雨が降ったら、行きません。",
-    "explanation": "Conditional needs たら/なら etc. (Pattern set 5)",
+    "wrong": "\u3082\u3057\u96e8\u304c\u964d\u308a\u307e\u3059\u3001\u884c\u304d\u307e\u305b\u3093\u3002",
+    "correct": "\u3082\u3057\u96e8\u304c\u964d\u3063\u305f\u3089\u3001\u884c\u304d\u307e\u305b\u3093\u3002",
+    "explanation": "Conditional needs \u305f\u3089/\u306a\u3089 etc. (Pattern set 5)",
     "id": 92,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "これは私のです本。",
-    "correct": "これは私の本です。",
-    "explanation": "Place の correctly in noun phrase. (Pattern set 5)",
+    "wrong": "\u3053\u308c\u306f\u79c1\u306e\u3067\u3059\u672c\u3002",
+    "correct": "\u3053\u308c\u306f\u79c1\u306e\u672c\u3067\u3059\u3002",
+    "explanation": "Place \u306e correctly in noun phrase. (Pattern set 5)",
     "id": 93,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "会議は三時からで始まります。",
-    "correct": "会議は三時から始まります。",
-    "explanation": "Remove unnecessary particle after から. (Pattern set 5)",
+    "wrong": "\u4f1a\u8b70\u306f\u4e09\u6642\u304b\u3089\u3067\u59cb\u307e\u308a\u307e\u3059\u3002",
+    "correct": "\u4f1a\u8b70\u306f\u4e09\u6642\u304b\u3089\u59cb\u307e\u308a\u307e\u3059\u3002",
+    "explanation": "Remove unnecessary particle after \u304b\u3089. (Pattern set 5)",
     "id": 94,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本へ旅行を行きたい。",
-    "correct": "日本へ旅行に行きたい。",
-    "explanation": "Use に行く for purpose. (Pattern set 5)",
+    "wrong": "\u65e5\u672c\u3078\u65c5\u884c\u3092\u884c\u304d\u305f\u3044\u3002",
+    "correct": "\u65e5\u672c\u3078\u65c5\u884c\u306b\u884c\u304d\u305f\u3044\u3002",
+    "explanation": "Use \u306b\u884c\u304f for purpose. (Pattern set 5)",
     "id": 95,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本語をわかります。",
-    "correct": "日本語がわかります。",
-    "explanation": "わかる takes が. (Pattern set 5)",
+    "wrong": "\u65e5\u672c\u8a9e\u3092\u308f\u304b\u308a\u307e\u3059\u3002",
+    "correct": "\u65e5\u672c\u8a9e\u304c\u308f\u304b\u308a\u307e\u3059\u3002",
+    "explanation": "\u308f\u304b\u308b takes \u304c. (Pattern set 5)",
     "id": 96,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "宿題を忘れないよう、メモします。",
-    "correct": "宿題を忘れないように、メモします。",
-    "explanation": "Use ように for purpose/prevention. (Pattern set 5)",
+    "wrong": "\u5bbf\u984c\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u3001\u30e1\u30e2\u3057\u307e\u3059\u3002",
+    "correct": "\u5bbf\u984c\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u306b\u3001\u30e1\u30e2\u3057\u307e\u3059\u3002",
+    "explanation": "Use \u3088\u3046\u306b for purpose/prevention. (Pattern set 5)",
     "id": 97,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "駅まで十分歩きますかかる。",
-    "correct": "駅まで歩いて十分かかる。",
+    "wrong": "\u99c5\u307e\u3067\u5341\u5206\u6b69\u304d\u307e\u3059\u304b\u304b\u308b\u3002",
+    "correct": "\u99c5\u307e\u3067\u6b69\u3044\u3066\u5341\u5206\u304b\u304b\u308b\u3002",
     "explanation": "Use natural collocation and order. (Pattern set 5)",
     "id": 98,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "この漢字は読み方が難しいです。",
-    "correct": "この漢字の読み方は難しいです。",
-    "explanation": "Prefer noun linkage with の. (Pattern set 5)",
+    "wrong": "\u3053\u306e\u6f22\u5b57\u306f\u8aad\u307f\u65b9\u304c\u96e3\u3057\u3044\u3067\u3059\u3002",
+    "correct": "\u3053\u306e\u6f22\u5b57\u306e\u8aad\u307f\u65b9\u306f\u96e3\u3057\u3044\u3067\u3059\u3002",
+    "explanation": "Prefer noun linkage with \u306e. (Pattern set 5)",
     "id": 99,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私はお金がありませんです。",
-    "correct": "私はお金がありません。",
+    "wrong": "\u79c1\u306f\u304a\u91d1\u304c\u3042\u308a\u307e\u305b\u3093\u3067\u3059\u3002",
+    "correct": "\u79c1\u306f\u304a\u91d1\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
     "explanation": "Negative polite form already complete. (Pattern set 5)",
     "id": 100,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は日本語を話しますです。",
-    "correct": "私は日本語を話します。",
-    "explanation": "Do not stack ます and です in one predicate. (Pattern set 6)",
+    "wrong": "\u79c1\u306f\u65e5\u672c\u8a9e\u3092\u8a71\u3057\u307e\u3059\u3067\u3059\u3002",
+    "correct": "\u79c1\u306f\u65e5\u672c\u8a9e\u3092\u8a71\u3057\u307e\u3059\u3002",
+    "explanation": "Do not stack \u307e\u3059 and \u3067\u3059 in one predicate. (Pattern set 6)",
     "id": 101,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本語が好きをです。",
-    "correct": "日本語が好きです。",
-    "explanation": "好き takes が, not を. (Pattern set 6)",
+    "wrong": "\u65e5\u672c\u8a9e\u304c\u597d\u304d\u3092\u3067\u3059\u3002",
+    "correct": "\u65e5\u672c\u8a9e\u304c\u597d\u304d\u3067\u3059\u3002",
+    "explanation": "\u597d\u304d takes \u304c, not \u3092. (Pattern set 6)",
     "id": 102,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "静かい部屋",
-    "correct": "静かな部屋",
-    "explanation": "な-adjectives require な before nouns. (Pattern set 6)",
+    "wrong": "\u9759\u304b\u3044\u90e8\u5c4b",
+    "correct": "\u9759\u304b\u306a\u90e8\u5c4b",
+    "explanation": "\u306a-adjectives require \u306a before nouns. (Pattern set 6)",
     "id": 103,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "これはおいしいだ。",
-    "correct": "これはおいしい。",
-    "explanation": "い-adjectives do not take だ in plain present. (Pattern set 6)",
+    "wrong": "\u3053\u308c\u306f\u304a\u3044\u3057\u3044\u3060\u3002",
+    "correct": "\u3053\u308c\u306f\u304a\u3044\u3057\u3044\u3002",
+    "explanation": "\u3044-adjectives do not take \u3060 in plain present. (Pattern set 6)",
     "id": 104,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "先生は私を日本語を教えました。",
-    "correct": "先生は私に日本語を教えました。",
-    "explanation": "Recipient takes に with 教える. (Pattern set 6)",
+    "wrong": "\u5148\u751f\u306f\u79c1\u3092\u65e5\u672c\u8a9e\u3092\u6559\u3048\u307e\u3057\u305f\u3002",
+    "correct": "\u5148\u751f\u306f\u79c1\u306b\u65e5\u672c\u8a9e\u3092\u6559\u3048\u307e\u3057\u305f\u3002",
+    "explanation": "Recipient takes \u306b with \u6559\u3048\u308b. (Pattern set 6)",
     "id": 105,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "図書館に本を借りました。",
-    "correct": "図書館で本を借りました。",
-    "explanation": "で marks location of action. (Pattern set 6)",
+    "wrong": "\u56f3\u66f8\u9928\u306b\u672c\u3092\u501f\u308a\u307e\u3057\u305f\u3002",
+    "correct": "\u56f3\u66f8\u9928\u3067\u672c\u3092\u501f\u308a\u307e\u3057\u305f\u3002",
+    "explanation": "\u3067 marks location of action. (Pattern set 6)",
     "id": 106,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は昨日東京に行きます。",
-    "correct": "私は昨日東京に行きました。",
+    "wrong": "\u79c1\u306f\u6628\u65e5\u6771\u4eac\u306b\u884c\u304d\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u6628\u65e5\u6771\u4eac\u306b\u884c\u304d\u307e\u3057\u305f\u3002",
     "explanation": "Use past tense for past actions. (Pattern set 6)",
     "id": 107,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "東京は人が多いです、きれいです。",
-    "correct": "東京は人が多くて、きれいです。",
-    "explanation": "Use て-form to connect clauses. (Pattern set 6)",
+    "wrong": "\u6771\u4eac\u306f\u4eba\u304c\u591a\u3044\u3067\u3059\u3001\u304d\u308c\u3044\u3067\u3059\u3002",
+    "correct": "\u6771\u4eac\u306f\u4eba\u304c\u591a\u304f\u3066\u3001\u304d\u308c\u3044\u3067\u3059\u3002",
+    "explanation": "Use \u3066-form to connect clauses. (Pattern set 6)",
     "id": 108,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "友達に会うを楽しみにしています。",
-    "correct": "友達に会うのを楽しみにしています。",
-    "explanation": "Nominalize with の before を. (Pattern set 6)",
+    "wrong": "\u53cb\u9054\u306b\u4f1a\u3046\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "correct": "\u53cb\u9054\u306b\u4f1a\u3046\u306e\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+    "explanation": "Nominalize with \u306e before \u3092. (Pattern set 6)",
     "id": 109,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私は兄さんが二人います。",
-    "correct": "私は兄が二人います。",
-    "explanation": "Use 兄 for your own older brother. (Pattern set 6)",
+    "wrong": "\u79c1\u306f\u5144\u3055\u3093\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u5144\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "explanation": "Use \u5144 for your own older brother. (Pattern set 6)",
     "id": 110,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "毎日日本語を勉強していますから上手になります。",
-    "correct": "毎日日本語を勉強しているので上手になります。",
-    "explanation": "ので is smoother/neutral for reason. (Pattern set 6)",
+    "wrong": "\u6bce\u65e5\u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u3066\u3044\u307e\u3059\u304b\u3089\u4e0a\u624b\u306b\u306a\u308a\u307e\u3059\u3002",
+    "correct": "\u6bce\u65e5\u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u3066\u3044\u308b\u306e\u3067\u4e0a\u624b\u306b\u306a\u308a\u307e\u3059\u3002",
+    "explanation": "\u306e\u3067 is smoother/neutral for reason. (Pattern set 6)",
     "id": 111,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "もし雨が降ります、行きません。",
-    "correct": "もし雨が降ったら、行きません。",
-    "explanation": "Conditional needs たら/なら etc. (Pattern set 6)",
+    "wrong": "\u3082\u3057\u96e8\u304c\u964d\u308a\u307e\u3059\u3001\u884c\u304d\u307e\u305b\u3093\u3002",
+    "correct": "\u3082\u3057\u96e8\u304c\u964d\u3063\u305f\u3089\u3001\u884c\u304d\u307e\u305b\u3093\u3002",
+    "explanation": "Conditional needs \u305f\u3089/\u306a\u3089 etc. (Pattern set 6)",
     "id": 112,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "これは私のです本。",
-    "correct": "これは私の本です。",
-    "explanation": "Place の correctly in noun phrase. (Pattern set 6)",
+    "wrong": "\u3053\u308c\u306f\u79c1\u306e\u3067\u3059\u672c\u3002",
+    "correct": "\u3053\u308c\u306f\u79c1\u306e\u672c\u3067\u3059\u3002",
+    "explanation": "Place \u306e correctly in noun phrase. (Pattern set 6)",
     "id": 113,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "会議は三時からで始まります。",
-    "correct": "会議は三時から始まります。",
-    "explanation": "Remove unnecessary particle after から. (Pattern set 6)",
+    "wrong": "\u4f1a\u8b70\u306f\u4e09\u6642\u304b\u3089\u3067\u59cb\u307e\u308a\u307e\u3059\u3002",
+    "correct": "\u4f1a\u8b70\u306f\u4e09\u6642\u304b\u3089\u59cb\u307e\u308a\u307e\u3059\u3002",
+    "explanation": "Remove unnecessary particle after \u304b\u3089. (Pattern set 6)",
     "id": 114,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本へ旅行を行きたい。",
-    "correct": "日本へ旅行に行きたい。",
-    "explanation": "Use に行く for purpose. (Pattern set 6)",
+    "wrong": "\u65e5\u672c\u3078\u65c5\u884c\u3092\u884c\u304d\u305f\u3044\u3002",
+    "correct": "\u65e5\u672c\u3078\u65c5\u884c\u306b\u884c\u304d\u305f\u3044\u3002",
+    "explanation": "Use \u306b\u884c\u304f for purpose. (Pattern set 6)",
     "id": 115,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "日本語をわかります。",
-    "correct": "日本語がわかります。",
-    "explanation": "わかる takes が. (Pattern set 6)",
+    "wrong": "\u65e5\u672c\u8a9e\u3092\u308f\u304b\u308a\u307e\u3059\u3002",
+    "correct": "\u65e5\u672c\u8a9e\u304c\u308f\u304b\u308a\u307e\u3059\u3002",
+    "explanation": "\u308f\u304b\u308b takes \u304c. (Pattern set 6)",
     "id": 116,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "宿題を忘れないよう、メモします。",
-    "correct": "宿題を忘れないように、メモします。",
-    "explanation": "Use ように for purpose/prevention. (Pattern set 6)",
+    "wrong": "\u5bbf\u984c\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u3001\u30e1\u30e2\u3057\u307e\u3059\u3002",
+    "correct": "\u5bbf\u984c\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u306b\u3001\u30e1\u30e2\u3057\u307e\u3059\u3002",
+    "explanation": "Use \u3088\u3046\u306b for purpose/prevention. (Pattern set 6)",
     "id": 117,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "駅まで十分歩きますかかる。",
-    "correct": "駅まで歩いて十分かかる。",
+    "wrong": "\u99c5\u307e\u3067\u5341\u5206\u6b69\u304d\u307e\u3059\u304b\u304b\u308b\u3002",
+    "correct": "\u99c5\u307e\u3067\u6b69\u3044\u3066\u5341\u5206\u304b\u304b\u308b\u3002",
     "explanation": "Use natural collocation and order. (Pattern set 6)",
     "id": 118,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "この漢字は読み方が難しいです。",
-    "correct": "この漢字の読み方は難しいです。",
-    "explanation": "Prefer noun linkage with の. (Pattern set 6)",
+    "wrong": "\u3053\u306e\u6f22\u5b57\u306f\u8aad\u307f\u65b9\u304c\u96e3\u3057\u3044\u3067\u3059\u3002",
+    "correct": "\u3053\u306e\u6f22\u5b57\u306e\u8aad\u307f\u65b9\u306f\u96e3\u3057\u3044\u3067\u3059\u3002",
+    "explanation": "Prefer noun linkage with \u306e. (Pattern set 6)",
     "id": 119,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "wrong": "私はお金がありませんです。",
-    "correct": "私はお金がありません。",
+    "wrong": "\u79c1\u306f\u304a\u91d1\u304c\u3042\u308a\u307e\u305b\u3093\u3067\u3059\u3002",
+    "correct": "\u79c1\u306f\u304a\u91d1\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
     "explanation": "Negative polite form already complete. (Pattern set 6)",
     "id": 120,
     "issued": false,
-    "completed": true
+    "completed": false
   }
 ]

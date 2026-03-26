@@ -1,841 +1,841 @@
 [
   {
     "id": 1,
-    "text": "Use \"〜です/〜ます\" for polite statements; it's the standard polite ending for everyday conversation.",
+    "text": "Use \"\u301c\u3067\u3059/\u301c\u307e\u3059\" for polite statements; it's the standard polite ending for everyday conversation.",
     "issued": false,
     "completed": false
   },
   {
     "id": 2,
-    "text": "\"〜ません\" is the polite negative form of verbs, used to say something doesn't happen.",
+    "text": "\"\u301c\u307e\u305b\u3093\" is the polite negative form of verbs, used to say something doesn't happen.",
     "issued": false,
     "completed": false
   },
   {
     "id": 3,
-    "text": "\"〜たい\" attaches to a verb stem to express \"want to do\" something.",
+    "text": "\"\u301c\u305f\u3044\" attaches to a verb stem to express \"want to do\" something.",
     "completed": false,
     "issued": false
   },
   {
     "id": 4,
-    "text": "\"〜てもいいです\" means \"it's okay to\" and grants permission.",
+    "text": "\"\u301c\u3066\u3082\u3044\u3044\u3067\u3059\" means \"it's okay to\" and grants permission.",
     "issued": false,
     "completed": false
   },
   {
     "id": 5,
-    "text": "\"〜てはいけません\" means \"must not\" and is used for prohibitions.",
+    "text": "\"\u301c\u3066\u306f\u3044\u3051\u307e\u305b\u3093\" means \"must not\" and is used for prohibitions.",
     "issued": false,
     "completed": false
   },
   {
     "id": 6,
-    "text": "\"〜ながら\" connects actions to show two things happening at the same time.",
+    "text": "\"\u301c\u306a\u304c\u3089\" connects actions to show two things happening at the same time.",
     "issued": false,
     "completed": false
   },
   {
     "id": 7,
-    "text": "\"〜たことがある\" expresses past experience, like \"have done\" something before.",
+    "text": "\"\u301c\u305f\u3053\u3068\u304c\u3042\u308b\" expresses past experience, like \"have done\" something before.",
     "completed": false,
     "issued": false
   },
   {
     "id": 8,
-    "text": "\"〜てしまう\" can show completion or regret about an action.",
+    "text": "\"\u301c\u3066\u3057\u307e\u3046\" can show completion or regret about an action.",
     "issued": false,
     "completed": false
   },
   {
     "id": 9,
-    "text": "\"〜そうです\" can report hearsay (\"I heard that...\").",
+    "text": "\"\u301c\u305d\u3046\u3067\u3059\" can report hearsay (\"I heard that...\").",
     "completed": false,
     "issued": false
   },
   {
     "id": 10,
-    "text": "\"〜ようです\" means \"it seems like\" and is based on observation.",
+    "text": "\"\u301c\u3088\u3046\u3067\u3059\" means \"it seems like\" and is based on observation.",
     "completed": false,
     "issued": false
   },
   {
     "id": 11,
-    "text": "\"〜でしょう\" adds probability or softens statements, like \"probably\".",
+    "text": "\"\u301c\u3067\u3057\u3087\u3046\" adds probability or softens statements, like \"probably\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 12,
-    "text": "\"〜つもり\" expresses intent, like \"I plan to\" do something.",
+    "text": "\"\u301c\u3064\u3082\u308a\" expresses intent, like \"I plan to\" do something.",
     "completed": false,
     "issued": false
   },
   {
     "id": 13,
-    "text": "\"〜なければならない\" means \"must\" or \"have to\" do something.",
+    "text": "\"\u301c\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\" means \"must\" or \"have to\" do something.",
     "issued": false,
     "completed": false
   },
   {
     "id": 14,
-    "text": "\"〜なくてもいい\" means \"don't have to\" and lifts an obligation.",
+    "text": "\"\u301c\u306a\u304f\u3066\u3082\u3044\u3044\" means \"don't have to\" and lifts an obligation.",
     "issued": false,
     "completed": false
   },
   {
     "id": 15,
-    "text": "\"〜てくれる\" indicates someone does a favor for the speaker.",
+    "text": "\"\u301c\u3066\u304f\u308c\u308b\" indicates someone does a favor for the speaker.",
     "issued": false,
     "completed": false
   },
   {
     "id": 16,
-    "text": "\"〜てもらう\" means \"receive a favor\" from someone.",
+    "text": "\"\u301c\u3066\u3082\u3089\u3046\" means \"receive a favor\" from someone.",
     "completed": false,
     "issued": false
   },
   {
     "id": 17,
-    "text": "\"〜てあげる\" shows the speaker does a favor for someone else.",
+    "text": "\"\u301c\u3066\u3042\u3052\u308b\" shows the speaker does a favor for someone else.",
     "completed": false,
     "issued": false
   },
   {
     "id": 18,
-    "text": "\"〜ようと思う\" expresses a decision made at the moment of speaking.",
+    "text": "\"\u301c\u3088\u3046\u3068\u601d\u3046\" expresses a decision made at the moment of speaking.",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 19,
-    "text": "\"〜なら\" means \"if\" or \"in the case of\" and often gives advice.",
+    "text": "\"\u301c\u306a\u3089\" means \"if\" or \"in the case of\" and often gives advice.",
     "completed": false,
     "issued": false
   },
   {
     "id": 20,
-    "text": "\"〜たら\" is a conditional \"if/when\" that also expresses sequence.",
+    "text": "\"\u301c\u305f\u3089\" is a conditional \"if/when\" that also expresses sequence.",
     "completed": false,
     "issued": false
   },
   {
     "id": 21,
-    "text": "\"〜ば\" forms a conditional meaning \"if\" in a general sense.",
+    "text": "\"\u301c\u3070\" forms a conditional meaning \"if\" in a general sense.",
     "issued": false,
     "completed": false
   },
   {
     "id": 22,
-    "text": "\"〜ても\" means \"even if\" or \"even though\".",
+    "text": "\"\u301c\u3066\u3082\" means \"even if\" or \"even though\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 23,
-    "text": "\"〜のに\" expresses contrast or regret, similar to \"even though\".",
+    "text": "\"\u301c\u306e\u306b\" expresses contrast or regret, similar to \"even though\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 24,
-    "text": "\"〜ので\" gives a reason in a polite or softer way than \"から\".",
+    "text": "\"\u301c\u306e\u3067\" gives a reason in a polite or softer way than \"\u304b\u3089\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 25,
-    "text": "\"〜たところ\" can mean \"just did\" something and observed a result.",
+    "text": "\"\u301c\u305f\u3068\u3053\u308d\" can mean \"just did\" something and observed a result.",
     "issued": false,
     "completed": false
   },
   {
     "id": 26,
-    "text": "\"〜まま\" means \"as is\" or \"unchanged\".",
+    "text": "\"\u301c\u307e\u307e\" means \"as is\" or \"unchanged\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 27,
-    "text": "\"〜ばかり\" means \"just\" (in terms of time) or \"only\" depending on context.",
+    "text": "\"\u301c\u3070\u304b\u308a\" means \"just\" (in terms of time) or \"only\" depending on context.",
     "issued": false,
     "completed": false
   },
   {
     "id": 28,
-    "text": "\"〜すぎる\" attaches to verbs or adjectives to mean \"too much\".",
+    "text": "\"\u301c\u3059\u304e\u308b\" attaches to verbs or adjectives to mean \"too much\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 29,
-    "text": "\"〜らしい\" can mean \"seems\" or describe a typical characteristic.",
+    "text": "\"\u301c\u3089\u3057\u3044\" can mean \"seems\" or describe a typical characteristic.",
     "issued": false,
     "completed": false
   },
   {
     "id": 30,
-    "text": "\"〜おう/〜よう\" is the volitional form, used to say \"let's\" or \"I will\".",
+    "text": "\"\u301c\u304a\u3046/\u301c\u3088\u3046\" is the volitional form, used to say \"let's\" or \"I will\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 31,
-    "text": "\"〜ところ\" refers to a point in time, like \"about to\", \"in the middle of\", or \"just finished\".",
+    "text": "\"\u301c\u3068\u3053\u308d\" refers to a point in time, like \"about to\", \"in the middle of\", or \"just finished\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 32,
-    "text": "\"〜たり〜たり\" lists representative actions, like \"do things like A and B\".",
-    "issued": true,
+    "text": "\"\u301c\u305f\u308a\u301c\u305f\u308a\" lists representative actions, like \"do things like A and B\".",
+    "issued": false,
     "completed": false
   },
   {
     "id": 33,
-    "text": "\"〜ていく/〜てくる\" shows direction or change over time, like \"will start\" or \"have been\".",
+    "text": "\"\u301c\u3066\u3044\u304f/\u301c\u3066\u304f\u308b\" shows direction or change over time, like \"will start\" or \"have been\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 34,
-    "text": "\"〜ように\" can express purpose, like \"in order to\" or \"so that\".",
+    "text": "\"\u301c\u3088\u3046\u306b\" can express purpose, like \"in order to\" or \"so that\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 35,
-    "text": "\"〜ために\" also means \"for the sake of\" and explains purpose or reason.",
-    "issued": true,
+    "text": "\"\u301c\u305f\u3081\u306b\" also means \"for the sake of\" and explains purpose or reason.",
+    "issued": false,
     "completed": false
   },
   {
     "id": 36,
-    "text": "\"〜ことにする\" expresses a decision, like \"decide to\".",
+    "text": "\"\u301c\u3053\u3068\u306b\u3059\u308b\" expresses a decision, like \"decide to\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 37,
-    "text": "\"〜ことになる\" indicates something was decided (by others or circumstances).",
+    "text": "\"\u301c\u3053\u3068\u306b\u306a\u308b\" indicates something was decided (by others or circumstances).",
     "issued": false,
     "completed": false
   },
   {
     "id": 38,
-    "text": "\"〜に違いない\" means \"must be\" or \"no doubt\".",
+    "text": "\"\u301c\u306b\u9055\u3044\u306a\u3044\" means \"must be\" or \"no doubt\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 39,
-    "text": "\"〜かもしれない\" means \"might be\" or \"maybe\".",
+    "text": "\"\u301c\u304b\u3082\u3057\u308c\u306a\u3044\" means \"might be\" or \"maybe\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 40,
-    "text": "\"〜うちに\" means \"while\" or \"before\" something changes.",
+    "text": "\"\u301c\u3046\u3061\u306b\" means \"while\" or \"before\" something changes.",
     "issued": false,
     "completed": false
   },
   {
     "id": 41,
-    "text": "\"〜ことができる\" expresses ability, like \"can do\".",
+    "text": "\"\u301c\u3053\u3068\u304c\u3067\u304d\u308b\" expresses ability, like \"can do\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 42,
-    "text": "\"〜ことがある\" means \"sometimes\" when talking about habitual actions.",
+    "text": "\"\u301c\u3053\u3068\u304c\u3042\u308b\" means \"sometimes\" when talking about habitual actions.",
     "completed": false,
     "issued": false
   },
   {
     "id": 43,
-    "text": "\"〜にくい\" attaches to verb stems to mean \"hard to do\".",
+    "text": "\"\u301c\u306b\u304f\u3044\" attaches to verb stems to mean \"hard to do\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 44,
-    "text": "\"〜やすい\" attaches to verb stems to mean \"easy to do\".",
+    "text": "\"\u301c\u3084\u3059\u3044\" attaches to verb stems to mean \"easy to do\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 45,
-    "text": "\"〜ておく\" means \"do in advance\" or \"leave as is\".",
-    "issued": true,
+    "text": "\"\u301c\u3066\u304a\u304f\" means \"do in advance\" or \"leave as is\".",
+    "issued": false,
     "completed": false
   },
   {
     "id": 46,
-    "text": "\"〜にする\" means \"decide on\" a choice or selection.",
+    "text": "\"\u301c\u306b\u3059\u308b\" means \"decide on\" a choice or selection.",
     "completed": false,
     "issued": false
   },
   {
     "id": 47,
-    "text": "\"〜に決まっている\" means \"must be\" or \"definitely\".",
+    "text": "\"\u301c\u306b\u6c7a\u307e\u3063\u3066\u3044\u308b\" means \"must be\" or \"definitely\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 48,
-    "text": "\"〜そうだ\" can indicate appearance, like \"it looks like\".",
+    "text": "\"\u301c\u305d\u3046\u3060\" can indicate appearance, like \"it looks like\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 49,
-    "text": "\"〜ながらも\" means \"even while\" or \"though\" (contrast).",
+    "text": "\"\u301c\u306a\u304c\u3089\u3082\" means \"even while\" or \"though\" (contrast).",
     "issued": false,
     "completed": false
   },
   {
     "id": 50,
-    "text": "\"〜わけではない\" means \"not necessarily\" or \"it's not that\".",
+    "text": "\"\u301c\u308f\u3051\u3067\u306f\u306a\u3044\" means \"not necessarily\" or \"it's not that\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 51,
-    "text": "\"〜というより\" means \"rather than\" or \"more like\".",
+    "text": "\"\u301c\u3068\u3044\u3046\u3088\u308a\" means \"rather than\" or \"more like\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 52,
-    "text": "\"〜おかげで\" expresses gratitude for a cause, \"thanks to\".",
+    "text": "\"\u301c\u304a\u304b\u3052\u3067\" expresses gratitude for a cause, \"thanks to\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 53,
-    "text": "\"〜せいで\" indicates a negative cause, \"because of\".",
+    "text": "\"\u301c\u305b\u3044\u3067\" indicates a negative cause, \"because of\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 54,
-    "text": "\"〜ほど\" can express degree, like \"so... that\".",
+    "text": "\"\u301c\u307b\u3069\" can express degree, like \"so... that\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 55,
-    "text": "\"〜ば〜ほど\" means \"the more... the more...\".",
+    "text": "\"\u301c\u3070\u301c\u307b\u3069\" means \"the more... the more...\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 56,
-    "text": "\"〜に違いない\" expresses strong conviction: \"must be\".",
+    "text": "\"\u301c\u306b\u9055\u3044\u306a\u3044\" expresses strong conviction: \"must be\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 57,
-    "text": "\"〜わけがない\" means \"there is no way that...\".",
-    "completed": true,
+    "text": "\"\u301c\u308f\u3051\u304c\u306a\u3044\" means \"there is no way that...\".",
+    "completed": false,
     "issued": false
   },
   {
     "id": 58,
-    "text": "\"〜ようにする\" means \"make an effort to...\".",
-    "issued": true,
+    "text": "\"\u301c\u3088\u3046\u306b\u3059\u308b\" means \"make an effort to...\".",
+    "issued": false,
     "completed": false
   },
   {
     "id": 59,
-    "text": "\"〜てしまう\" can express completion or regret (\"end up doing\").",
+    "text": "\"\u301c\u3066\u3057\u307e\u3046\" can express completion or regret (\"end up doing\").",
     "issued": false,
     "completed": false
   },
   {
     "id": 60,
-    "text": "\"〜にしては\" means \"considering...\".",
+    "text": "\"\u301c\u306b\u3057\u3066\u306f\" means \"considering...\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 61,
-    "text": "\"〜にとって\" means \"for / to (someone)\".",
+    "text": "\"\u301c\u306b\u3068\u3063\u3066\" means \"for / to (someone)\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 62,
-    "text": "\"〜につれて\" means \"as... changes, ... also changes\".",
+    "text": "\"\u301c\u306b\u3064\u308c\u3066\" means \"as... changes, ... also changes\".",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 63,
-    "text": "\"〜に比べて\" means \"compared to...\".",
+    "text": "\"\u301c\u306b\u6bd4\u3079\u3066\" means \"compared to...\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 64,
-    "text": "\"〜によると\" means \"according to...\".",
-    "issued": true,
+    "text": "\"\u301c\u306b\u3088\u308b\u3068\" means \"according to...\".",
+    "issued": false,
     "completed": false
   },
   {
     "id": 65,
-    "text": "\"〜に応じて\" means \"depending on...\".",
+    "text": "\"\u301c\u306b\u5fdc\u3058\u3066\" means \"depending on...\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 66,
-    "text": "\"〜に加えて\" means \"in addition to...\".",
+    "text": "\"\u301c\u306b\u52a0\u3048\u3066\" means \"in addition to...\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 67,
-    "text": "\"〜に向けて\" means \"toward / in preparation for\".",
+    "text": "\"\u301c\u306b\u5411\u3051\u3066\" means \"toward / in preparation for\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 68,
-    "text": "\"〜おそれがある\" means \"there is a risk that...\".",
+    "text": "\"\u301c\u304a\u305d\u308c\u304c\u3042\u308b\" means \"there is a risk that...\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 69,
-    "text": "\"〜ものの\" means \"although...\" with contrast.",
+    "text": "\"\u301c\u3082\u306e\u306e\" means \"although...\" with contrast.",
     "completed": false,
     "issued": false
   },
   {
     "id": 70,
-    "text": "\"〜まま\" means \"as-is / while remaining...\".",
+    "text": "\"\u301c\u307e\u307e\" means \"as-is / while remaining...\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 71,
-    "text": "\"〜わけにはいかない\" means \"cannot (due to circumstances)\".",
-    "issued": true,
+    "text": "\"\u301c\u308f\u3051\u306b\u306f\u3044\u304b\u306a\u3044\" means \"cannot (due to circumstances)\".",
+    "issued": false,
     "completed": false
   },
   {
     "id": 72,
-    "text": "\"〜て以来\" means \"since (doing)\".",
+    "text": "\"\u301c\u3066\u4ee5\u6765\" means \"since (doing)\".",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 73,
-    "text": "\"〜たびに\" means \"every time...\".",
+    "text": "\"\u301c\u305f\u3073\u306b\" means \"every time...\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 74,
-    "text": "\"〜ところ\" can mean \"just did / about to do / in the middle of\".",
+    "text": "\"\u301c\u3068\u3053\u308d\" can mean \"just did / about to do / in the middle of\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 75,
-    "text": "\"〜ことにする\" means \"decide to...\".",
+    "text": "\"\u301c\u3053\u3068\u306b\u3059\u308b\" means \"decide to...\".",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 76,
-    "text": "\"〜ことになっている\" means \"it is decided/arranged that...\".",
+    "text": "\"\u301c\u3053\u3068\u306b\u306a\u3063\u3066\u3044\u308b\" means \"it is decided/arranged that...\".",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 77,
-    "text": "\"〜わりに\" means \"despite / considering...\".",
-    "issued": true,
+    "text": "\"\u301c\u308f\u308a\u306b\" means \"despite / considering...\".",
+    "issued": false,
     "completed": false
   },
   {
     "id": 78,
-    "text": "\"〜ながら\" can mean \"while\" (simultaneous action).",
+    "text": "\"\u301c\u306a\u304c\u3089\" can mean \"while\" (simultaneous action).",
     "issued": false,
     "completed": false
   },
   {
     "id": 79,
-    "text": "\"〜にすぎない\" means \"no more than...\".",
+    "text": "\"\u301c\u306b\u3059\u304e\u306a\u3044\" means \"no more than...\".",
     "completed": false,
     "issued": false
   },
   {
     "id": 80,
-    "text": "\"〜てはじめて\" means \"only after...\".",
+    "text": "\"\u301c\u3066\u306f\u3058\u3081\u3066\" means \"only after...\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 81,
-    "text": "\"〜に気づく\" means \"to notice / realize...\".",
+    "text": "\"\u301c\u306b\u6c17\u3065\u304f\" means \"to notice / realize...\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 82,
-    "text": "\"〜ばかりか\" means \"not only... but also\".",
+    "text": "\"\u301c\u3070\u304b\u308a\u304b\" means \"not only... but also\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 83,
-    "text": "\"〜にしたがって\" means \"as / in accordance with...\".",
+    "text": "\"\u301c\u306b\u3057\u305f\u304c\u3063\u3066\" means \"as / in accordance with...\".",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 84,
-    "text": "\"〜を通して\" means \"through / throughout...\".",
+    "text": "\"\u301c\u3092\u901a\u3057\u3066\" means \"through / throughout...\".",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 85,
-    "text": "\"〜に限って\" means \"only / exclusively\".",
+    "text": "\"\u301c\u306b\u9650\u3063\u3066\" means \"only / exclusively\".",
     "issued": false,
     "completed": false
   },
   {
     "id": 86,
-    "text": "Use \"〜です/〜ます\" for polite statements; it's the standard polite ending for everyday conversation. (practice variation 1)",
+    "text": "Use \"\u301c\u3067\u3059/\u301c\u307e\u3059\" for polite statements; it's the standard polite ending for everyday conversation. (practice variation 1)",
     "issued": false,
     "completed": false
   },
   {
     "id": 87,
-    "text": "\"〜ません\" is the polite negative form of verbs, used to say something doesn't happen. (practice variation 2)",
+    "text": "\"\u301c\u307e\u305b\u3093\" is the polite negative form of verbs, used to say something doesn't happen. (practice variation 2)",
     "issued": false,
     "completed": false
   },
   {
     "id": 88,
-    "text": "\"〜たい\" attaches to a verb stem to express \"want to do\" something. (practice variation 3)",
+    "text": "\"\u301c\u305f\u3044\" attaches to a verb stem to express \"want to do\" something. (practice variation 3)",
     "issued": false,
     "completed": false
   },
   {
     "id": 89,
-    "text": "\"〜てもいいです\" means \"it's okay to\" and grants permission. (practice variation 4)",
+    "text": "\"\u301c\u3066\u3082\u3044\u3044\u3067\u3059\" means \"it's okay to\" and grants permission. (practice variation 4)",
     "issued": false,
     "completed": false
   },
   {
     "id": 90,
-    "text": "\"〜てはいけません\" means \"must not\" and is used for prohibitions. (practice variation 5)",
+    "text": "\"\u301c\u3066\u306f\u3044\u3051\u307e\u305b\u3093\" means \"must not\" and is used for prohibitions. (practice variation 5)",
     "issued": false,
     "completed": false
   },
   {
     "id": 91,
-    "text": "\"〜ながら\" connects actions to show two things happening at the same time. (practice variation 6)",
-    "issued": true,
+    "text": "\"\u301c\u306a\u304c\u3089\" connects actions to show two things happening at the same time. (practice variation 6)",
+    "issued": false,
     "completed": false
   },
   {
     "id": 92,
-    "text": "\"〜たことがある\" expresses past experience, like \"have done\" something before. (practice variation 7)",
-    "issued": true,
+    "text": "\"\u301c\u305f\u3053\u3068\u304c\u3042\u308b\" expresses past experience, like \"have done\" something before. (practice variation 7)",
+    "issued": false,
     "completed": false
   },
   {
     "id": 93,
-    "text": "\"〜てしまう\" can show completion or regret about an action. (practice variation 8)",
+    "text": "\"\u301c\u3066\u3057\u307e\u3046\" can show completion or regret about an action. (practice variation 8)",
     "issued": false,
     "completed": false
   },
   {
     "id": 94,
-    "text": "\"〜そうです\" can report hearsay (\"I heard that...\"). (practice variation 9)",
+    "text": "\"\u301c\u305d\u3046\u3067\u3059\" can report hearsay (\"I heard that...\"). (practice variation 9)",
     "issued": false,
     "completed": false
   },
   {
     "id": 95,
-    "text": "\"〜ようです\" means \"it seems like\" and is based on observation. (practice variation 10)",
+    "text": "\"\u301c\u3088\u3046\u3067\u3059\" means \"it seems like\" and is based on observation. (practice variation 10)",
     "issued": false,
     "completed": false
   },
   {
     "id": 96,
-    "text": "\"〜でしょう\" adds probability or softens statements, like \"probably\". (practice variation 11)",
+    "text": "\"\u301c\u3067\u3057\u3087\u3046\" adds probability or softens statements, like \"probably\". (practice variation 11)",
     "issued": false,
     "completed": false
   },
   {
     "id": 97,
-    "text": "\"〜つもり\" expresses intent, like \"I plan to\" do something. (practice variation 12)",
+    "text": "\"\u301c\u3064\u3082\u308a\" expresses intent, like \"I plan to\" do something. (practice variation 12)",
     "issued": false,
     "completed": false
   },
   {
     "id": 98,
-    "text": "\"〜なければならない\" means \"must\" or \"have to\" do something. (practice variation 13)",
+    "text": "\"\u301c\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\" means \"must\" or \"have to\" do something. (practice variation 13)",
     "issued": false,
     "completed": false
   },
   {
     "id": 99,
-    "text": "\"〜なくてもいい\" means \"don't have to\" and lifts an obligation. (practice variation 14)",
+    "text": "\"\u301c\u306a\u304f\u3066\u3082\u3044\u3044\" means \"don't have to\" and lifts an obligation. (practice variation 14)",
     "issued": false,
     "completed": false
   },
   {
     "id": 100,
-    "text": "\"〜てくれる\" indicates someone does a favor for the speaker. (practice variation 15)",
+    "text": "\"\u301c\u3066\u304f\u308c\u308b\" indicates someone does a favor for the speaker. (practice variation 15)",
     "issued": false,
     "completed": false
   },
   {
     "id": 101,
-    "text": "\"〜てもらう\" means \"receive a favor\" from someone. (practice variation 16)",
+    "text": "\"\u301c\u3066\u3082\u3089\u3046\" means \"receive a favor\" from someone. (practice variation 16)",
     "issued": false,
     "completed": false
   },
   {
     "id": 102,
-    "text": "\"〜てあげる\" shows the speaker does a favor for someone else. (practice variation 17)",
+    "text": "\"\u301c\u3066\u3042\u3052\u308b\" shows the speaker does a favor for someone else. (practice variation 17)",
     "issued": false,
     "completed": false
   },
   {
     "id": 103,
-    "text": "\"〜ようと思う\" expresses a decision made at the moment of speaking. (practice variation 18)",
-    "issued": true,
+    "text": "\"\u301c\u3088\u3046\u3068\u601d\u3046\" expresses a decision made at the moment of speaking. (practice variation 18)",
+    "issued": false,
     "completed": false
   },
   {
     "id": 104,
-    "text": "\"〜なら\" means \"if\" or \"in the case of\" and often gives advice. (practice variation 19)",
+    "text": "\"\u301c\u306a\u3089\" means \"if\" or \"in the case of\" and often gives advice. (practice variation 19)",
     "issued": false,
     "completed": false
   },
   {
     "id": 105,
-    "text": "\"〜たら\" is a conditional \"if/when\" that also expresses sequence. (practice variation 20)",
+    "text": "\"\u301c\u305f\u3089\" is a conditional \"if/when\" that also expresses sequence. (practice variation 20)",
     "issued": false,
     "completed": false
   },
   {
     "id": 106,
-    "text": "\"〜ば\" forms a conditional meaning \"if\" in a general sense. (practice variation 21)",
+    "text": "\"\u301c\u3070\" forms a conditional meaning \"if\" in a general sense. (practice variation 21)",
     "issued": false,
     "completed": false
   },
   {
     "id": 107,
-    "text": "\"〜ても\" means \"even if\" or \"even though\". (practice variation 22)",
+    "text": "\"\u301c\u3066\u3082\" means \"even if\" or \"even though\". (practice variation 22)",
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
     "id": 108,
-    "text": "\"〜のに\" expresses contrast or regret, similar to \"even though\". (practice variation 23)",
-    "issued": true,
+    "text": "\"\u301c\u306e\u306b\" expresses contrast or regret, similar to \"even though\". (practice variation 23)",
+    "issued": false,
     "completed": false
   },
   {
     "id": 109,
-    "text": "\"〜ので\" gives a reason in a polite or softer way than \"から\". (practice variation 24)",
+    "text": "\"\u301c\u306e\u3067\" gives a reason in a polite or softer way than \"\u304b\u3089\". (practice variation 24)",
     "issued": false,
     "completed": false
   },
   {
     "id": 110,
-    "text": "\"〜たところ\" can mean \"just did\" something and observed a result. (practice variation 25)",
-    "issued": true,
+    "text": "\"\u301c\u305f\u3068\u3053\u308d\" can mean \"just did\" something and observed a result. (practice variation 25)",
+    "issued": false,
     "completed": false
   },
   {
     "id": 111,
-    "text": "\"〜まま\" means \"as is\" or \"unchanged\". (practice variation 26)",
-    "issued": true,
+    "text": "\"\u301c\u307e\u307e\" means \"as is\" or \"unchanged\". (practice variation 26)",
+    "issued": false,
     "completed": false
   },
   {
     "id": 112,
-    "text": "\"〜ばかり\" means \"just\" (in terms of time) or \"only\" depending on context. (practice variation 27)",
-    "issued": true,
+    "text": "\"\u301c\u3070\u304b\u308a\" means \"just\" (in terms of time) or \"only\" depending on context. (practice variation 27)",
+    "issued": false,
     "completed": false
   },
   {
     "id": 113,
-    "text": "\"〜すぎる\" attaches to verbs or adjectives to mean \"too much\". (practice variation 28)",
+    "text": "\"\u301c\u3059\u304e\u308b\" attaches to verbs or adjectives to mean \"too much\". (practice variation 28)",
     "issued": false,
     "completed": false
   },
   {
     "id": 114,
-    "text": "\"〜らしい\" can mean \"seems\" or describe a typical characteristic. (practice variation 29)",
+    "text": "\"\u301c\u3089\u3057\u3044\" can mean \"seems\" or describe a typical characteristic. (practice variation 29)",
     "issued": false,
     "completed": false
   },
   {
     "id": 115,
-    "text": "\"〜おう/〜よう\" is the volitional form, used to say \"let's\" or \"I will\". (practice variation 30)",
+    "text": "\"\u301c\u304a\u3046/\u301c\u3088\u3046\" is the volitional form, used to say \"let's\" or \"I will\". (practice variation 30)",
     "issued": false,
     "completed": false
   },
   {
     "id": 116,
-    "text": "\"〜ところ\" refers to a point in time, like \"about to\", \"in the middle of\", or \"just finished\". (practice variation 31)",
+    "text": "\"\u301c\u3068\u3053\u308d\" refers to a point in time, like \"about to\", \"in the middle of\", or \"just finished\". (practice variation 31)",
     "issued": false,
     "completed": false
   },
   {
     "id": 117,
-    "text": "\"〜たり〜たり\" lists representative actions, like \"do things like A and B\". (practice variation 32)",
-    "issued": true,
+    "text": "\"\u301c\u305f\u308a\u301c\u305f\u308a\" lists representative actions, like \"do things like A and B\". (practice variation 32)",
+    "issued": false,
     "completed": false
   },
   {
     "id": 118,
-    "text": "\"〜ていく/〜てくる\" shows direction or change over time, like \"will start\" or \"have been\". (practice variation 33)",
+    "text": "\"\u301c\u3066\u3044\u304f/\u301c\u3066\u304f\u308b\" shows direction or change over time, like \"will start\" or \"have been\". (practice variation 33)",
     "issued": false,
     "completed": false
   },
   {
     "id": 119,
-    "text": "\"〜ように\" can express purpose, like \"in order to\" or \"so that\". (practice variation 34)",
+    "text": "\"\u301c\u3088\u3046\u306b\" can express purpose, like \"in order to\" or \"so that\". (practice variation 34)",
     "issued": false,
     "completed": false
   },
   {
     "id": 120,
-    "text": "\"〜ために\" also means \"for the sake of\" and explains purpose or reason. (practice variation 35)",
+    "text": "\"\u301c\u305f\u3081\u306b\" also means \"for the sake of\" and explains purpose or reason. (practice variation 35)",
     "issued": false,
     "completed": false
   },
   {
     "id": 121,
-    "text": "\"〜ことにする\" expresses a decision, like \"decide to\". (practice variation 36)",
+    "text": "\"\u301c\u3053\u3068\u306b\u3059\u308b\" expresses a decision, like \"decide to\". (practice variation 36)",
     "issued": false,
     "completed": false
   },
   {
     "id": 122,
-    "text": "\"〜ことになる\" indicates something was decided (by others or circumstances). (practice variation 37)",
-    "issued": true,
+    "text": "\"\u301c\u3053\u3068\u306b\u306a\u308b\" indicates something was decided (by others or circumstances). (practice variation 37)",
+    "issued": false,
     "completed": false
   },
   {
     "id": 123,
-    "text": "\"〜に違いない\" means \"must be\" or \"no doubt\". (practice variation 38)",
+    "text": "\"\u301c\u306b\u9055\u3044\u306a\u3044\" means \"must be\" or \"no doubt\". (practice variation 38)",
     "issued": false,
     "completed": false
   },
   {
     "id": 124,
-    "text": "\"〜かもしれない\" means \"might be\" or \"maybe\". (practice variation 39)",
+    "text": "\"\u301c\u304b\u3082\u3057\u308c\u306a\u3044\" means \"might be\" or \"maybe\". (practice variation 39)",
     "issued": false,
     "completed": false
   },
   {
     "id": 125,
-    "text": "\"〜うちに\" means \"while\" or \"before\" something changes. (practice variation 40)",
+    "text": "\"\u301c\u3046\u3061\u306b\" means \"while\" or \"before\" something changes. (practice variation 40)",
     "issued": false,
     "completed": false
   },
   {
     "id": 126,
-    "text": "\"〜ことができる\" expresses ability, like \"can do\". (practice variation 41)",
+    "text": "\"\u301c\u3053\u3068\u304c\u3067\u304d\u308b\" expresses ability, like \"can do\". (practice variation 41)",
     "issued": false,
     "completed": false
   },
   {
     "id": 127,
-    "text": "\"〜ことがある\" means \"sometimes\" when talking about habitual actions. (practice variation 42)",
-    "issued": true,
+    "text": "\"\u301c\u3053\u3068\u304c\u3042\u308b\" means \"sometimes\" when talking about habitual actions. (practice variation 42)",
+    "issued": false,
     "completed": false
   },
   {
     "id": 128,
-    "text": "\"〜にくい\" attaches to verb stems to mean \"hard to do\". (practice variation 43)",
+    "text": "\"\u301c\u306b\u304f\u3044\" attaches to verb stems to mean \"hard to do\". (practice variation 43)",
     "issued": false,
     "completed": false
   },
   {
     "id": 129,
-    "text": "\"〜やすい\" attaches to verb stems to mean \"easy to do\". (practice variation 44)",
+    "text": "\"\u301c\u3084\u3059\u3044\" attaches to verb stems to mean \"easy to do\". (practice variation 44)",
     "issued": false,
     "completed": false
   },
   {
     "id": 130,
-    "text": "\"〜ておく\" means \"do in advance\" or \"leave as is\". (practice variation 45)",
+    "text": "\"\u301c\u3066\u304a\u304f\" means \"do in advance\" or \"leave as is\". (practice variation 45)",
     "issued": false,
     "completed": false
   },
   {
     "id": 131,
-    "text": "\"〜にする\" means \"decide on\" a choice or selection. (practice variation 46)",
+    "text": "\"\u301c\u306b\u3059\u308b\" means \"decide on\" a choice or selection. (practice variation 46)",
     "issued": false,
     "completed": false
   },
   {
     "id": 132,
-    "text": "\"〜に決まっている\" means \"must be\" or \"definitely\". (practice variation 47)",
+    "text": "\"\u301c\u306b\u6c7a\u307e\u3063\u3066\u3044\u308b\" means \"must be\" or \"definitely\". (practice variation 47)",
     "issued": false,
     "completed": false
   },
   {
     "id": 133,
-    "text": "\"〜そうだ\" can indicate appearance, like \"it looks like\". (practice variation 48)",
+    "text": "\"\u301c\u305d\u3046\u3060\" can indicate appearance, like \"it looks like\". (practice variation 48)",
     "issued": false,
     "completed": false
   },
   {
     "id": 134,
-    "text": "\"〜ながらも\" means \"even while\" or \"though\" (contrast). (practice variation 49)",
+    "text": "\"\u301c\u306a\u304c\u3089\u3082\" means \"even while\" or \"though\" (contrast). (practice variation 49)",
     "issued": false,
     "completed": false
   },
   {
     "id": 135,
-    "text": "\"〜わけではない\" means \"not necessarily\" or \"it's not that\". (practice variation 50)",
+    "text": "\"\u301c\u308f\u3051\u3067\u306f\u306a\u3044\" means \"not necessarily\" or \"it's not that\". (practice variation 50)",
     "issued": false,
     "completed": false
   },
   {
     "id": 136,
-    "text": "\"〜というより\" means \"rather than\" or \"more like\". (practice variation 51)",
+    "text": "\"\u301c\u3068\u3044\u3046\u3088\u308a\" means \"rather than\" or \"more like\". (practice variation 51)",
     "issued": false,
     "completed": false
   },
   {
     "id": 137,
-    "text": "\"〜おかげで\" expresses gratitude for a cause, \"thanks to\". (practice variation 52)",
+    "text": "\"\u301c\u304a\u304b\u3052\u3067\" expresses gratitude for a cause, \"thanks to\". (practice variation 52)",
     "issued": false,
     "completed": false
   },
   {
     "id": 138,
-    "text": "\"〜せいで\" indicates a negative cause, \"because of\". (practice variation 53)",
+    "text": "\"\u301c\u305b\u3044\u3067\" indicates a negative cause, \"because of\". (practice variation 53)",
     "issued": false,
     "completed": false
   },
   {
     "id": 139,
-    "text": "\"〜ほど\" can express degree, like \"so... that\". (practice variation 54)",
+    "text": "\"\u301c\u307b\u3069\" can express degree, like \"so... that\". (practice variation 54)",
     "issued": false,
     "completed": false
   },
   {
     "id": 140,
-    "text": "\"〜ば〜ほど\" means \"the more... the more...\". (practice variation 55)",
+    "text": "\"\u301c\u3070\u301c\u307b\u3069\" means \"the more... the more...\". (practice variation 55)",
     "issued": false,
     "completed": false
   }

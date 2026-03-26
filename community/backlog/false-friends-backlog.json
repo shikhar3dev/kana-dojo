@@ -1,1082 +1,1082 @@
 [
   {
-    "termA": "手紙 (tegami)",
+    "termA": "\u624b\u7d19 (tegami)",
     "termB": "letter (English)",
-    "explanation": "手紙 means physical mail, not alphabet letters. (Set 1)",
-    "example": "祖母に手紙を書きました。",
+    "explanation": "\u624b\u7d19 means physical mail, not alphabet letters. (Set 1)",
+    "example": "\u7956\u6bcd\u306b\u624b\u7d19\u3092\u66f8\u304d\u307e\u3057\u305f\u3002",
     "id": 1,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "マンション (manshon)",
+    "termA": "\u30de\u30f3\u30b7\u30e7\u30f3 (manshon)",
     "termB": "mansion (English)",
-    "explanation": "マンション means apartment building in Japanese. (Set 1)",
-    "example": "駅前のマンションに住んでいます。",
+    "explanation": "\u30de\u30f3\u30b7\u30e7\u30f3 means apartment building in Japanese. (Set 1)",
+    "example": "\u99c5\u524d\u306e\u30de\u30f3\u30b7\u30e7\u30f3\u306b\u4f4f\u3093\u3067\u3044\u307e\u3059\u3002",
     "id": 2,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "コンセント (konsento)",
+    "termA": "\u30b3\u30f3\u30bb\u30f3\u30c8 (konsento)",
     "termB": "consent (English)",
-    "explanation": "コンセント means electrical outlet. (Set 1)",
-    "example": "コンセントが足りないので延長コードを使います。",
+    "explanation": "\u30b3\u30f3\u30bb\u30f3\u30c8 means electrical outlet. (Set 1)",
+    "example": "\u30b3\u30f3\u30bb\u30f3\u30c8\u304c\u8db3\u308a\u306a\u3044\u306e\u3067\u5ef6\u9577\u30b3\u30fc\u30c9\u3092\u4f7f\u3044\u307e\u3059\u3002",
     "id": 3,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "スマート (sumaato)",
+    "termA": "\u30b9\u30de\u30fc\u30c8 (sumaato)",
     "termB": "smart (English)",
     "explanation": "Often means slim/stylish, not necessarily intelligent. (Set 1)",
-    "example": "彼はスマートな着こなしをしている。",
+    "example": "\u5f7c\u306f\u30b9\u30de\u30fc\u30c8\u306a\u7740\u3053\u306a\u3057\u3092\u3057\u3066\u3044\u308b\u3002",
     "id": 4,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "テンション (tenshon)",
+    "termA": "\u30c6\u30f3\u30b7\u30e7\u30f3 (tenshon)",
     "termB": "tension (English)",
     "explanation": "Often means excitement/energy level in casual Japanese. (Set 1)",
-    "example": "ライブでテンションが上がった。",
+    "example": "\u30e9\u30a4\u30d6\u3067\u30c6\u30f3\u30b7\u30e7\u30f3\u304c\u4e0a\u304c\u3063\u305f\u3002",
     "id": 5,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "バイキング (baikingu)",
+    "termA": "\u30d0\u30a4\u30ad\u30f3\u30b0 (baikingu)",
     "termB": "viking (English)",
     "explanation": "Usually means buffet/all-you-can-eat in Japan. (Set 1)",
-    "example": "ホテルの朝食はバイキングです。",
+    "example": "\u30db\u30c6\u30eb\u306e\u671d\u98df\u306f\u30d0\u30a4\u30ad\u30f3\u30b0\u3067\u3059\u3002",
     "id": 6,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "カンニング (kanningu)",
+    "termA": "\u30ab\u30f3\u30cb\u30f3\u30b0 (kanningu)",
     "termB": "cunning (English)",
-    "explanation": "カンニング means cheating on tests. (Set 1)",
-    "example": "試験でカンニングしてはいけません。",
+    "explanation": "\u30ab\u30f3\u30cb\u30f3\u30b0 means cheating on tests. (Set 1)",
+    "example": "\u8a66\u9a13\u3067\u30ab\u30f3\u30cb\u30f3\u30b0\u3057\u3066\u306f\u3044\u3051\u307e\u305b\u3093\u3002",
     "id": 7,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "リベンジ (ribenji)",
+    "termA": "\u30ea\u30d9\u30f3\u30b8 (ribenji)",
     "termB": "revenge (English)",
     "explanation": "Often used as 'try again after failing'. (Set 1)",
-    "example": "去年落ちた試験に今年リベンジする。",
+    "example": "\u53bb\u5e74\u843d\u3061\u305f\u8a66\u9a13\u306b\u4eca\u5e74\u30ea\u30d9\u30f3\u30b8\u3059\u308b\u3002",
     "id": 8,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "クレーム (kureemu)",
+    "termA": "\u30af\u30ec\u30fc\u30e0 (kureemu)",
     "termB": "claim (English)",
     "explanation": "In Japanese it usually means complaint. (Set 1)",
-    "example": "お客様からクレームが届いた。",
+    "example": "\u304a\u5ba2\u69d8\u304b\u3089\u30af\u30ec\u30fc\u30e0\u304c\u5c4a\u3044\u305f\u3002",
     "id": 9,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ナイーブ (naibu)",
+    "termA": "\u30ca\u30a4\u30fc\u30d6 (naibu)",
     "termB": "naive (English)",
     "explanation": "Often means sensitive/delicate in Japanese. (Set 1)",
-    "example": "彼は意外とナイーブな性格だ。",
+    "example": "\u5f7c\u306f\u610f\u5916\u3068\u30ca\u30a4\u30fc\u30d6\u306a\u6027\u683c\u3060\u3002",
     "id": 10,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "シール (shiiru)",
+    "termA": "\u30b7\u30fc\u30eb (shiiru)",
     "termB": "seal (animal)",
-    "explanation": "シール usually means sticker/label. (Set 1)",
-    "example": "ノートにシールを貼った。",
+    "explanation": "\u30b7\u30fc\u30eb usually means sticker/label. (Set 1)",
+    "example": "\u30ce\u30fc\u30c8\u306b\u30b7\u30fc\u30eb\u3092\u8cbc\u3063\u305f\u3002",
     "id": 11,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ホッチキス (hocchikisu)",
+    "termA": "\u30db\u30c3\u30c1\u30ad\u30b9 (hocchikisu)",
     "termB": "Hotchkiss (name)",
-    "explanation": "ホッチキス means stapler. (Set 1)",
-    "example": "資料をホッチキスで留めてください。",
+    "explanation": "\u30db\u30c3\u30c1\u30ad\u30b9 means stapler. (Set 1)",
+    "example": "\u8cc7\u6599\u3092\u30db\u30c3\u30c1\u30ad\u30b9\u3067\u7559\u3081\u3066\u304f\u3060\u3055\u3044\u3002",
     "id": 12,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ドンマイ (donmai)",
+    "termA": "\u30c9\u30f3\u30de\u30a4 (donmai)",
     "termB": "don't mind (English)",
     "explanation": "Used to comfort someone: 'never mind'. (Set 1)",
-    "example": "ミスしてもドンマイ！",
+    "example": "\u30df\u30b9\u3057\u3066\u3082\u30c9\u30f3\u30de\u30a4\uff01",
     "id": 13,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "チャレンジ (charenji)",
+    "termA": "\u30c1\u30e3\u30ec\u30f3\u30b8 (charenji)",
     "termB": "challenge (English)",
     "explanation": "Often means trying something new. (Set 1)",
-    "example": "新しい料理にチャレンジしてみる。",
+    "example": "\u65b0\u3057\u3044\u6599\u7406\u306b\u30c1\u30e3\u30ec\u30f3\u30b8\u3057\u3066\u307f\u308b\u3002",
     "id": 14,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ナンバー (nanbaa)",
+    "termA": "\u30ca\u30f3\u30d0\u30fc (nanbaa)",
     "termB": "number (English)",
     "explanation": "Can mean ranking position in Japanese usage. (Set 1)",
-    "example": "彼はチームのナンバー1だ。",
+    "example": "\u5f7c\u306f\u30c1\u30fc\u30e0\u306e\u30ca\u30f3\u30d0\u30fc1\u3060\u3002",
     "id": 15,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ハイテンション (haitenshon)",
+    "termA": "\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3 (haitenshon)",
     "termB": "high tension (English)",
     "explanation": "Means very energetic mood. (Set 1)",
-    "example": "試合前はみんなハイテンションだった。",
+    "example": "\u8a66\u5408\u524d\u306f\u307f\u3093\u306a\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3\u3060\u3063\u305f\u3002",
     "id": 16,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "イメージ (imeeji)",
+    "termA": "\u30a4\u30e1\u30fc\u30b8 (imeeji)",
     "termB": "image",
     "explanation": "Often means impression/public image. (Set 1)",
-    "example": "会社のイメージが良くなった。",
+    "example": "\u4f1a\u793e\u306e\u30a4\u30e1\u30fc\u30b8\u304c\u826f\u304f\u306a\u3063\u305f\u3002",
     "id": 17,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "サラリーマン (sarariman)",
+    "termA": "\u30b5\u30e9\u30ea\u30fc\u30de\u30f3 (sarariman)",
     "termB": "salaryman",
     "explanation": "Refers broadly to office workers. (Set 1)",
-    "example": "父は都内でサラリーマンをしている。",
+    "example": "\u7236\u306f\u90fd\u5185\u3067\u30b5\u30e9\u30ea\u30fc\u30de\u30f3\u3092\u3057\u3066\u3044\u308b\u3002",
     "id": 18,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ペットボトル (petto botoru)",
+    "termA": "\u30da\u30c3\u30c8\u30dc\u30c8\u30eb (petto botoru)",
     "termB": "PET bottle",
     "explanation": "Common term for plastic drink bottle. (Set 1)",
-    "example": "ペットボトルは分別して捨てる。",
+    "example": "\u30da\u30c3\u30c8\u30dc\u30c8\u30eb\u306f\u5206\u5225\u3057\u3066\u6368\u3066\u308b\u3002",
     "id": 19,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "アニメ (anime)",
+    "termA": "\u30a2\u30cb\u30e1 (anime)",
     "termB": "anime (English usage)",
     "explanation": "In Japanese it can refer to animation in general. (Set 1)",
-    "example": "子どものころからアニメが好きだ。",
+    "example": "\u5b50\u3069\u3082\u306e\u3053\u308d\u304b\u3089\u30a2\u30cb\u30e1\u304c\u597d\u304d\u3060\u3002",
     "id": 20,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "手紙 (tegami)",
+    "termA": "\u624b\u7d19 (tegami)",
     "termB": "letter (English)",
-    "explanation": "手紙 means physical mail, not alphabet letters. (Set 2)",
-    "example": "祖母に手紙を書きました。",
+    "explanation": "\u624b\u7d19 means physical mail, not alphabet letters. (Set 2)",
+    "example": "\u7956\u6bcd\u306b\u624b\u7d19\u3092\u66f8\u304d\u307e\u3057\u305f\u3002",
     "id": 21,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "マンション (manshon)",
+    "termA": "\u30de\u30f3\u30b7\u30e7\u30f3 (manshon)",
     "termB": "mansion (English)",
-    "explanation": "マンション means apartment building in Japanese. (Set 2)",
-    "example": "駅前のマンションに住んでいます。",
+    "explanation": "\u30de\u30f3\u30b7\u30e7\u30f3 means apartment building in Japanese. (Set 2)",
+    "example": "\u99c5\u524d\u306e\u30de\u30f3\u30b7\u30e7\u30f3\u306b\u4f4f\u3093\u3067\u3044\u307e\u3059\u3002",
     "id": 22,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "コンセント (konsento)",
+    "termA": "\u30b3\u30f3\u30bb\u30f3\u30c8 (konsento)",
     "termB": "consent (English)",
-    "explanation": "コンセント means electrical outlet. (Set 2)",
-    "example": "コンセントが足りないので延長コードを使います。",
+    "explanation": "\u30b3\u30f3\u30bb\u30f3\u30c8 means electrical outlet. (Set 2)",
+    "example": "\u30b3\u30f3\u30bb\u30f3\u30c8\u304c\u8db3\u308a\u306a\u3044\u306e\u3067\u5ef6\u9577\u30b3\u30fc\u30c9\u3092\u4f7f\u3044\u307e\u3059\u3002",
     "id": 23,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "スマート (sumaato)",
+    "termA": "\u30b9\u30de\u30fc\u30c8 (sumaato)",
     "termB": "smart (English)",
     "explanation": "Often means slim/stylish, not necessarily intelligent. (Set 2)",
-    "example": "彼はスマートな着こなしをしている。",
+    "example": "\u5f7c\u306f\u30b9\u30de\u30fc\u30c8\u306a\u7740\u3053\u306a\u3057\u3092\u3057\u3066\u3044\u308b\u3002",
     "id": 24,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "テンション (tenshon)",
+    "termA": "\u30c6\u30f3\u30b7\u30e7\u30f3 (tenshon)",
     "termB": "tension (English)",
     "explanation": "Often means excitement/energy level in casual Japanese. (Set 2)",
-    "example": "ライブでテンションが上がった。",
+    "example": "\u30e9\u30a4\u30d6\u3067\u30c6\u30f3\u30b7\u30e7\u30f3\u304c\u4e0a\u304c\u3063\u305f\u3002",
     "id": 25,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "バイキング (baikingu)",
+    "termA": "\u30d0\u30a4\u30ad\u30f3\u30b0 (baikingu)",
     "termB": "viking (English)",
     "explanation": "Usually means buffet/all-you-can-eat in Japan. (Set 2)",
-    "example": "ホテルの朝食はバイキングです。",
+    "example": "\u30db\u30c6\u30eb\u306e\u671d\u98df\u306f\u30d0\u30a4\u30ad\u30f3\u30b0\u3067\u3059\u3002",
     "id": 26,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "カンニング (kanningu)",
+    "termA": "\u30ab\u30f3\u30cb\u30f3\u30b0 (kanningu)",
     "termB": "cunning (English)",
-    "explanation": "カンニング means cheating on tests. (Set 2)",
-    "example": "試験でカンニングしてはいけません。",
+    "explanation": "\u30ab\u30f3\u30cb\u30f3\u30b0 means cheating on tests. (Set 2)",
+    "example": "\u8a66\u9a13\u3067\u30ab\u30f3\u30cb\u30f3\u30b0\u3057\u3066\u306f\u3044\u3051\u307e\u305b\u3093\u3002",
     "id": 27,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "リベンジ (ribenji)",
+    "termA": "\u30ea\u30d9\u30f3\u30b8 (ribenji)",
     "termB": "revenge (English)",
     "explanation": "Often used as 'try again after failing'. (Set 2)",
-    "example": "去年落ちた試験に今年リベンジする。",
+    "example": "\u53bb\u5e74\u843d\u3061\u305f\u8a66\u9a13\u306b\u4eca\u5e74\u30ea\u30d9\u30f3\u30b8\u3059\u308b\u3002",
     "id": 28,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "クレーム (kureemu)",
+    "termA": "\u30af\u30ec\u30fc\u30e0 (kureemu)",
     "termB": "claim (English)",
     "explanation": "In Japanese it usually means complaint. (Set 2)",
-    "example": "お客様からクレームが届いた。",
+    "example": "\u304a\u5ba2\u69d8\u304b\u3089\u30af\u30ec\u30fc\u30e0\u304c\u5c4a\u3044\u305f\u3002",
     "id": 29,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ナイーブ (naibu)",
+    "termA": "\u30ca\u30a4\u30fc\u30d6 (naibu)",
     "termB": "naive (English)",
     "explanation": "Often means sensitive/delicate in Japanese. (Set 2)",
-    "example": "彼は意外とナイーブな性格だ。",
+    "example": "\u5f7c\u306f\u610f\u5916\u3068\u30ca\u30a4\u30fc\u30d6\u306a\u6027\u683c\u3060\u3002",
     "id": 30,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "シール (shiiru)",
+    "termA": "\u30b7\u30fc\u30eb (shiiru)",
     "termB": "seal (animal)",
-    "explanation": "シール usually means sticker/label. (Set 2)",
-    "example": "ノートにシールを貼った。",
+    "explanation": "\u30b7\u30fc\u30eb usually means sticker/label. (Set 2)",
+    "example": "\u30ce\u30fc\u30c8\u306b\u30b7\u30fc\u30eb\u3092\u8cbc\u3063\u305f\u3002",
     "id": 31,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ホッチキス (hocchikisu)",
+    "termA": "\u30db\u30c3\u30c1\u30ad\u30b9 (hocchikisu)",
     "termB": "Hotchkiss (name)",
-    "explanation": "ホッチキス means stapler. (Set 2)",
-    "example": "資料をホッチキスで留めてください。",
+    "explanation": "\u30db\u30c3\u30c1\u30ad\u30b9 means stapler. (Set 2)",
+    "example": "\u8cc7\u6599\u3092\u30db\u30c3\u30c1\u30ad\u30b9\u3067\u7559\u3081\u3066\u304f\u3060\u3055\u3044\u3002",
     "id": 32,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ドンマイ (donmai)",
+    "termA": "\u30c9\u30f3\u30de\u30a4 (donmai)",
     "termB": "don't mind (English)",
     "explanation": "Used to comfort someone: 'never mind'. (Set 2)",
-    "example": "ミスしてもドンマイ！",
+    "example": "\u30df\u30b9\u3057\u3066\u3082\u30c9\u30f3\u30de\u30a4\uff01",
     "id": 33,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "チャレンジ (charenji)",
+    "termA": "\u30c1\u30e3\u30ec\u30f3\u30b8 (charenji)",
     "termB": "challenge (English)",
     "explanation": "Often means trying something new. (Set 2)",
-    "example": "新しい料理にチャレンジしてみる。",
+    "example": "\u65b0\u3057\u3044\u6599\u7406\u306b\u30c1\u30e3\u30ec\u30f3\u30b8\u3057\u3066\u307f\u308b\u3002",
     "id": 34,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ナンバー (nanbaa)",
+    "termA": "\u30ca\u30f3\u30d0\u30fc (nanbaa)",
     "termB": "number (English)",
     "explanation": "Can mean ranking position in Japanese usage. (Set 2)",
-    "example": "彼はチームのナンバー1だ。",
+    "example": "\u5f7c\u306f\u30c1\u30fc\u30e0\u306e\u30ca\u30f3\u30d0\u30fc1\u3060\u3002",
     "id": 35,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ハイテンション (haitenshon)",
+    "termA": "\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3 (haitenshon)",
     "termB": "high tension (English)",
     "explanation": "Means very energetic mood. (Set 2)",
-    "example": "試合前はみんなハイテンションだった。",
+    "example": "\u8a66\u5408\u524d\u306f\u307f\u3093\u306a\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3\u3060\u3063\u305f\u3002",
     "id": 36,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "イメージ (imeeji)",
+    "termA": "\u30a4\u30e1\u30fc\u30b8 (imeeji)",
     "termB": "image",
     "explanation": "Often means impression/public image. (Set 2)",
-    "example": "会社のイメージが良くなった。",
+    "example": "\u4f1a\u793e\u306e\u30a4\u30e1\u30fc\u30b8\u304c\u826f\u304f\u306a\u3063\u305f\u3002",
     "id": 37,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "サラリーマン (sarariman)",
+    "termA": "\u30b5\u30e9\u30ea\u30fc\u30de\u30f3 (sarariman)",
     "termB": "salaryman",
     "explanation": "Refers broadly to office workers. (Set 2)",
-    "example": "父は都内でサラリーマンをしている。",
+    "example": "\u7236\u306f\u90fd\u5185\u3067\u30b5\u30e9\u30ea\u30fc\u30de\u30f3\u3092\u3057\u3066\u3044\u308b\u3002",
     "id": 38,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ペットボトル (petto botoru)",
+    "termA": "\u30da\u30c3\u30c8\u30dc\u30c8\u30eb (petto botoru)",
     "termB": "PET bottle",
     "explanation": "Common term for plastic drink bottle. (Set 2)",
-    "example": "ペットボトルは分別して捨てる。",
+    "example": "\u30da\u30c3\u30c8\u30dc\u30c8\u30eb\u306f\u5206\u5225\u3057\u3066\u6368\u3066\u308b\u3002",
     "id": 39,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "アニメ (anime)",
+    "termA": "\u30a2\u30cb\u30e1 (anime)",
     "termB": "anime (English usage)",
     "explanation": "In Japanese it can refer to animation in general. (Set 2)",
-    "example": "子どものころからアニメが好きだ。",
+    "example": "\u5b50\u3069\u3082\u306e\u3053\u308d\u304b\u3089\u30a2\u30cb\u30e1\u304c\u597d\u304d\u3060\u3002",
     "id": 40,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "手紙 (tegami)",
+    "termA": "\u624b\u7d19 (tegami)",
     "termB": "letter (English)",
-    "explanation": "手紙 means physical mail, not alphabet letters. (Set 3)",
-    "example": "祖母に手紙を書きました。",
+    "explanation": "\u624b\u7d19 means physical mail, not alphabet letters. (Set 3)",
+    "example": "\u7956\u6bcd\u306b\u624b\u7d19\u3092\u66f8\u304d\u307e\u3057\u305f\u3002",
     "id": 41,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "マンション (manshon)",
+    "termA": "\u30de\u30f3\u30b7\u30e7\u30f3 (manshon)",
     "termB": "mansion (English)",
-    "explanation": "マンション means apartment building in Japanese. (Set 3)",
-    "example": "駅前のマンションに住んでいます。",
+    "explanation": "\u30de\u30f3\u30b7\u30e7\u30f3 means apartment building in Japanese. (Set 3)",
+    "example": "\u99c5\u524d\u306e\u30de\u30f3\u30b7\u30e7\u30f3\u306b\u4f4f\u3093\u3067\u3044\u307e\u3059\u3002",
     "id": 42,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "コンセント (konsento)",
+    "termA": "\u30b3\u30f3\u30bb\u30f3\u30c8 (konsento)",
     "termB": "consent (English)",
-    "explanation": "コンセント means electrical outlet. (Set 3)",
-    "example": "コンセントが足りないので延長コードを使います。",
+    "explanation": "\u30b3\u30f3\u30bb\u30f3\u30c8 means electrical outlet. (Set 3)",
+    "example": "\u30b3\u30f3\u30bb\u30f3\u30c8\u304c\u8db3\u308a\u306a\u3044\u306e\u3067\u5ef6\u9577\u30b3\u30fc\u30c9\u3092\u4f7f\u3044\u307e\u3059\u3002",
     "id": 43,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "スマート (sumaato)",
+    "termA": "\u30b9\u30de\u30fc\u30c8 (sumaato)",
     "termB": "smart (English)",
     "explanation": "Often means slim/stylish, not necessarily intelligent. (Set 3)",
-    "example": "彼はスマートな着こなしをしている。",
+    "example": "\u5f7c\u306f\u30b9\u30de\u30fc\u30c8\u306a\u7740\u3053\u306a\u3057\u3092\u3057\u3066\u3044\u308b\u3002",
     "id": 44,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "テンション (tenshon)",
+    "termA": "\u30c6\u30f3\u30b7\u30e7\u30f3 (tenshon)",
     "termB": "tension (English)",
     "explanation": "Often means excitement/energy level in casual Japanese. (Set 3)",
-    "example": "ライブでテンションが上がった。",
+    "example": "\u30e9\u30a4\u30d6\u3067\u30c6\u30f3\u30b7\u30e7\u30f3\u304c\u4e0a\u304c\u3063\u305f\u3002",
     "id": 45,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "バイキング (baikingu)",
+    "termA": "\u30d0\u30a4\u30ad\u30f3\u30b0 (baikingu)",
     "termB": "viking (English)",
     "explanation": "Usually means buffet/all-you-can-eat in Japan. (Set 3)",
-    "example": "ホテルの朝食はバイキングです。",
+    "example": "\u30db\u30c6\u30eb\u306e\u671d\u98df\u306f\u30d0\u30a4\u30ad\u30f3\u30b0\u3067\u3059\u3002",
     "id": 46,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "カンニング (kanningu)",
+    "termA": "\u30ab\u30f3\u30cb\u30f3\u30b0 (kanningu)",
     "termB": "cunning (English)",
-    "explanation": "カンニング means cheating on tests. (Set 3)",
-    "example": "試験でカンニングしてはいけません。",
+    "explanation": "\u30ab\u30f3\u30cb\u30f3\u30b0 means cheating on tests. (Set 3)",
+    "example": "\u8a66\u9a13\u3067\u30ab\u30f3\u30cb\u30f3\u30b0\u3057\u3066\u306f\u3044\u3051\u307e\u305b\u3093\u3002",
     "id": 47,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "リベンジ (ribenji)",
+    "termA": "\u30ea\u30d9\u30f3\u30b8 (ribenji)",
     "termB": "revenge (English)",
     "explanation": "Often used as 'try again after failing'. (Set 3)",
-    "example": "去年落ちた試験に今年リベンジする。",
+    "example": "\u53bb\u5e74\u843d\u3061\u305f\u8a66\u9a13\u306b\u4eca\u5e74\u30ea\u30d9\u30f3\u30b8\u3059\u308b\u3002",
     "id": 48,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "クレーム (kureemu)",
+    "termA": "\u30af\u30ec\u30fc\u30e0 (kureemu)",
     "termB": "claim (English)",
     "explanation": "In Japanese it usually means complaint. (Set 3)",
-    "example": "お客様からクレームが届いた。",
+    "example": "\u304a\u5ba2\u69d8\u304b\u3089\u30af\u30ec\u30fc\u30e0\u304c\u5c4a\u3044\u305f\u3002",
     "id": 49,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ナイーブ (naibu)",
+    "termA": "\u30ca\u30a4\u30fc\u30d6 (naibu)",
     "termB": "naive (English)",
     "explanation": "Often means sensitive/delicate in Japanese. (Set 3)",
-    "example": "彼は意外とナイーブな性格だ。",
+    "example": "\u5f7c\u306f\u610f\u5916\u3068\u30ca\u30a4\u30fc\u30d6\u306a\u6027\u683c\u3060\u3002",
     "id": 50,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "シール (shiiru)",
+    "termA": "\u30b7\u30fc\u30eb (shiiru)",
     "termB": "seal (animal)",
-    "explanation": "シール usually means sticker/label. (Set 3)",
-    "example": "ノートにシールを貼った。",
+    "explanation": "\u30b7\u30fc\u30eb usually means sticker/label. (Set 3)",
+    "example": "\u30ce\u30fc\u30c8\u306b\u30b7\u30fc\u30eb\u3092\u8cbc\u3063\u305f\u3002",
     "id": 51,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ホッチキス (hocchikisu)",
+    "termA": "\u30db\u30c3\u30c1\u30ad\u30b9 (hocchikisu)",
     "termB": "Hotchkiss (name)",
-    "explanation": "ホッチキス means stapler. (Set 3)",
-    "example": "資料をホッチキスで留めてください。",
+    "explanation": "\u30db\u30c3\u30c1\u30ad\u30b9 means stapler. (Set 3)",
+    "example": "\u8cc7\u6599\u3092\u30db\u30c3\u30c1\u30ad\u30b9\u3067\u7559\u3081\u3066\u304f\u3060\u3055\u3044\u3002",
     "id": 52,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ドンマイ (donmai)",
+    "termA": "\u30c9\u30f3\u30de\u30a4 (donmai)",
     "termB": "don't mind (English)",
     "explanation": "Used to comfort someone: 'never mind'. (Set 3)",
-    "example": "ミスしてもドンマイ！",
+    "example": "\u30df\u30b9\u3057\u3066\u3082\u30c9\u30f3\u30de\u30a4\uff01",
     "id": 53,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "チャレンジ (charenji)",
+    "termA": "\u30c1\u30e3\u30ec\u30f3\u30b8 (charenji)",
     "termB": "challenge (English)",
     "explanation": "Often means trying something new. (Set 3)",
-    "example": "新しい料理にチャレンジしてみる。",
+    "example": "\u65b0\u3057\u3044\u6599\u7406\u306b\u30c1\u30e3\u30ec\u30f3\u30b8\u3057\u3066\u307f\u308b\u3002",
     "id": 54,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ナンバー (nanbaa)",
+    "termA": "\u30ca\u30f3\u30d0\u30fc (nanbaa)",
     "termB": "number (English)",
     "explanation": "Can mean ranking position in Japanese usage. (Set 3)",
-    "example": "彼はチームのナンバー1だ。",
+    "example": "\u5f7c\u306f\u30c1\u30fc\u30e0\u306e\u30ca\u30f3\u30d0\u30fc1\u3060\u3002",
     "id": 55,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ハイテンション (haitenshon)",
+    "termA": "\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3 (haitenshon)",
     "termB": "high tension (English)",
     "explanation": "Means very energetic mood. (Set 3)",
-    "example": "試合前はみんなハイテンションだった。",
+    "example": "\u8a66\u5408\u524d\u306f\u307f\u3093\u306a\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3\u3060\u3063\u305f\u3002",
     "id": 56,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "イメージ (imeeji)",
+    "termA": "\u30a4\u30e1\u30fc\u30b8 (imeeji)",
     "termB": "image",
     "explanation": "Often means impression/public image. (Set 3)",
-    "example": "会社のイメージが良くなった。",
+    "example": "\u4f1a\u793e\u306e\u30a4\u30e1\u30fc\u30b8\u304c\u826f\u304f\u306a\u3063\u305f\u3002",
     "id": 57,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "サラリーマン (sarariman)",
+    "termA": "\u30b5\u30e9\u30ea\u30fc\u30de\u30f3 (sarariman)",
     "termB": "salaryman",
     "explanation": "Refers broadly to office workers. (Set 3)",
-    "example": "父は都内でサラリーマンをしている。",
+    "example": "\u7236\u306f\u90fd\u5185\u3067\u30b5\u30e9\u30ea\u30fc\u30de\u30f3\u3092\u3057\u3066\u3044\u308b\u3002",
     "id": 58,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ペットボトル (petto botoru)",
+    "termA": "\u30da\u30c3\u30c8\u30dc\u30c8\u30eb (petto botoru)",
     "termB": "PET bottle",
     "explanation": "Common term for plastic drink bottle. (Set 3)",
-    "example": "ペットボトルは分別して捨てる。",
+    "example": "\u30da\u30c3\u30c8\u30dc\u30c8\u30eb\u306f\u5206\u5225\u3057\u3066\u6368\u3066\u308b\u3002",
     "id": 59,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "アニメ (anime)",
+    "termA": "\u30a2\u30cb\u30e1 (anime)",
     "termB": "anime (English usage)",
     "explanation": "In Japanese it can refer to animation in general. (Set 3)",
-    "example": "子どものころからアニメが好きだ。",
+    "example": "\u5b50\u3069\u3082\u306e\u3053\u308d\u304b\u3089\u30a2\u30cb\u30e1\u304c\u597d\u304d\u3060\u3002",
     "id": 60,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "手紙 (tegami)",
+    "termA": "\u624b\u7d19 (tegami)",
     "termB": "letter (English)",
-    "explanation": "手紙 means physical mail, not alphabet letters. (Set 4)",
-    "example": "祖母に手紙を書きました。",
+    "explanation": "\u624b\u7d19 means physical mail, not alphabet letters. (Set 4)",
+    "example": "\u7956\u6bcd\u306b\u624b\u7d19\u3092\u66f8\u304d\u307e\u3057\u305f\u3002",
     "id": 61,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "マンション (manshon)",
+    "termA": "\u30de\u30f3\u30b7\u30e7\u30f3 (manshon)",
     "termB": "mansion (English)",
-    "explanation": "マンション means apartment building in Japanese. (Set 4)",
-    "example": "駅前のマンションに住んでいます。",
+    "explanation": "\u30de\u30f3\u30b7\u30e7\u30f3 means apartment building in Japanese. (Set 4)",
+    "example": "\u99c5\u524d\u306e\u30de\u30f3\u30b7\u30e7\u30f3\u306b\u4f4f\u3093\u3067\u3044\u307e\u3059\u3002",
     "id": 62,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "コンセント (konsento)",
+    "termA": "\u30b3\u30f3\u30bb\u30f3\u30c8 (konsento)",
     "termB": "consent (English)",
-    "explanation": "コンセント means electrical outlet. (Set 4)",
-    "example": "コンセントが足りないので延長コードを使います。",
+    "explanation": "\u30b3\u30f3\u30bb\u30f3\u30c8 means electrical outlet. (Set 4)",
+    "example": "\u30b3\u30f3\u30bb\u30f3\u30c8\u304c\u8db3\u308a\u306a\u3044\u306e\u3067\u5ef6\u9577\u30b3\u30fc\u30c9\u3092\u4f7f\u3044\u307e\u3059\u3002",
     "id": 63,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "スマート (sumaato)",
+    "termA": "\u30b9\u30de\u30fc\u30c8 (sumaato)",
     "termB": "smart (English)",
     "explanation": "Often means slim/stylish, not necessarily intelligent. (Set 4)",
-    "example": "彼はスマートな着こなしをしている。",
+    "example": "\u5f7c\u306f\u30b9\u30de\u30fc\u30c8\u306a\u7740\u3053\u306a\u3057\u3092\u3057\u3066\u3044\u308b\u3002",
     "id": 64,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "テンション (tenshon)",
+    "termA": "\u30c6\u30f3\u30b7\u30e7\u30f3 (tenshon)",
     "termB": "tension (English)",
     "explanation": "Often means excitement/energy level in casual Japanese. (Set 4)",
-    "example": "ライブでテンションが上がった。",
+    "example": "\u30e9\u30a4\u30d6\u3067\u30c6\u30f3\u30b7\u30e7\u30f3\u304c\u4e0a\u304c\u3063\u305f\u3002",
     "id": 65,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "バイキング (baikingu)",
+    "termA": "\u30d0\u30a4\u30ad\u30f3\u30b0 (baikingu)",
     "termB": "viking (English)",
     "explanation": "Usually means buffet/all-you-can-eat in Japan. (Set 4)",
-    "example": "ホテルの朝食はバイキングです。",
+    "example": "\u30db\u30c6\u30eb\u306e\u671d\u98df\u306f\u30d0\u30a4\u30ad\u30f3\u30b0\u3067\u3059\u3002",
     "id": 66,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "カンニング (kanningu)",
+    "termA": "\u30ab\u30f3\u30cb\u30f3\u30b0 (kanningu)",
     "termB": "cunning (English)",
-    "explanation": "カンニング means cheating on tests. (Set 4)",
-    "example": "試験でカンニングしてはいけません。",
+    "explanation": "\u30ab\u30f3\u30cb\u30f3\u30b0 means cheating on tests. (Set 4)",
+    "example": "\u8a66\u9a13\u3067\u30ab\u30f3\u30cb\u30f3\u30b0\u3057\u3066\u306f\u3044\u3051\u307e\u305b\u3093\u3002",
     "id": 67,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "リベンジ (ribenji)",
+    "termA": "\u30ea\u30d9\u30f3\u30b8 (ribenji)",
     "termB": "revenge (English)",
     "explanation": "Often used as 'try again after failing'. (Set 4)",
-    "example": "去年落ちた試験に今年リベンジする。",
+    "example": "\u53bb\u5e74\u843d\u3061\u305f\u8a66\u9a13\u306b\u4eca\u5e74\u30ea\u30d9\u30f3\u30b8\u3059\u308b\u3002",
     "id": 68,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "クレーム (kureemu)",
+    "termA": "\u30af\u30ec\u30fc\u30e0 (kureemu)",
     "termB": "claim (English)",
     "explanation": "In Japanese it usually means complaint. (Set 4)",
-    "example": "お客様からクレームが届いた。",
+    "example": "\u304a\u5ba2\u69d8\u304b\u3089\u30af\u30ec\u30fc\u30e0\u304c\u5c4a\u3044\u305f\u3002",
     "id": 69,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ナイーブ (naibu)",
+    "termA": "\u30ca\u30a4\u30fc\u30d6 (naibu)",
     "termB": "naive (English)",
     "explanation": "Often means sensitive/delicate in Japanese. (Set 4)",
-    "example": "彼は意外とナイーブな性格だ。",
+    "example": "\u5f7c\u306f\u610f\u5916\u3068\u30ca\u30a4\u30fc\u30d6\u306a\u6027\u683c\u3060\u3002",
     "id": 70,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "シール (shiiru)",
+    "termA": "\u30b7\u30fc\u30eb (shiiru)",
     "termB": "seal (animal)",
-    "explanation": "シール usually means sticker/label. (Set 4)",
-    "example": "ノートにシールを貼った。",
+    "explanation": "\u30b7\u30fc\u30eb usually means sticker/label. (Set 4)",
+    "example": "\u30ce\u30fc\u30c8\u306b\u30b7\u30fc\u30eb\u3092\u8cbc\u3063\u305f\u3002",
     "id": 71,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ホッチキス (hocchikisu)",
+    "termA": "\u30db\u30c3\u30c1\u30ad\u30b9 (hocchikisu)",
     "termB": "Hotchkiss (name)",
-    "explanation": "ホッチキス means stapler. (Set 4)",
-    "example": "資料をホッチキスで留めてください。",
+    "explanation": "\u30db\u30c3\u30c1\u30ad\u30b9 means stapler. (Set 4)",
+    "example": "\u8cc7\u6599\u3092\u30db\u30c3\u30c1\u30ad\u30b9\u3067\u7559\u3081\u3066\u304f\u3060\u3055\u3044\u3002",
     "id": 72,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ドンマイ (donmai)",
+    "termA": "\u30c9\u30f3\u30de\u30a4 (donmai)",
     "termB": "don't mind (English)",
     "explanation": "Used to comfort someone: 'never mind'. (Set 4)",
-    "example": "ミスしてもドンマイ！",
+    "example": "\u30df\u30b9\u3057\u3066\u3082\u30c9\u30f3\u30de\u30a4\uff01",
     "id": 73,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "チャレンジ (charenji)",
+    "termA": "\u30c1\u30e3\u30ec\u30f3\u30b8 (charenji)",
     "termB": "challenge (English)",
     "explanation": "Often means trying something new. (Set 4)",
-    "example": "新しい料理にチャレンジしてみる。",
+    "example": "\u65b0\u3057\u3044\u6599\u7406\u306b\u30c1\u30e3\u30ec\u30f3\u30b8\u3057\u3066\u307f\u308b\u3002",
     "id": 74,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ナンバー (nanbaa)",
+    "termA": "\u30ca\u30f3\u30d0\u30fc (nanbaa)",
     "termB": "number (English)",
     "explanation": "Can mean ranking position in Japanese usage. (Set 4)",
-    "example": "彼はチームのナンバー1だ。",
+    "example": "\u5f7c\u306f\u30c1\u30fc\u30e0\u306e\u30ca\u30f3\u30d0\u30fc1\u3060\u3002",
     "id": 75,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ハイテンション (haitenshon)",
+    "termA": "\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3 (haitenshon)",
     "termB": "high tension (English)",
     "explanation": "Means very energetic mood. (Set 4)",
-    "example": "試合前はみんなハイテンションだった。",
+    "example": "\u8a66\u5408\u524d\u306f\u307f\u3093\u306a\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3\u3060\u3063\u305f\u3002",
     "id": 76,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "イメージ (imeeji)",
+    "termA": "\u30a4\u30e1\u30fc\u30b8 (imeeji)",
     "termB": "image",
     "explanation": "Often means impression/public image. (Set 4)",
-    "example": "会社のイメージが良くなった。",
+    "example": "\u4f1a\u793e\u306e\u30a4\u30e1\u30fc\u30b8\u304c\u826f\u304f\u306a\u3063\u305f\u3002",
     "id": 77,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "サラリーマン (sarariman)",
+    "termA": "\u30b5\u30e9\u30ea\u30fc\u30de\u30f3 (sarariman)",
     "termB": "salaryman",
     "explanation": "Refers broadly to office workers. (Set 4)",
-    "example": "父は都内でサラリーマンをしている。",
+    "example": "\u7236\u306f\u90fd\u5185\u3067\u30b5\u30e9\u30ea\u30fc\u30de\u30f3\u3092\u3057\u3066\u3044\u308b\u3002",
     "id": 78,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ペットボトル (petto botoru)",
+    "termA": "\u30da\u30c3\u30c8\u30dc\u30c8\u30eb (petto botoru)",
     "termB": "PET bottle",
     "explanation": "Common term for plastic drink bottle. (Set 4)",
-    "example": "ペットボトルは分別して捨てる。",
+    "example": "\u30da\u30c3\u30c8\u30dc\u30c8\u30eb\u306f\u5206\u5225\u3057\u3066\u6368\u3066\u308b\u3002",
     "id": 79,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "アニメ (anime)",
+    "termA": "\u30a2\u30cb\u30e1 (anime)",
     "termB": "anime (English usage)",
     "explanation": "In Japanese it can refer to animation in general. (Set 4)",
-    "example": "子どものころからアニメが好きだ。",
+    "example": "\u5b50\u3069\u3082\u306e\u3053\u308d\u304b\u3089\u30a2\u30cb\u30e1\u304c\u597d\u304d\u3060\u3002",
     "id": 80,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "手紙 (tegami)",
+    "termA": "\u624b\u7d19 (tegami)",
     "termB": "letter (English)",
-    "explanation": "手紙 means physical mail, not alphabet letters. (Set 5)",
-    "example": "祖母に手紙を書きました。",
+    "explanation": "\u624b\u7d19 means physical mail, not alphabet letters. (Set 5)",
+    "example": "\u7956\u6bcd\u306b\u624b\u7d19\u3092\u66f8\u304d\u307e\u3057\u305f\u3002",
     "id": 81,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "マンション (manshon)",
+    "termA": "\u30de\u30f3\u30b7\u30e7\u30f3 (manshon)",
     "termB": "mansion (English)",
-    "explanation": "マンション means apartment building in Japanese. (Set 5)",
-    "example": "駅前のマンションに住んでいます。",
+    "explanation": "\u30de\u30f3\u30b7\u30e7\u30f3 means apartment building in Japanese. (Set 5)",
+    "example": "\u99c5\u524d\u306e\u30de\u30f3\u30b7\u30e7\u30f3\u306b\u4f4f\u3093\u3067\u3044\u307e\u3059\u3002",
     "id": 82,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "コンセント (konsento)",
+    "termA": "\u30b3\u30f3\u30bb\u30f3\u30c8 (konsento)",
     "termB": "consent (English)",
-    "explanation": "コンセント means electrical outlet. (Set 5)",
-    "example": "コンセントが足りないので延長コードを使います。",
+    "explanation": "\u30b3\u30f3\u30bb\u30f3\u30c8 means electrical outlet. (Set 5)",
+    "example": "\u30b3\u30f3\u30bb\u30f3\u30c8\u304c\u8db3\u308a\u306a\u3044\u306e\u3067\u5ef6\u9577\u30b3\u30fc\u30c9\u3092\u4f7f\u3044\u307e\u3059\u3002",
     "id": 83,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "スマート (sumaato)",
+    "termA": "\u30b9\u30de\u30fc\u30c8 (sumaato)",
     "termB": "smart (English)",
     "explanation": "Often means slim/stylish, not necessarily intelligent. (Set 5)",
-    "example": "彼はスマートな着こなしをしている。",
+    "example": "\u5f7c\u306f\u30b9\u30de\u30fc\u30c8\u306a\u7740\u3053\u306a\u3057\u3092\u3057\u3066\u3044\u308b\u3002",
     "id": 84,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "テンション (tenshon)",
+    "termA": "\u30c6\u30f3\u30b7\u30e7\u30f3 (tenshon)",
     "termB": "tension (English)",
     "explanation": "Often means excitement/energy level in casual Japanese. (Set 5)",
-    "example": "ライブでテンションが上がった。",
+    "example": "\u30e9\u30a4\u30d6\u3067\u30c6\u30f3\u30b7\u30e7\u30f3\u304c\u4e0a\u304c\u3063\u305f\u3002",
     "id": 85,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "バイキング (baikingu)",
+    "termA": "\u30d0\u30a4\u30ad\u30f3\u30b0 (baikingu)",
     "termB": "viking (English)",
     "explanation": "Usually means buffet/all-you-can-eat in Japan. (Set 5)",
-    "example": "ホテルの朝食はバイキングです。",
+    "example": "\u30db\u30c6\u30eb\u306e\u671d\u98df\u306f\u30d0\u30a4\u30ad\u30f3\u30b0\u3067\u3059\u3002",
     "id": 86,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "カンニング (kanningu)",
+    "termA": "\u30ab\u30f3\u30cb\u30f3\u30b0 (kanningu)",
     "termB": "cunning (English)",
-    "explanation": "カンニング means cheating on tests. (Set 5)",
-    "example": "試験でカンニングしてはいけません。",
+    "explanation": "\u30ab\u30f3\u30cb\u30f3\u30b0 means cheating on tests. (Set 5)",
+    "example": "\u8a66\u9a13\u3067\u30ab\u30f3\u30cb\u30f3\u30b0\u3057\u3066\u306f\u3044\u3051\u307e\u305b\u3093\u3002",
     "id": 87,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "リベンジ (ribenji)",
+    "termA": "\u30ea\u30d9\u30f3\u30b8 (ribenji)",
     "termB": "revenge (English)",
     "explanation": "Often used as 'try again after failing'. (Set 5)",
-    "example": "去年落ちた試験に今年リベンジする。",
+    "example": "\u53bb\u5e74\u843d\u3061\u305f\u8a66\u9a13\u306b\u4eca\u5e74\u30ea\u30d9\u30f3\u30b8\u3059\u308b\u3002",
     "id": 88,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "クレーム (kureemu)",
+    "termA": "\u30af\u30ec\u30fc\u30e0 (kureemu)",
     "termB": "claim (English)",
     "explanation": "In Japanese it usually means complaint. (Set 5)",
-    "example": "お客様からクレームが届いた。",
+    "example": "\u304a\u5ba2\u69d8\u304b\u3089\u30af\u30ec\u30fc\u30e0\u304c\u5c4a\u3044\u305f\u3002",
     "id": 89,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ナイーブ (naibu)",
+    "termA": "\u30ca\u30a4\u30fc\u30d6 (naibu)",
     "termB": "naive (English)",
     "explanation": "Often means sensitive/delicate in Japanese. (Set 5)",
-    "example": "彼は意外とナイーブな性格だ。",
+    "example": "\u5f7c\u306f\u610f\u5916\u3068\u30ca\u30a4\u30fc\u30d6\u306a\u6027\u683c\u3060\u3002",
     "id": 90,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "シール (shiiru)",
+    "termA": "\u30b7\u30fc\u30eb (shiiru)",
     "termB": "seal (animal)",
-    "explanation": "シール usually means sticker/label. (Set 5)",
-    "example": "ノートにシールを貼った。",
+    "explanation": "\u30b7\u30fc\u30eb usually means sticker/label. (Set 5)",
+    "example": "\u30ce\u30fc\u30c8\u306b\u30b7\u30fc\u30eb\u3092\u8cbc\u3063\u305f\u3002",
     "id": 91,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ホッチキス (hocchikisu)",
+    "termA": "\u30db\u30c3\u30c1\u30ad\u30b9 (hocchikisu)",
     "termB": "Hotchkiss (name)",
-    "explanation": "ホッチキス means stapler. (Set 5)",
-    "example": "資料をホッチキスで留めてください。",
+    "explanation": "\u30db\u30c3\u30c1\u30ad\u30b9 means stapler. (Set 5)",
+    "example": "\u8cc7\u6599\u3092\u30db\u30c3\u30c1\u30ad\u30b9\u3067\u7559\u3081\u3066\u304f\u3060\u3055\u3044\u3002",
     "id": 92,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ドンマイ (donmai)",
+    "termA": "\u30c9\u30f3\u30de\u30a4 (donmai)",
     "termB": "don't mind (English)",
     "explanation": "Used to comfort someone: 'never mind'. (Set 5)",
-    "example": "ミスしてもドンマイ！",
+    "example": "\u30df\u30b9\u3057\u3066\u3082\u30c9\u30f3\u30de\u30a4\uff01",
     "id": 93,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "チャレンジ (charenji)",
+    "termA": "\u30c1\u30e3\u30ec\u30f3\u30b8 (charenji)",
     "termB": "challenge (English)",
     "explanation": "Often means trying something new. (Set 5)",
-    "example": "新しい料理にチャレンジしてみる。",
+    "example": "\u65b0\u3057\u3044\u6599\u7406\u306b\u30c1\u30e3\u30ec\u30f3\u30b8\u3057\u3066\u307f\u308b\u3002",
     "id": 94,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ナンバー (nanbaa)",
+    "termA": "\u30ca\u30f3\u30d0\u30fc (nanbaa)",
     "termB": "number (English)",
     "explanation": "Can mean ranking position in Japanese usage. (Set 5)",
-    "example": "彼はチームのナンバー1だ。",
+    "example": "\u5f7c\u306f\u30c1\u30fc\u30e0\u306e\u30ca\u30f3\u30d0\u30fc1\u3060\u3002",
     "id": 95,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ハイテンション (haitenshon)",
+    "termA": "\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3 (haitenshon)",
     "termB": "high tension (English)",
     "explanation": "Means very energetic mood. (Set 5)",
-    "example": "試合前はみんなハイテンションだった。",
+    "example": "\u8a66\u5408\u524d\u306f\u307f\u3093\u306a\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3\u3060\u3063\u305f\u3002",
     "id": 96,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "イメージ (imeeji)",
+    "termA": "\u30a4\u30e1\u30fc\u30b8 (imeeji)",
     "termB": "image",
     "explanation": "Often means impression/public image. (Set 5)",
-    "example": "会社のイメージが良くなった。",
+    "example": "\u4f1a\u793e\u306e\u30a4\u30e1\u30fc\u30b8\u304c\u826f\u304f\u306a\u3063\u305f\u3002",
     "id": 97,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "サラリーマン (sarariman)",
+    "termA": "\u30b5\u30e9\u30ea\u30fc\u30de\u30f3 (sarariman)",
     "termB": "salaryman",
     "explanation": "Refers broadly to office workers. (Set 5)",
-    "example": "父は都内でサラリーマンをしている。",
+    "example": "\u7236\u306f\u90fd\u5185\u3067\u30b5\u30e9\u30ea\u30fc\u30de\u30f3\u3092\u3057\u3066\u3044\u308b\u3002",
     "id": 98,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ペットボトル (petto botoru)",
+    "termA": "\u30da\u30c3\u30c8\u30dc\u30c8\u30eb (petto botoru)",
     "termB": "PET bottle",
     "explanation": "Common term for plastic drink bottle. (Set 5)",
-    "example": "ペットボトルは分別して捨てる。",
+    "example": "\u30da\u30c3\u30c8\u30dc\u30c8\u30eb\u306f\u5206\u5225\u3057\u3066\u6368\u3066\u308b\u3002",
     "id": 99,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "アニメ (anime)",
+    "termA": "\u30a2\u30cb\u30e1 (anime)",
     "termB": "anime (English usage)",
     "explanation": "In Japanese it can refer to animation in general. (Set 5)",
-    "example": "子どものころからアニメが好きだ。",
+    "example": "\u5b50\u3069\u3082\u306e\u3053\u308d\u304b\u3089\u30a2\u30cb\u30e1\u304c\u597d\u304d\u3060\u3002",
     "id": 100,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "手紙 (tegami)",
+    "termA": "\u624b\u7d19 (tegami)",
     "termB": "letter (English)",
-    "explanation": "手紙 means physical mail, not alphabet letters. (Set 6)",
-    "example": "祖母に手紙を書きました。",
+    "explanation": "\u624b\u7d19 means physical mail, not alphabet letters. (Set 6)",
+    "example": "\u7956\u6bcd\u306b\u624b\u7d19\u3092\u66f8\u304d\u307e\u3057\u305f\u3002",
     "id": 101,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "マンション (manshon)",
+    "termA": "\u30de\u30f3\u30b7\u30e7\u30f3 (manshon)",
     "termB": "mansion (English)",
-    "explanation": "マンション means apartment building in Japanese. (Set 6)",
-    "example": "駅前のマンションに住んでいます。",
+    "explanation": "\u30de\u30f3\u30b7\u30e7\u30f3 means apartment building in Japanese. (Set 6)",
+    "example": "\u99c5\u524d\u306e\u30de\u30f3\u30b7\u30e7\u30f3\u306b\u4f4f\u3093\u3067\u3044\u307e\u3059\u3002",
     "id": 102,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "コンセント (konsento)",
+    "termA": "\u30b3\u30f3\u30bb\u30f3\u30c8 (konsento)",
     "termB": "consent (English)",
-    "explanation": "コンセント means electrical outlet. (Set 6)",
-    "example": "コンセントが足りないので延長コードを使います。",
+    "explanation": "\u30b3\u30f3\u30bb\u30f3\u30c8 means electrical outlet. (Set 6)",
+    "example": "\u30b3\u30f3\u30bb\u30f3\u30c8\u304c\u8db3\u308a\u306a\u3044\u306e\u3067\u5ef6\u9577\u30b3\u30fc\u30c9\u3092\u4f7f\u3044\u307e\u3059\u3002",
     "id": 103,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "スマート (sumaato)",
+    "termA": "\u30b9\u30de\u30fc\u30c8 (sumaato)",
     "termB": "smart (English)",
     "explanation": "Often means slim/stylish, not necessarily intelligent. (Set 6)",
-    "example": "彼はスマートな着こなしをしている。",
+    "example": "\u5f7c\u306f\u30b9\u30de\u30fc\u30c8\u306a\u7740\u3053\u306a\u3057\u3092\u3057\u3066\u3044\u308b\u3002",
     "id": 104,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "テンション (tenshon)",
+    "termA": "\u30c6\u30f3\u30b7\u30e7\u30f3 (tenshon)",
     "termB": "tension (English)",
     "explanation": "Often means excitement/energy level in casual Japanese. (Set 6)",
-    "example": "ライブでテンションが上がった。",
+    "example": "\u30e9\u30a4\u30d6\u3067\u30c6\u30f3\u30b7\u30e7\u30f3\u304c\u4e0a\u304c\u3063\u305f\u3002",
     "id": 105,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "バイキング (baikingu)",
+    "termA": "\u30d0\u30a4\u30ad\u30f3\u30b0 (baikingu)",
     "termB": "viking (English)",
     "explanation": "Usually means buffet/all-you-can-eat in Japan. (Set 6)",
-    "example": "ホテルの朝食はバイキングです。",
+    "example": "\u30db\u30c6\u30eb\u306e\u671d\u98df\u306f\u30d0\u30a4\u30ad\u30f3\u30b0\u3067\u3059\u3002",
     "id": 106,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "カンニング (kanningu)",
+    "termA": "\u30ab\u30f3\u30cb\u30f3\u30b0 (kanningu)",
     "termB": "cunning (English)",
-    "explanation": "カンニング means cheating on tests. (Set 6)",
-    "example": "試験でカンニングしてはいけません。",
+    "explanation": "\u30ab\u30f3\u30cb\u30f3\u30b0 means cheating on tests. (Set 6)",
+    "example": "\u8a66\u9a13\u3067\u30ab\u30f3\u30cb\u30f3\u30b0\u3057\u3066\u306f\u3044\u3051\u307e\u305b\u3093\u3002",
     "id": 107,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "リベンジ (ribenji)",
+    "termA": "\u30ea\u30d9\u30f3\u30b8 (ribenji)",
     "termB": "revenge (English)",
     "explanation": "Often used as 'try again after failing'. (Set 6)",
-    "example": "去年落ちた試験に今年リベンジする。",
+    "example": "\u53bb\u5e74\u843d\u3061\u305f\u8a66\u9a13\u306b\u4eca\u5e74\u30ea\u30d9\u30f3\u30b8\u3059\u308b\u3002",
     "id": 108,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "クレーム (kureemu)",
+    "termA": "\u30af\u30ec\u30fc\u30e0 (kureemu)",
     "termB": "claim (English)",
     "explanation": "In Japanese it usually means complaint. (Set 6)",
-    "example": "お客様からクレームが届いた。",
+    "example": "\u304a\u5ba2\u69d8\u304b\u3089\u30af\u30ec\u30fc\u30e0\u304c\u5c4a\u3044\u305f\u3002",
     "id": 109,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ナイーブ (naibu)",
+    "termA": "\u30ca\u30a4\u30fc\u30d6 (naibu)",
     "termB": "naive (English)",
     "explanation": "Often means sensitive/delicate in Japanese. (Set 6)",
-    "example": "彼は意外とナイーブな性格だ。",
+    "example": "\u5f7c\u306f\u610f\u5916\u3068\u30ca\u30a4\u30fc\u30d6\u306a\u6027\u683c\u3060\u3002",
     "id": 110,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "シール (shiiru)",
+    "termA": "\u30b7\u30fc\u30eb (shiiru)",
     "termB": "seal (animal)",
-    "explanation": "シール usually means sticker/label. (Set 6)",
-    "example": "ノートにシールを貼った。",
+    "explanation": "\u30b7\u30fc\u30eb usually means sticker/label. (Set 6)",
+    "example": "\u30ce\u30fc\u30c8\u306b\u30b7\u30fc\u30eb\u3092\u8cbc\u3063\u305f\u3002",
     "id": 111,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ホッチキス (hocchikisu)",
+    "termA": "\u30db\u30c3\u30c1\u30ad\u30b9 (hocchikisu)",
     "termB": "Hotchkiss (name)",
-    "explanation": "ホッチキス means stapler. (Set 6)",
-    "example": "資料をホッチキスで留めてください。",
+    "explanation": "\u30db\u30c3\u30c1\u30ad\u30b9 means stapler. (Set 6)",
+    "example": "\u8cc7\u6599\u3092\u30db\u30c3\u30c1\u30ad\u30b9\u3067\u7559\u3081\u3066\u304f\u3060\u3055\u3044\u3002",
     "id": 112,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ドンマイ (donmai)",
+    "termA": "\u30c9\u30f3\u30de\u30a4 (donmai)",
     "termB": "don't mind (English)",
     "explanation": "Used to comfort someone: 'never mind'. (Set 6)",
-    "example": "ミスしてもドンマイ！",
+    "example": "\u30df\u30b9\u3057\u3066\u3082\u30c9\u30f3\u30de\u30a4\uff01",
     "id": 113,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "チャレンジ (charenji)",
+    "termA": "\u30c1\u30e3\u30ec\u30f3\u30b8 (charenji)",
     "termB": "challenge (English)",
     "explanation": "Often means trying something new. (Set 6)",
-    "example": "新しい料理にチャレンジしてみる。",
+    "example": "\u65b0\u3057\u3044\u6599\u7406\u306b\u30c1\u30e3\u30ec\u30f3\u30b8\u3057\u3066\u307f\u308b\u3002",
     "id": 114,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ナンバー (nanbaa)",
+    "termA": "\u30ca\u30f3\u30d0\u30fc (nanbaa)",
     "termB": "number (English)",
     "explanation": "Can mean ranking position in Japanese usage. (Set 6)",
-    "example": "彼はチームのナンバー1だ。",
+    "example": "\u5f7c\u306f\u30c1\u30fc\u30e0\u306e\u30ca\u30f3\u30d0\u30fc1\u3060\u3002",
     "id": 115,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ハイテンション (haitenshon)",
+    "termA": "\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3 (haitenshon)",
     "termB": "high tension (English)",
     "explanation": "Means very energetic mood. (Set 6)",
-    "example": "試合前はみんなハイテンションだった。",
+    "example": "\u8a66\u5408\u524d\u306f\u307f\u3093\u306a\u30cf\u30a4\u30c6\u30f3\u30b7\u30e7\u30f3\u3060\u3063\u305f\u3002",
     "id": 116,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "イメージ (imeeji)",
+    "termA": "\u30a4\u30e1\u30fc\u30b8 (imeeji)",
     "termB": "image",
     "explanation": "Often means impression/public image. (Set 6)",
-    "example": "会社のイメージが良くなった。",
+    "example": "\u4f1a\u793e\u306e\u30a4\u30e1\u30fc\u30b8\u304c\u826f\u304f\u306a\u3063\u305f\u3002",
     "id": 117,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "サラリーマン (sarariman)",
+    "termA": "\u30b5\u30e9\u30ea\u30fc\u30de\u30f3 (sarariman)",
     "termB": "salaryman",
     "explanation": "Refers broadly to office workers. (Set 6)",
-    "example": "父は都内でサラリーマンをしている。",
+    "example": "\u7236\u306f\u90fd\u5185\u3067\u30b5\u30e9\u30ea\u30fc\u30de\u30f3\u3092\u3057\u3066\u3044\u308b\u3002",
     "id": 118,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "ペットボトル (petto botoru)",
+    "termA": "\u30da\u30c3\u30c8\u30dc\u30c8\u30eb (petto botoru)",
     "termB": "PET bottle",
     "explanation": "Common term for plastic drink bottle. (Set 6)",
-    "example": "ペットボトルは分別して捨てる。",
+    "example": "\u30da\u30c3\u30c8\u30dc\u30c8\u30eb\u306f\u5206\u5225\u3057\u3066\u6368\u3066\u308b\u3002",
     "id": 119,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "termA": "アニメ (anime)",
+    "termA": "\u30a2\u30cb\u30e1 (anime)",
     "termB": "anime (English usage)",
     "explanation": "In Japanese it can refer to animation in general. (Set 6)",
-    "example": "子どものころからアニメが好きだ。",
+    "example": "\u5b50\u3069\u3082\u306e\u3053\u308d\u304b\u3089\u30a2\u30cb\u30e1\u304c\u597d\u304d\u3060\u3002",
     "id": 120,
     "issued": false,
-    "completed": true
+    "completed": false
   }
 ]

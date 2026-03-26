@@ -1,1202 +1,1202 @@
 [
   {
-    "japanese": "まだまだだね",
+    "japanese": "\u307e\u3060\u307e\u3060\u3060\u306d",
     "romaji": "Mada mada da ne",
     "english": "You still have lots more to work on.",
     "game": "The Prince of Tennis: Sweat & Tears 2",
     "character": "Ryoma Echizen",
     "id": 1,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "約束された勝利の剣",
+    "japanese": "\u7d04\u675f\u3055\u308c\u305f\u52dd\u5229\u306e\u5263",
     "romaji": "Yakusoku sareta shouri no ken",
     "english": "The Sword of Promised Victory.",
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 2,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "俺は悪くねぇ！",
+    "japanese": "\u4ffa\u306f\u60aa\u304f\u306d\u3047\uff01",
     "romaji": "Ore wa warukunee!",
     "english": "It's not my fault!",
     "game": "Tales of the Abyss",
     "character": "Luke fon Fabre",
     "id": 3,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "未来を変えるんだ！",
+    "japanese": "\u672a\u6765\u3092\u5909\u3048\u308b\u3093\u3060\uff01",
     "romaji": "Mirai o kaerun da!",
     "english": "We're going to change the future!",
     "game": "Steins;Gate: My Darling's Embrace",
     "character": "Rintaro Okabe",
     "id": 4,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "希望は前に進むんだ！",
+    "japanese": "\u5e0c\u671b\u306f\u524d\u306b\u9032\u3080\u3093\u3060\uff01",
     "romaji": "Kibou wa mae ni susumun da!",
     "english": "Hope moves forward!",
     "game": "Danganronpa series",
     "character": "Makoto Naegi",
     "id": 5,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "覚悟はいいか？ 俺はできてる。",
+    "japanese": "\u899a\u609f\u306f\u3044\u3044\u304b\uff1f \u4ffa\u306f\u3067\u304d\u3066\u308b\u3002",
     "romaji": "Kakugo wa ii ka? Ore wa dekiteru.",
     "english": "Are you prepared? I am.",
-    "game": "JoJo’s Bizarre Adventure: All-Star Battle",
+    "game": "JoJo\u2019s Bizarre Adventure: All-Star Battle",
     "character": "Giorno Giovanna",
     "id": 6,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "仲間を信じろ",
+    "japanese": "\u4ef2\u9593\u3092\u4fe1\u3058\u308d",
     "romaji": "Nakama o shinjiro",
     "english": "Believe in your comrades.",
     "game": "Dragon Quest series",
     "character": "Recurring command voice",
     "id": 7,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "行くぞ、みんな！",
+    "japanese": "\u884c\u304f\u305e\u3001\u307f\u3093\u306a\uff01",
     "romaji": "Iku zo, minna!",
     "english": "Let's go, everyone!",
     "game": "Kingdom Hearts series (JP dub)",
     "character": "Sora",
     "id": 8,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "負ける気がしない",
+    "japanese": "\u8ca0\u3051\u308b\u6c17\u304c\u3057\u306a\u3044",
     "romaji": "Makeru ki ga shinai",
     "english": "I don't feel like I can lose.",
     "game": "Street Fighter series",
     "character": "Ryu",
     "id": 9,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "冒険の始まりだ！",
+    "japanese": "\u5192\u967a\u306e\u59cb\u307e\u308a\u3060\uff01",
     "romaji": "Bouken no hajimari da!",
     "english": "This is the beginning of the adventure!",
     "game": "Dragon Quest XI",
     "character": "Hero / party lines",
     "id": 10,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "ここからが本番だ",
+    "japanese": "\u3053\u3053\u304b\u3089\u304c\u672c\u756a\u3060",
     "romaji": "Koko kara ga honban da",
     "english": "The real challenge starts now.",
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 11,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "次はもっと強くなる",
+    "japanese": "\u6b21\u306f\u3082\u3063\u3068\u5f37\u304f\u306a\u308b",
     "romaji": "Tsugi wa motto tsuyoku naru",
     "english": "Next time, I'll be stronger.",
     "game": "Pokemon series",
     "character": "Rival characters",
     "id": 12,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "運命なんて、変えてみせる！",
+    "japanese": "\u904b\u547d\u306a\u3093\u3066\u3001\u5909\u3048\u3066\u307f\u305b\u308b\uff01",
     "romaji": "Unmei nante, kaete miseru!",
     "english": "I'll change destiny!",
     "game": "Final Fantasy Type-0",
     "character": "Class Zero",
     "id": 13,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "生きるってのは、戦うってことだ",
+    "japanese": "\u751f\u304d\u308b\u3063\u3066\u306e\u306f\u3001\u6226\u3046\u3063\u3066\u3053\u3068\u3060",
     "romaji": "Ikiru tte no wa, tatakau tte koto da",
     "english": "To live is to fight.",
     "game": "Yakuza: Like a Dragon",
     "character": "Ichiban Kasuga",
     "id": 14,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "この戦い、負けられない！",
+    "japanese": "\u3053\u306e\u6226\u3044\u3001\u8ca0\u3051\u3089\u308c\u306a\u3044\uff01",
     "romaji": "Kono tatakai, makerarenai!",
     "english": "I can't lose this fight!",
     "game": "Fire Emblem series",
     "character": "Various protagonists",
     "id": 15,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "それもまた一興",
+    "japanese": "\u305d\u308c\u3082\u307e\u305f\u4e00\u8208",
     "romaji": "Sore mo mata ikkyo",
     "english": "That too has its charm.",
     "game": "Onimusha series",
     "character": "Nobunaga Oda",
     "id": 16,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "世界を救うって、そういうことだろ？",
+    "japanese": "\u4e16\u754c\u3092\u6551\u3046\u3063\u3066\u3001\u305d\u3046\u3044\u3046\u3053\u3068\u3060\u308d\uff1f",
     "romaji": "Sekai o sukuu tte, sou iu koto daro?",
     "english": "Saving the world means doing this, right?",
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 17,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "風が、来る！",
+    "japanese": "\u98a8\u304c\u3001\u6765\u308b\uff01",
     "romaji": "Kaze ga, kuru!",
     "english": "The wind is coming!",
     "game": "The Legend of Zelda: Breath of the Wild (JP)",
     "character": "Revali",
     "id": 18,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "俺たちの物語は、ここからだ",
+    "japanese": "\u4ffa\u305f\u3061\u306e\u7269\u8a9e\u306f\u3001\u3053\u3053\u304b\u3089\u3060",
     "romaji": "Oretachi no monogatari wa, koko kara da",
     "english": "Our story starts here.",
     "game": "Tales series",
     "character": "Various endings",
     "id": 19,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "勝つと思うな、思えば負けよ",
+    "japanese": "\u52dd\u3064\u3068\u601d\u3046\u306a\u3001\u601d\u3048\u3070\u8ca0\u3051\u3088",
     "romaji": "Katsu to omou na, omoeba makeyo",
     "english": "If you only think of winning, you lose.",
     "game": "Samurai game proverb line",
     "character": "Musashi reference",
     "id": 20,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "まだまだだね",
+    "japanese": "\u307e\u3060\u307e\u3060\u3060\u306d",
     "romaji": "Mada mada da ne",
     "english": "You still have lots more to work on.",
     "game": "The Prince of Tennis: Sweat & Tears 2",
     "character": "Ryoma Echizen",
     "id": 21,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "約束された勝利の剣",
+    "japanese": "\u7d04\u675f\u3055\u308c\u305f\u52dd\u5229\u306e\u5263",
     "romaji": "Yakusoku sareta shouri no ken",
     "english": "The Sword of Promised Victory.",
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 22,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "俺は悪くねぇ！",
+    "japanese": "\u4ffa\u306f\u60aa\u304f\u306d\u3047\uff01",
     "romaji": "Ore wa warukunee!",
     "english": "It's not my fault!",
     "game": "Tales of the Abyss",
     "character": "Luke fon Fabre",
     "id": 23,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "未来を変えるんだ！",
+    "japanese": "\u672a\u6765\u3092\u5909\u3048\u308b\u3093\u3060\uff01",
     "romaji": "Mirai o kaerun da!",
     "english": "We're going to change the future!",
     "game": "Steins;Gate: My Darling's Embrace",
     "character": "Rintaro Okabe",
     "id": 24,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "希望は前に進むんだ！",
+    "japanese": "\u5e0c\u671b\u306f\u524d\u306b\u9032\u3080\u3093\u3060\uff01",
     "romaji": "Kibou wa mae ni susumun da!",
     "english": "Hope moves forward!",
     "game": "Danganronpa series",
     "character": "Makoto Naegi",
     "id": 25,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "覚悟はいいか？ 俺はできてる。",
+    "japanese": "\u899a\u609f\u306f\u3044\u3044\u304b\uff1f \u4ffa\u306f\u3067\u304d\u3066\u308b\u3002",
     "romaji": "Kakugo wa ii ka? Ore wa dekiteru.",
     "english": "Are you prepared? I am.",
-    "game": "JoJo’s Bizarre Adventure: All-Star Battle",
+    "game": "JoJo\u2019s Bizarre Adventure: All-Star Battle",
     "character": "Giorno Giovanna",
     "id": 26,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "仲間を信じろ",
+    "japanese": "\u4ef2\u9593\u3092\u4fe1\u3058\u308d",
     "romaji": "Nakama o shinjiro",
     "english": "Believe in your comrades.",
     "game": "Dragon Quest series",
     "character": "Recurring command voice",
     "id": 27,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "行くぞ、みんな！",
+    "japanese": "\u884c\u304f\u305e\u3001\u307f\u3093\u306a\uff01",
     "romaji": "Iku zo, minna!",
     "english": "Let's go, everyone!",
     "game": "Kingdom Hearts series (JP dub)",
     "character": "Sora",
     "id": 28,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "負ける気がしない",
+    "japanese": "\u8ca0\u3051\u308b\u6c17\u304c\u3057\u306a\u3044",
     "romaji": "Makeru ki ga shinai",
     "english": "I don't feel like I can lose.",
     "game": "Street Fighter series",
     "character": "Ryu",
     "id": 29,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "冒険の始まりだ！",
+    "japanese": "\u5192\u967a\u306e\u59cb\u307e\u308a\u3060\uff01",
     "romaji": "Bouken no hajimari da!",
     "english": "This is the beginning of the adventure!",
     "game": "Dragon Quest XI",
     "character": "Hero / party lines",
     "id": 30,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "ここからが本番だ",
+    "japanese": "\u3053\u3053\u304b\u3089\u304c\u672c\u756a\u3060",
     "romaji": "Koko kara ga honban da",
     "english": "The real challenge starts now.",
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 31,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "次はもっと強くなる",
+    "japanese": "\u6b21\u306f\u3082\u3063\u3068\u5f37\u304f\u306a\u308b",
     "romaji": "Tsugi wa motto tsuyoku naru",
     "english": "Next time, I'll be stronger.",
     "game": "Pokemon series",
     "character": "Rival characters",
     "id": 32,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "運命なんて、変えてみせる！",
+    "japanese": "\u904b\u547d\u306a\u3093\u3066\u3001\u5909\u3048\u3066\u307f\u305b\u308b\uff01",
     "romaji": "Unmei nante, kaete miseru!",
     "english": "I'll change destiny!",
     "game": "Final Fantasy Type-0",
     "character": "Class Zero",
     "id": 33,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "生きるってのは、戦うってことだ",
+    "japanese": "\u751f\u304d\u308b\u3063\u3066\u306e\u306f\u3001\u6226\u3046\u3063\u3066\u3053\u3068\u3060",
     "romaji": "Ikiru tte no wa, tatakau tte koto da",
     "english": "To live is to fight.",
     "game": "Yakuza: Like a Dragon",
     "character": "Ichiban Kasuga",
     "id": 34,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "この戦い、負けられない！",
+    "japanese": "\u3053\u306e\u6226\u3044\u3001\u8ca0\u3051\u3089\u308c\u306a\u3044\uff01",
     "romaji": "Kono tatakai, makerarenai!",
     "english": "I can't lose this fight!",
     "game": "Fire Emblem series",
     "character": "Various protagonists",
     "id": 35,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "それもまた一興",
+    "japanese": "\u305d\u308c\u3082\u307e\u305f\u4e00\u8208",
     "romaji": "Sore mo mata ikkyo",
     "english": "That too has its charm.",
     "game": "Onimusha series",
     "character": "Nobunaga Oda",
     "id": 36,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "世界を救うって、そういうことだろ？",
+    "japanese": "\u4e16\u754c\u3092\u6551\u3046\u3063\u3066\u3001\u305d\u3046\u3044\u3046\u3053\u3068\u3060\u308d\uff1f",
     "romaji": "Sekai o sukuu tte, sou iu koto daro?",
     "english": "Saving the world means doing this, right?",
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 37,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "風が、来る！",
+    "japanese": "\u98a8\u304c\u3001\u6765\u308b\uff01",
     "romaji": "Kaze ga, kuru!",
     "english": "The wind is coming!",
     "game": "The Legend of Zelda: Breath of the Wild (JP)",
     "character": "Revali",
     "id": 38,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "俺たちの物語は、ここからだ",
+    "japanese": "\u4ffa\u305f\u3061\u306e\u7269\u8a9e\u306f\u3001\u3053\u3053\u304b\u3089\u3060",
     "romaji": "Oretachi no monogatari wa, koko kara da",
     "english": "Our story starts here.",
     "game": "Tales series",
     "character": "Various endings",
     "id": 39,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "勝つと思うな、思えば負けよ",
+    "japanese": "\u52dd\u3064\u3068\u601d\u3046\u306a\u3001\u601d\u3048\u3070\u8ca0\u3051\u3088",
     "romaji": "Katsu to omou na, omoeba makeyo",
     "english": "If you only think of winning, you lose.",
     "game": "Samurai game proverb line",
     "character": "Musashi reference",
     "id": 40,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "まだまだだね",
+    "japanese": "\u307e\u3060\u307e\u3060\u3060\u306d",
     "romaji": "Mada mada da ne",
     "english": "You still have lots more to work on.",
     "game": "The Prince of Tennis: Sweat & Tears 2",
     "character": "Ryoma Echizen",
     "id": 41,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "約束された勝利の剣",
+    "japanese": "\u7d04\u675f\u3055\u308c\u305f\u52dd\u5229\u306e\u5263",
     "romaji": "Yakusoku sareta shouri no ken",
     "english": "The Sword of Promised Victory.",
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 42,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "俺は悪くねぇ！",
+    "japanese": "\u4ffa\u306f\u60aa\u304f\u306d\u3047\uff01",
     "romaji": "Ore wa warukunee!",
     "english": "It's not my fault!",
     "game": "Tales of the Abyss",
     "character": "Luke fon Fabre",
     "id": 43,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "未来を変えるんだ！",
+    "japanese": "\u672a\u6765\u3092\u5909\u3048\u308b\u3093\u3060\uff01",
     "romaji": "Mirai o kaerun da!",
     "english": "We're going to change the future!",
     "game": "Steins;Gate: My Darling's Embrace",
     "character": "Rintaro Okabe",
     "id": 44,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "希望は前に進むんだ！",
+    "japanese": "\u5e0c\u671b\u306f\u524d\u306b\u9032\u3080\u3093\u3060\uff01",
     "romaji": "Kibou wa mae ni susumun da!",
     "english": "Hope moves forward!",
     "game": "Danganronpa series",
     "character": "Makoto Naegi",
     "id": 45,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "覚悟はいいか？ 俺はできてる。",
+    "japanese": "\u899a\u609f\u306f\u3044\u3044\u304b\uff1f \u4ffa\u306f\u3067\u304d\u3066\u308b\u3002",
     "romaji": "Kakugo wa ii ka? Ore wa dekiteru.",
     "english": "Are you prepared? I am.",
-    "game": "JoJo’s Bizarre Adventure: All-Star Battle",
+    "game": "JoJo\u2019s Bizarre Adventure: All-Star Battle",
     "character": "Giorno Giovanna",
     "id": 46,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "仲間を信じろ",
+    "japanese": "\u4ef2\u9593\u3092\u4fe1\u3058\u308d",
     "romaji": "Nakama o shinjiro",
     "english": "Believe in your comrades.",
     "game": "Dragon Quest series",
     "character": "Recurring command voice",
     "id": 47,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "行くぞ、みんな！",
+    "japanese": "\u884c\u304f\u305e\u3001\u307f\u3093\u306a\uff01",
     "romaji": "Iku zo, minna!",
     "english": "Let's go, everyone!",
     "game": "Kingdom Hearts series (JP dub)",
     "character": "Sora",
     "id": 48,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "負ける気がしない",
+    "japanese": "\u8ca0\u3051\u308b\u6c17\u304c\u3057\u306a\u3044",
     "romaji": "Makeru ki ga shinai",
     "english": "I don't feel like I can lose.",
     "game": "Street Fighter series",
     "character": "Ryu",
     "id": 49,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "冒険の始まりだ！",
+    "japanese": "\u5192\u967a\u306e\u59cb\u307e\u308a\u3060\uff01",
     "romaji": "Bouken no hajimari da!",
     "english": "This is the beginning of the adventure!",
     "game": "Dragon Quest XI",
     "character": "Hero / party lines",
     "id": 50,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "ここからが本番だ",
+    "japanese": "\u3053\u3053\u304b\u3089\u304c\u672c\u756a\u3060",
     "romaji": "Koko kara ga honban da",
     "english": "The real challenge starts now.",
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 51,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "次はもっと強くなる",
+    "japanese": "\u6b21\u306f\u3082\u3063\u3068\u5f37\u304f\u306a\u308b",
     "romaji": "Tsugi wa motto tsuyoku naru",
     "english": "Next time, I'll be stronger.",
     "game": "Pokemon series",
     "character": "Rival characters",
     "id": 52,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "運命なんて、変えてみせる！",
+    "japanese": "\u904b\u547d\u306a\u3093\u3066\u3001\u5909\u3048\u3066\u307f\u305b\u308b\uff01",
     "romaji": "Unmei nante, kaete miseru!",
     "english": "I'll change destiny!",
     "game": "Final Fantasy Type-0",
     "character": "Class Zero",
     "id": 53,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "生きるってのは、戦うってことだ",
+    "japanese": "\u751f\u304d\u308b\u3063\u3066\u306e\u306f\u3001\u6226\u3046\u3063\u3066\u3053\u3068\u3060",
     "romaji": "Ikiru tte no wa, tatakau tte koto da",
     "english": "To live is to fight.",
     "game": "Yakuza: Like a Dragon",
     "character": "Ichiban Kasuga",
     "id": 54,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "この戦い、負けられない！",
+    "japanese": "\u3053\u306e\u6226\u3044\u3001\u8ca0\u3051\u3089\u308c\u306a\u3044\uff01",
     "romaji": "Kono tatakai, makerarenai!",
     "english": "I can't lose this fight!",
     "game": "Fire Emblem series",
     "character": "Various protagonists",
     "id": 55,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "それもまた一興",
+    "japanese": "\u305d\u308c\u3082\u307e\u305f\u4e00\u8208",
     "romaji": "Sore mo mata ikkyo",
     "english": "That too has its charm.",
     "game": "Onimusha series",
     "character": "Nobunaga Oda",
     "id": 56,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "世界を救うって、そういうことだろ？",
+    "japanese": "\u4e16\u754c\u3092\u6551\u3046\u3063\u3066\u3001\u305d\u3046\u3044\u3046\u3053\u3068\u3060\u308d\uff1f",
     "romaji": "Sekai o sukuu tte, sou iu koto daro?",
     "english": "Saving the world means doing this, right?",
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 57,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "風が、来る！",
+    "japanese": "\u98a8\u304c\u3001\u6765\u308b\uff01",
     "romaji": "Kaze ga, kuru!",
     "english": "The wind is coming!",
     "game": "The Legend of Zelda: Breath of the Wild (JP)",
     "character": "Revali",
     "id": 58,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "俺たちの物語は、ここからだ",
+    "japanese": "\u4ffa\u305f\u3061\u306e\u7269\u8a9e\u306f\u3001\u3053\u3053\u304b\u3089\u3060",
     "romaji": "Oretachi no monogatari wa, koko kara da",
     "english": "Our story starts here.",
     "game": "Tales series",
     "character": "Various endings",
     "id": 59,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "勝つと思うな、思えば負けよ",
+    "japanese": "\u52dd\u3064\u3068\u601d\u3046\u306a\u3001\u601d\u3048\u3070\u8ca0\u3051\u3088",
     "romaji": "Katsu to omou na, omoeba makeyo",
     "english": "If you only think of winning, you lose.",
     "game": "Samurai game proverb line",
     "character": "Musashi reference",
     "id": 60,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "まだまだだね",
+    "japanese": "\u307e\u3060\u307e\u3060\u3060\u306d",
     "romaji": "Mada mada da ne",
     "english": "You still have lots more to work on.",
     "game": "The Prince of Tennis: Sweat & Tears 2",
     "character": "Ryoma Echizen",
     "id": 61,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "約束された勝利の剣",
+    "japanese": "\u7d04\u675f\u3055\u308c\u305f\u52dd\u5229\u306e\u5263",
     "romaji": "Yakusoku sareta shouri no ken",
     "english": "The Sword of Promised Victory.",
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 62,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "俺は悪くねぇ！",
+    "japanese": "\u4ffa\u306f\u60aa\u304f\u306d\u3047\uff01",
     "romaji": "Ore wa warukunee!",
     "english": "It's not my fault!",
     "game": "Tales of the Abyss",
     "character": "Luke fon Fabre",
     "id": 63,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "未来を変えるんだ！",
+    "japanese": "\u672a\u6765\u3092\u5909\u3048\u308b\u3093\u3060\uff01",
     "romaji": "Mirai o kaerun da!",
     "english": "We're going to change the future!",
     "game": "Steins;Gate: My Darling's Embrace",
     "character": "Rintaro Okabe",
     "id": 64,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "希望は前に進むんだ！",
+    "japanese": "\u5e0c\u671b\u306f\u524d\u306b\u9032\u3080\u3093\u3060\uff01",
     "romaji": "Kibou wa mae ni susumun da!",
     "english": "Hope moves forward!",
     "game": "Danganronpa series",
     "character": "Makoto Naegi",
     "id": 65,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "覚悟はいいか？ 俺はできてる。",
+    "japanese": "\u899a\u609f\u306f\u3044\u3044\u304b\uff1f \u4ffa\u306f\u3067\u304d\u3066\u308b\u3002",
     "romaji": "Kakugo wa ii ka? Ore wa dekiteru.",
     "english": "Are you prepared? I am.",
-    "game": "JoJo’s Bizarre Adventure: All-Star Battle",
+    "game": "JoJo\u2019s Bizarre Adventure: All-Star Battle",
     "character": "Giorno Giovanna",
     "id": 66,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "仲間を信じろ",
+    "japanese": "\u4ef2\u9593\u3092\u4fe1\u3058\u308d",
     "romaji": "Nakama o shinjiro",
     "english": "Believe in your comrades.",
     "game": "Dragon Quest series",
     "character": "Recurring command voice",
     "id": 67,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "行くぞ、みんな！",
+    "japanese": "\u884c\u304f\u305e\u3001\u307f\u3093\u306a\uff01",
     "romaji": "Iku zo, minna!",
     "english": "Let's go, everyone!",
     "game": "Kingdom Hearts series (JP dub)",
     "character": "Sora",
     "id": 68,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "負ける気がしない",
+    "japanese": "\u8ca0\u3051\u308b\u6c17\u304c\u3057\u306a\u3044",
     "romaji": "Makeru ki ga shinai",
     "english": "I don't feel like I can lose.",
     "game": "Street Fighter series",
     "character": "Ryu",
     "id": 69,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "冒険の始まりだ！",
+    "japanese": "\u5192\u967a\u306e\u59cb\u307e\u308a\u3060\uff01",
     "romaji": "Bouken no hajimari da!",
     "english": "This is the beginning of the adventure!",
     "game": "Dragon Quest XI",
     "character": "Hero / party lines",
     "id": 70,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "ここからが本番だ",
+    "japanese": "\u3053\u3053\u304b\u3089\u304c\u672c\u756a\u3060",
     "romaji": "Koko kara ga honban da",
     "english": "The real challenge starts now.",
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 71,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "次はもっと強くなる",
+    "japanese": "\u6b21\u306f\u3082\u3063\u3068\u5f37\u304f\u306a\u308b",
     "romaji": "Tsugi wa motto tsuyoku naru",
     "english": "Next time, I'll be stronger.",
     "game": "Pokemon series",
     "character": "Rival characters",
     "id": 72,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "運命なんて、変えてみせる！",
+    "japanese": "\u904b\u547d\u306a\u3093\u3066\u3001\u5909\u3048\u3066\u307f\u305b\u308b\uff01",
     "romaji": "Unmei nante, kaete miseru!",
     "english": "I'll change destiny!",
     "game": "Final Fantasy Type-0",
     "character": "Class Zero",
     "id": 73,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "生きるってのは、戦うってことだ",
+    "japanese": "\u751f\u304d\u308b\u3063\u3066\u306e\u306f\u3001\u6226\u3046\u3063\u3066\u3053\u3068\u3060",
     "romaji": "Ikiru tte no wa, tatakau tte koto da",
     "english": "To live is to fight.",
     "game": "Yakuza: Like a Dragon",
     "character": "Ichiban Kasuga",
     "id": 74,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "この戦い、負けられない！",
+    "japanese": "\u3053\u306e\u6226\u3044\u3001\u8ca0\u3051\u3089\u308c\u306a\u3044\uff01",
     "romaji": "Kono tatakai, makerarenai!",
     "english": "I can't lose this fight!",
     "game": "Fire Emblem series",
     "character": "Various protagonists",
     "id": 75,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "それもまた一興",
+    "japanese": "\u305d\u308c\u3082\u307e\u305f\u4e00\u8208",
     "romaji": "Sore mo mata ikkyo",
     "english": "That too has its charm.",
     "game": "Onimusha series",
     "character": "Nobunaga Oda",
     "id": 76,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "世界を救うって、そういうことだろ？",
+    "japanese": "\u4e16\u754c\u3092\u6551\u3046\u3063\u3066\u3001\u305d\u3046\u3044\u3046\u3053\u3068\u3060\u308d\uff1f",
     "romaji": "Sekai o sukuu tte, sou iu koto daro?",
     "english": "Saving the world means doing this, right?",
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 77,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "風が、来る！",
+    "japanese": "\u98a8\u304c\u3001\u6765\u308b\uff01",
     "romaji": "Kaze ga, kuru!",
     "english": "The wind is coming!",
     "game": "The Legend of Zelda: Breath of the Wild (JP)",
     "character": "Revali",
     "id": 78,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "俺たちの物語は、ここからだ",
+    "japanese": "\u4ffa\u305f\u3061\u306e\u7269\u8a9e\u306f\u3001\u3053\u3053\u304b\u3089\u3060",
     "romaji": "Oretachi no monogatari wa, koko kara da",
     "english": "Our story starts here.",
     "game": "Tales series",
     "character": "Various endings",
     "id": 79,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "勝つと思うな、思えば負けよ",
+    "japanese": "\u52dd\u3064\u3068\u601d\u3046\u306a\u3001\u601d\u3048\u3070\u8ca0\u3051\u3088",
     "romaji": "Katsu to omou na, omoeba makeyo",
     "english": "If you only think of winning, you lose.",
     "game": "Samurai game proverb line",
     "character": "Musashi reference",
     "id": 80,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "まだまだだね",
+    "japanese": "\u307e\u3060\u307e\u3060\u3060\u306d",
     "romaji": "Mada mada da ne",
     "english": "You still have lots more to work on.",
     "game": "The Prince of Tennis: Sweat & Tears 2",
     "character": "Ryoma Echizen",
     "id": 81,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "約束された勝利の剣",
+    "japanese": "\u7d04\u675f\u3055\u308c\u305f\u52dd\u5229\u306e\u5263",
     "romaji": "Yakusoku sareta shouri no ken",
     "english": "The Sword of Promised Victory.",
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 82,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "俺は悪くねぇ！",
+    "japanese": "\u4ffa\u306f\u60aa\u304f\u306d\u3047\uff01",
     "romaji": "Ore wa warukunee!",
     "english": "It's not my fault!",
     "game": "Tales of the Abyss",
     "character": "Luke fon Fabre",
     "id": 83,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "未来を変えるんだ！",
+    "japanese": "\u672a\u6765\u3092\u5909\u3048\u308b\u3093\u3060\uff01",
     "romaji": "Mirai o kaerun da!",
     "english": "We're going to change the future!",
     "game": "Steins;Gate: My Darling's Embrace",
     "character": "Rintaro Okabe",
     "id": 84,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "希望は前に進むんだ！",
+    "japanese": "\u5e0c\u671b\u306f\u524d\u306b\u9032\u3080\u3093\u3060\uff01",
     "romaji": "Kibou wa mae ni susumun da!",
     "english": "Hope moves forward!",
     "game": "Danganronpa series",
     "character": "Makoto Naegi",
     "id": 85,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "覚悟はいいか？ 俺はできてる。",
+    "japanese": "\u899a\u609f\u306f\u3044\u3044\u304b\uff1f \u4ffa\u306f\u3067\u304d\u3066\u308b\u3002",
     "romaji": "Kakugo wa ii ka? Ore wa dekiteru.",
     "english": "Are you prepared? I am.",
-    "game": "JoJo’s Bizarre Adventure: All-Star Battle",
+    "game": "JoJo\u2019s Bizarre Adventure: All-Star Battle",
     "character": "Giorno Giovanna",
     "id": 86,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "仲間を信じろ",
+    "japanese": "\u4ef2\u9593\u3092\u4fe1\u3058\u308d",
     "romaji": "Nakama o shinjiro",
     "english": "Believe in your comrades.",
     "game": "Dragon Quest series",
     "character": "Recurring command voice",
     "id": 87,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "行くぞ、みんな！",
+    "japanese": "\u884c\u304f\u305e\u3001\u307f\u3093\u306a\uff01",
     "romaji": "Iku zo, minna!",
     "english": "Let's go, everyone!",
     "game": "Kingdom Hearts series (JP dub)",
     "character": "Sora",
     "id": 88,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "負ける気がしない",
+    "japanese": "\u8ca0\u3051\u308b\u6c17\u304c\u3057\u306a\u3044",
     "romaji": "Makeru ki ga shinai",
     "english": "I don't feel like I can lose.",
     "game": "Street Fighter series",
     "character": "Ryu",
     "id": 89,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "冒険の始まりだ！",
+    "japanese": "\u5192\u967a\u306e\u59cb\u307e\u308a\u3060\uff01",
     "romaji": "Bouken no hajimari da!",
     "english": "This is the beginning of the adventure!",
     "game": "Dragon Quest XI",
     "character": "Hero / party lines",
     "id": 90,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "ここからが本番だ",
+    "japanese": "\u3053\u3053\u304b\u3089\u304c\u672c\u756a\u3060",
     "romaji": "Koko kara ga honban da",
     "english": "The real challenge starts now.",
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 91,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "次はもっと強くなる",
+    "japanese": "\u6b21\u306f\u3082\u3063\u3068\u5f37\u304f\u306a\u308b",
     "romaji": "Tsugi wa motto tsuyoku naru",
     "english": "Next time, I'll be stronger.",
     "game": "Pokemon series",
     "character": "Rival characters",
     "id": 92,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "運命なんて、変えてみせる！",
+    "japanese": "\u904b\u547d\u306a\u3093\u3066\u3001\u5909\u3048\u3066\u307f\u305b\u308b\uff01",
     "romaji": "Unmei nante, kaete miseru!",
     "english": "I'll change destiny!",
     "game": "Final Fantasy Type-0",
     "character": "Class Zero",
     "id": 93,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "生きるってのは、戦うってことだ",
+    "japanese": "\u751f\u304d\u308b\u3063\u3066\u306e\u306f\u3001\u6226\u3046\u3063\u3066\u3053\u3068\u3060",
     "romaji": "Ikiru tte no wa, tatakau tte koto da",
     "english": "To live is to fight.",
     "game": "Yakuza: Like a Dragon",
     "character": "Ichiban Kasuga",
     "id": 94,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "この戦い、負けられない！",
+    "japanese": "\u3053\u306e\u6226\u3044\u3001\u8ca0\u3051\u3089\u308c\u306a\u3044\uff01",
     "romaji": "Kono tatakai, makerarenai!",
     "english": "I can't lose this fight!",
     "game": "Fire Emblem series",
     "character": "Various protagonists",
     "id": 95,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "それもまた一興",
+    "japanese": "\u305d\u308c\u3082\u307e\u305f\u4e00\u8208",
     "romaji": "Sore mo mata ikkyo",
     "english": "That too has its charm.",
     "game": "Onimusha series",
     "character": "Nobunaga Oda",
     "id": 96,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "世界を救うって、そういうことだろ？",
+    "japanese": "\u4e16\u754c\u3092\u6551\u3046\u3063\u3066\u3001\u305d\u3046\u3044\u3046\u3053\u3068\u3060\u308d\uff1f",
     "romaji": "Sekai o sukuu tte, sou iu koto daro?",
     "english": "Saving the world means doing this, right?",
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 97,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "風が、来る！",
+    "japanese": "\u98a8\u304c\u3001\u6765\u308b\uff01",
     "romaji": "Kaze ga, kuru!",
     "english": "The wind is coming!",
     "game": "The Legend of Zelda: Breath of the Wild (JP)",
     "character": "Revali",
     "id": 98,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "俺たちの物語は、ここからだ",
+    "japanese": "\u4ffa\u305f\u3061\u306e\u7269\u8a9e\u306f\u3001\u3053\u3053\u304b\u3089\u3060",
     "romaji": "Oretachi no monogatari wa, koko kara da",
     "english": "Our story starts here.",
     "game": "Tales series",
     "character": "Various endings",
     "id": 99,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "勝つと思うな、思えば負けよ",
+    "japanese": "\u52dd\u3064\u3068\u601d\u3046\u306a\u3001\u601d\u3048\u3070\u8ca0\u3051\u3088",
     "romaji": "Katsu to omou na, omoeba makeyo",
     "english": "If you only think of winning, you lose.",
     "game": "Samurai game proverb line",
     "character": "Musashi reference",
     "id": 100,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "まだまだだね",
+    "japanese": "\u307e\u3060\u307e\u3060\u3060\u306d",
     "romaji": "Mada mada da ne",
     "english": "You still have lots more to work on.",
     "game": "The Prince of Tennis: Sweat & Tears 2",
     "character": "Ryoma Echizen",
     "id": 101,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "約束された勝利の剣",
+    "japanese": "\u7d04\u675f\u3055\u308c\u305f\u52dd\u5229\u306e\u5263",
     "romaji": "Yakusoku sareta shouri no ken",
     "english": "The Sword of Promised Victory.",
     "game": "Fate/stay night [Realta Nua]",
     "character": "Saber",
     "id": 102,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "俺は悪くねぇ！",
+    "japanese": "\u4ffa\u306f\u60aa\u304f\u306d\u3047\uff01",
     "romaji": "Ore wa warukunee!",
     "english": "It's not my fault!",
     "game": "Tales of the Abyss",
     "character": "Luke fon Fabre",
     "id": 103,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "未来を変えるんだ！",
+    "japanese": "\u672a\u6765\u3092\u5909\u3048\u308b\u3093\u3060\uff01",
     "romaji": "Mirai o kaerun da!",
     "english": "We're going to change the future!",
     "game": "Steins;Gate: My Darling's Embrace",
     "character": "Rintaro Okabe",
     "id": 104,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "希望は前に進むんだ！",
+    "japanese": "\u5e0c\u671b\u306f\u524d\u306b\u9032\u3080\u3093\u3060\uff01",
     "romaji": "Kibou wa mae ni susumun da!",
     "english": "Hope moves forward!",
     "game": "Danganronpa series",
     "character": "Makoto Naegi",
     "id": 105,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "覚悟はいいか？ 俺はできてる。",
+    "japanese": "\u899a\u609f\u306f\u3044\u3044\u304b\uff1f \u4ffa\u306f\u3067\u304d\u3066\u308b\u3002",
     "romaji": "Kakugo wa ii ka? Ore wa dekiteru.",
     "english": "Are you prepared? I am.",
-    "game": "JoJo’s Bizarre Adventure: All-Star Battle",
+    "game": "JoJo\u2019s Bizarre Adventure: All-Star Battle",
     "character": "Giorno Giovanna",
     "id": 106,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "仲間を信じろ",
+    "japanese": "\u4ef2\u9593\u3092\u4fe1\u3058\u308d",
     "romaji": "Nakama o shinjiro",
     "english": "Believe in your comrades.",
     "game": "Dragon Quest series",
     "character": "Recurring command voice",
     "id": 107,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "行くぞ、みんな！",
+    "japanese": "\u884c\u304f\u305e\u3001\u307f\u3093\u306a\uff01",
     "romaji": "Iku zo, minna!",
     "english": "Let's go, everyone!",
     "game": "Kingdom Hearts series (JP dub)",
     "character": "Sora",
     "id": 108,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "負ける気がしない",
+    "japanese": "\u8ca0\u3051\u308b\u6c17\u304c\u3057\u306a\u3044",
     "romaji": "Makeru ki ga shinai",
     "english": "I don't feel like I can lose.",
     "game": "Street Fighter series",
     "character": "Ryu",
     "id": 109,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "冒険の始まりだ！",
+    "japanese": "\u5192\u967a\u306e\u59cb\u307e\u308a\u3060\uff01",
     "romaji": "Bouken no hajimari da!",
     "english": "This is the beginning of the adventure!",
     "game": "Dragon Quest XI",
     "character": "Hero / party lines",
     "id": 110,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "ここからが本番だ",
+    "japanese": "\u3053\u3053\u304b\u3089\u304c\u672c\u756a\u3060",
     "romaji": "Koko kara ga honban da",
     "english": "The real challenge starts now.",
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 111,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "次はもっと強くなる",
+    "japanese": "\u6b21\u306f\u3082\u3063\u3068\u5f37\u304f\u306a\u308b",
     "romaji": "Tsugi wa motto tsuyoku naru",
     "english": "Next time, I'll be stronger.",
     "game": "Pokemon series",
     "character": "Rival characters",
     "id": 112,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "運命なんて、変えてみせる！",
+    "japanese": "\u904b\u547d\u306a\u3093\u3066\u3001\u5909\u3048\u3066\u307f\u305b\u308b\uff01",
     "romaji": "Unmei nante, kaete miseru!",
     "english": "I'll change destiny!",
     "game": "Final Fantasy Type-0",
     "character": "Class Zero",
     "id": 113,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "生きるってのは、戦うってことだ",
+    "japanese": "\u751f\u304d\u308b\u3063\u3066\u306e\u306f\u3001\u6226\u3046\u3063\u3066\u3053\u3068\u3060",
     "romaji": "Ikiru tte no wa, tatakau tte koto da",
     "english": "To live is to fight.",
     "game": "Yakuza: Like a Dragon",
     "character": "Ichiban Kasuga",
     "id": 114,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "この戦い、負けられない！",
+    "japanese": "\u3053\u306e\u6226\u3044\u3001\u8ca0\u3051\u3089\u308c\u306a\u3044\uff01",
     "romaji": "Kono tatakai, makerarenai!",
     "english": "I can't lose this fight!",
     "game": "Fire Emblem series",
     "character": "Various protagonists",
     "id": 115,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "それもまた一興",
+    "japanese": "\u305d\u308c\u3082\u307e\u305f\u4e00\u8208",
     "romaji": "Sore mo mata ikkyo",
     "english": "That too has its charm.",
     "game": "Onimusha series",
     "character": "Nobunaga Oda",
     "id": 116,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "世界を救うって、そういうことだろ？",
+    "japanese": "\u4e16\u754c\u3092\u6551\u3046\u3063\u3066\u3001\u305d\u3046\u3044\u3046\u3053\u3068\u3060\u308d\uff1f",
     "romaji": "Sekai o sukuu tte, sou iu koto daro?",
     "english": "Saving the world means doing this, right?",
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 117,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "風が、来る！",
+    "japanese": "\u98a8\u304c\u3001\u6765\u308b\uff01",
     "romaji": "Kaze ga, kuru!",
     "english": "The wind is coming!",
     "game": "The Legend of Zelda: Breath of the Wild (JP)",
     "character": "Revali",
     "id": 118,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "俺たちの物語は、ここからだ",
+    "japanese": "\u4ffa\u305f\u3061\u306e\u7269\u8a9e\u306f\u3001\u3053\u3053\u304b\u3089\u3060",
     "romaji": "Oretachi no monogatari wa, koko kara da",
     "english": "Our story starts here.",
     "game": "Tales series",
     "character": "Various endings",
     "id": 119,
     "issued": false,
-    "completed": true
+    "completed": false
   },
   {
-    "japanese": "勝つと思うな、思えば負けよ",
+    "japanese": "\u52dd\u3064\u3068\u601d\u3046\u306a\u3001\u601d\u3048\u3070\u8ca0\u3051\u3088",
     "romaji": "Katsu to omou na, omoeba makeyo",
     "english": "If you only think of winning, you lose.",
     "game": "Samurai game proverb line",
     "character": "Musashi reference",
     "id": 120,
     "issued": false,
-    "completed": true
+    "completed": false
   }
 ]
